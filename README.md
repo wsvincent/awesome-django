@@ -14,7 +14,7 @@
 - [Books](#books)
 - [Videos](#videos)
 
----
+
 ## Resources
 
 ### Official Resources
@@ -60,8 +60,8 @@
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
 ## Books
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11/)
 - [Django for Beginners: Learn web development with Django 2.0](https://leanpub.com/djangoforbeginners)
+- [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11/)
 - [Build Your First Website with Python and Django 1.11](https://www.amazon.com/Build-First-Website-Python-Django/dp/0994616856)
 - [Django RESTful Web Services](https://www.amazon.com/dp/1788833929)
 - [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707)
