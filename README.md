@@ -12,8 +12,8 @@
   - [Starter Projects](#starter-projects)
 - [Third-Party Packages](#third-party-packages)
 - [Django Rest Framework](#django-rest-framework)
-  - [Resources](#resources)
-  - [Tutorials](#tutorials)
+  - [Resources](#drf-resources)
+  - [Tutorials](#drf-tutorials)
   - [Starter Projects](#drf-starter-projects)
 - [Books](#books)
 - [Videos](#videos)
@@ -66,11 +66,11 @@
 ## Django Rest Framework
 > DRF is so important that it is worthy of its own section if not complete awesome-style repo
 
-### Resources
+### DRF Resources
 - [Official Documentation](http://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
 
-### Tutorials
+### DRF Tutorials
 - [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 - [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
 - [Django Polls API Tutorial](https://wsvincent.com/django-polls-tutorial-api/)
