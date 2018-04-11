@@ -11,6 +11,10 @@
   - [External Resources](#external-resources)
   - [Starter Projects](#starter-projects)
 - [Third-Party Packages](#third-party-packages)
+- [Django Rest Framework](#django-rest-framework)
+  - [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Starter Projects](#drf-starter-projects)
 - [Books](#books)
 - [Videos](#videos)
 
@@ -59,12 +63,33 @@
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
+## Django Rest Framework
+> DRF is so important that it is worthy of its own section if not complete awesome-style repo
+
+### Resources
+- [Official Documentation](http://www.django-rest-framework.org/)
+- [DRF Source Code](https://github.com/encode/django-rest-framework)
+
+### Tutorials
+- [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
+- [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
+- [Django Polls API Tutorial](https://wsvincent.com/django-polls-tutorial-api/)
+- [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
+- [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
+- [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
+- [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
+- [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+
+### DRF Starter Projects
+- [DRFx](https://github.com/wsvincent/drfx)
+
+
 ## Books
 - [Django for Beginners: Learn web development with Django 2.0](https://leanpub.com/djangoforbeginners)
 - [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11/)
 - [Build Your First Website with Python and Django 1.11](https://www.amazon.com/Build-First-Website-Python-Django/dp/0994616856)
-- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929)
 - [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707)
+- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929)
 
 ## Videos
 - [Treehouse](https://teamtreehouse.com/tracks/learn-django)
