@@ -13,7 +13,8 @@
 - [Third-Party Packages](#third-party-packages)
 - [Django Rest Framework](#django-rest-framework)
   - [Resources](#drf-resources)
-  - [Tutorials](#drf-tutorials)
+  - [General Tutorials](#drf-tutorials)
+  - [DRF and React Tutorials](#drf-and-react-tutorials)
   - [Starter Projects](#drf-starter-projects)
 - [Books](#books)
 - [Videos](#videos)
@@ -64,7 +65,7 @@
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
 ## Django Rest Framework
-> DRF is so important that it is worthy of its own section if not complete awesome-style repo
+> DRF is how we build APIs with Django. It's amazing.
 
 ### DRF Resources
 - [Official Documentation](http://www.django-rest-framework.org/)
@@ -77,8 +78,11 @@
 - [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
 - [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
 - [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
+
+### DRF and React Tutorials
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+- [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
 
 ### DRF Starter Projects
 - [DRFx](https://github.com/wsvincent/drfx)
