@@ -10,6 +10,7 @@
   - [General Tutorials](#general-tutorials)
   - [External Resources](#external-resources)
   - [Starter Projects](#starter-projects)
+  - [Example Apps](#example-apps)
 - [Third-Party Packages](#third-party-packages)
 - [Django Rest Framework](#django-rest-framework)
   - [Resources](#drf-resources)
@@ -47,6 +48,12 @@
 - [djangox](https://github.com/wsvincent/djangox)
 - [edge](https://github.com/arocks/edge)
 - [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap)
+
+### Example Apps
+- [Hello, World app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app)
+- [Message Board app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app)
+- [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
+- [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 
 ## Third-Party Packages
 > For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)
