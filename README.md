@@ -97,7 +97,6 @@
 
 * [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 * [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-* [Django Polls API Tutorial](https://wsvincent.com/django-polls-tutorial-api/)
 * [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
 * [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
 * [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
@@ -114,7 +113,9 @@
 
 ### DRF Example Apps
 
-* [ECGC](https://github.com/flowerncsu/ecgc-2017)
+* [DRF Polls](https://github.com/wsvincent/drf-polls) - API of the official Django polls tutorial
+* [DRF Blog](https://github.com/wsvincent/drf-blog-api) - basic Blog API
+* [ECGC](https://github.com/flowerncsu/ecgc-2017) - example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
 
 ## Books
 
