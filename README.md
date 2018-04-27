@@ -33,10 +33,10 @@
 
 ### General Tutorials
 
-* [Django for Beginners](https://djangoforbeginners.com/)
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
-* [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
+* [Django for Beginners](https://djangoforbeginners.com/) - Build 4 apps from scratch: Hello World, Pages, Message Board, and Blog with user auth
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use FBVs to build a blog app
+* [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 
 ### External Resources
 
@@ -48,10 +48,10 @@
 
 ### Starter Projects
 
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)
-* [djangox](https://github.com/wsvincent/djangox)
-* [edge](https://github.com/arocks/edge)
-* [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap)
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - very complete and deployment-ready
+* [djangox](https://github.com/wsvincent/djangox) - complete user auth with email/password, pipenv, and more
+* [edge](https://github.com/arocks/edge) - user auth and 12-factor recommended security
+* [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - example of new project with django-allauth
 
 ### Example Apps: Beginner
 
