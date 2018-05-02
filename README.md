@@ -72,21 +72,27 @@
 > For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)
 
 * [django-allauth](https://github.com/pennersr/django-allauth/) - User registration, social authentication, account management, and more.
-* [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file.
+* [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocomplete to any Django model
+* [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
 * [dj-database-url](https://github.com/kennethreitz/dj-database-url/) - Use database URLs in a Django application
 * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 * [django-environ](https://github.com/joke2k/django-environ) - Environment variables
-* [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions for Django
+* [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions for Django, notably `runserver_plus` and `shell_plus`
+* [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 * [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 * [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 * [django-registration](https://github.com/macropin/django-registration/) - User registration
 * [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
+* [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
+* [django-tables2](https://github.com/jieter/django-tables2) - Simpler HTML tables
+* [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Easy thumbnails for Django
+* [wagtail](https://github.com/wagtail/wagtail) - Very popular Django content management system (CMS)
 * [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
 ## Django Rest Framework
 
-> DRF is how we build APIs with Django. It's amazing.
+> The most popular way to build web APIs with Django.
 
 ### DRF Resources
 
