@@ -112,6 +112,7 @@
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 * [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 * [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
+* [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 * [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 * [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 * [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
