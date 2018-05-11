@@ -33,7 +33,7 @@
 
 ### General Tutorials
 
-* [Django for Beginners](https://djangoforbeginners.com/) - Build 4 apps from scratch: Hello World, Pages, Message Board, and Blog with user auth
+* [Django for Beginners](https://djangoforbeginners.com/) - Build 3 apps from scratch: Hello World, Pages, and Message Board
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use FBVs to build a blog app
 * [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
