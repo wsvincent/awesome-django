@@ -60,6 +60,7 @@
 * [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
 * [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 * [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
+* [Pythonbangla.com Youtube Videos in Playlist](https://github.com/mahmudahsan/pythonbangla.com)
 
 ### Example Apps: Advanced
 
