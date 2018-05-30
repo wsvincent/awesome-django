@@ -137,11 +137,6 @@
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
 * [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
 
-### Free online books
-* [Building APIs with Django and Django Rest Framework](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-* [Django Projects Cookbook](https://books.agiliq.com/projects/djenofdjango/en/latest/)
-* [Django ORM Cookbook](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/index.html)
-* [Django Admin Cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/)
 
 ## Videos
 
