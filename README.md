@@ -78,6 +78,7 @@
 
 ### DRF Tutorials
 
+* [Official REST Framework - A Beginner's Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
 * [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 * [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
 * [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
