@@ -12,7 +12,7 @@
   * [Starter Projects](#starter-projects)
   * [Example Apps: Beginner](#example-apps-beginner)
   * [Example Apps: Advanced](#example-app-advanced)
-* [Django Rest Framework](#django-rest-framework)
+* [Django REST Framework](#django-REST-framework)
   * [Resources](#drf-resources)
   * [General Tutorials](#drf-tutorials)
   * [DRF and React Tutorials](#drf-and-react-tutorials)
@@ -42,7 +42,7 @@
 
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
 * [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
-* [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django Rest Framework.
+* [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 * [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
 
