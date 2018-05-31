@@ -132,6 +132,7 @@
 * [Django for Beginners: Learn web development with Django 2.0](https://djangoforbeginners.com/)
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
+* [Building Django 2.0 Web Applications](https://www.amazon.com/dp/B079DW6TRJ/?tag=wsvincent-20)
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11/)
 * [Build Your First Website with Python and Django 1.11](https://www.amazon.com/Build-First-Website-Python-Django/dp/0994616856/?tag=wsvincent-20)
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
