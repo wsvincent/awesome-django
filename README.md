@@ -12,7 +12,7 @@
   * [Starter Projects](#starter-projects)
   * [Example Apps: Beginner](#example-apps-beginner)
   * [Example Apps: Advanced](#example-app-advanced)
-* [Django REST Framework](#django-REST-framework)
+* [Django REST Framework](#django-rest-framework)
   * [Resources](#drf-resources)
   * [General Tutorials](#drf-tutorials)
   * [DRF and React Tutorials](#drf-and-react-tutorials)
