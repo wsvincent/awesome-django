@@ -67,7 +67,7 @@
 * [django-oscar](https://github.com/django-oscar/django-oscar) - e-commerce for Django
 * [django-cms](https://github.com/divio/django-cms) - CMS for Django
 
-## Django Rest Framework
+## Django REST Framework
 
 > The most popular way to build web APIs with Django.
 
