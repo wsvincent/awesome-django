@@ -115,6 +115,7 @@
 * [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 * [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 * [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
+* [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 * [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 * [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 * [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
