@@ -118,6 +118,7 @@
 * [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 * [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 * [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
+* [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 * [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 * [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 * [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
