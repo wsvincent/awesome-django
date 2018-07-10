@@ -34,7 +34,7 @@
 ### General Tutorials
 
 * [Django for Beginners](https://djangoforbeginners.com/) - Build 3 apps from scratch: Hello World, Pages, and Message Board
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use FBVs to build a blog app
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app
 * [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 * [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
@@ -49,10 +49,10 @@
 
 ### Starter Projects
 
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - very complete and deployment-ready
-* [djangox](https://github.com/wsvincent/djangox) - complete user auth with email/password, pipenv, and more
-* [edge](https://github.com/arocks/edge) - user auth and 12-factor recommended security
-* [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - example of new project with django-allauth
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Very complete and deployment-ready
+* [djangox](https://github.com/wsvincent/djangox) - Complete user auth with email/password, pipenv, and more
+* [edge](https://github.com/arocks/edge) - User auth and 12-factor recommended security
+* [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Example of new project with django-allauth
 
 ### Example Apps: Beginner
 
@@ -64,8 +64,8 @@
 
 ### Example Apps: Advanced
 
-* [Zulip](https://github.com/zulip/zulip) - open-source team chat
-* [django-oscar](https://github.com/django-oscar/django-oscar) - e-commerce for Django
+* [Zulip](https://github.com/zulip/zulip) - Open-source team chat
+* [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
 * [django-cms](https://github.com/divio/django-cms) - CMS for Django
 
 ## Django REST Framework
@@ -99,8 +99,8 @@
 ### DRF Example Apps
 
 * [DRF Polls](https://github.com/wsvincent/drf-polls) - API of the official Django polls tutorial
-* [DRF Blog](https://github.com/wsvincent/drf-blog-api) - basic Blog API
-* [ECGC](https://github.com/flowerncsu/ecgc-2017) - example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
+* [DRF Blog](https://github.com/wsvincent/drf-blog-api) - Basic Blog API
+* [ECGC](https://github.com/flowerncsu/ecgc-2017) - Example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
 
 ## Third-Party Packages
 
@@ -134,7 +134,7 @@
 
 ## Books
 
-* [Django for Beginners: Learn web development with Django 2.0](https://wsvincent.com/books/)
+* [Django for Beginners: Build websites with Python and Django](https://wsvincent.com/books/)
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
 * [Building Django 2.0 Web Applications](https://www.amazon.com/dp/B079DW6TRJ/?tag=wsvincent-20)
