@@ -137,10 +137,10 @@
 > Django 2.1
 
 * [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
+* [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
 
 > Django 2.0
 
-* [REST APIs with Django](https://restapiswithdjango.com/)
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
 * [Building Django 2.0 Web Applications](https://www.amazon.com/dp/B079DW6TRJ/?tag=wsvincent-20)
