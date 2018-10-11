@@ -129,7 +129,7 @@
 
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
 * [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
-* [django-rest-framework-jwt](https://github.com/GetBlimp/django-rest-framework-jwt) - JSON web tokens for DRF
+* [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - API document generator for Swagger UI
 
 ## Books
