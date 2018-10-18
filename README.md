@@ -64,6 +64,7 @@
 
 ### Example Apps: Advanced
 
+* [wagtail](https://github.com/wagtail/wagtail) - Very popular Django-based content management system
 * [Zulip](https://github.com/zulip/zulip) - Open-source team chat
 * [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
 * [django-cms](https://github.com/divio/django-cms) - CMS for Django
