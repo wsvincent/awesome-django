@@ -68,6 +68,7 @@
 * [Zulip](https://github.com/zulip/zulip) - Open-source team chat
 * [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
 * [django-cms](https://github.com/divio/django-cms) - CMS for Django
+* [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
 
 ## Django REST Framework
 
