@@ -49,10 +49,9 @@
 
 ### Starter Projects
 
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Very complete and deployment-ready
-* [djangox](https://github.com/wsvincent/djangox) - Complete user auth with email/password, pipenv, and more
-* [edge](https://github.com/arocks/edge) - User auth and 12-factor recommended security
-* [demo-allauth-bootstrap](https://github.com/aellerton/demo-allauth-bootstrap) - Example of new project with django-allauth
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A full-bodied starter project, highly customizable.
+* [djangox](https://github.com/wsvincent/djangox) - Comes with complete user registration, email/password, Pipenv, and more.
+* [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately simple project that has multiple staging environments and Heroku deployment config.
 
 ### Example Apps: Beginner
 
