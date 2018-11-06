@@ -139,6 +139,7 @@
 
 * [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 * [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
+* [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
 
 > Django 2.0
 
