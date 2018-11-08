@@ -78,6 +78,7 @@
 * [Why Docker?](https://wsvincent.com/django-tips-docker/)
 * [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
 * [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
+* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx)
 
 ## Django REST Framework
 
