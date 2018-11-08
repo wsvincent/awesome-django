@@ -190,7 +190,7 @@
 
 ---
 
-> Some links contain affiliate codes which helps me justify the time to keep this up-to-date.
+> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
 
 ### License
 
