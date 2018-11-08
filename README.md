@@ -12,6 +12,7 @@
   * [Starter Projects](#starter-projects)
   * [Example Apps: Beginner](#example-apps-beginner)
   * [Example Apps: Advanced](#example-app-advanced)
+  * [Docker](#docker)
 * [Django REST Framework](#django-rest-framework)
   * [Resources](#drf-resources)
   * [General Tutorials](#drf-tutorials)
@@ -70,6 +71,13 @@
 * [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
 * [django-cms](https://github.com/divio/django-cms) - CMS for Django
 * [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
+
+### Docker
+> Docker is commonly used to work with production-level databases locally like PostgreSQL or MySQL.
+
+* [Why Docker?](https://wsvincent.com/django-tips-docker/)
+* [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
+* [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
 
 ## Django REST Framework
 
