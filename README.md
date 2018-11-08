@@ -1,6 +1,6 @@
 # Awesome Django
 
-> A curated list of awesome things related to Django
+> A curated list of awesome things related to Django. Note that some links may contain affiliate links which help me justify the time to keep this up-to-date.
 
 ## Table of Contents
 
@@ -21,6 +21,8 @@
 * [Third-Party Packages](#third-party-packages)
 * [Books](#books)
 * [Videos](#videos)
+  - [Free](#free)
+  - [Paid](#paid)
 
 ## Resources
 
@@ -158,9 +160,24 @@
 
 ## Videos
 
+### Free
+
+* [Django 2.1 Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
+* [Django 2.0 Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+* [Django Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
+* [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
+* [Django 1.9 Web Development by Harrison Kinsley](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
+* [Effective Django (2013)](https://youtu.be/NfsJDPm0X54)
+
+
+### Paid
+* [GoDjango](https://godjango.com/)
 * [Treehouse](https://teamtreehouse.com/tracks/learn-django)
 * [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/)
-* [GoDjango](https://godjango.com/)
+* Udemy:
+  - [Django 2 & Python](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
+  - [Python Django Dev to Deployment](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F)
+  - [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
 
 ---
 
