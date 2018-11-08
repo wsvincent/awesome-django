@@ -1,6 +1,6 @@
 # Awesome Django
 
-> A curated list of awesome things related to Django. Note that some links may contain affiliate links which help me justify the time to keep this up-to-date.
+> A curated list of awesome things related to Django.
 
 ## Table of Contents
 
@@ -180,6 +180,8 @@
   - [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
 
 ---
+
+> Some links contain affiliate codes which helps me justify the time to keep this up-to-date.
 
 ### License
 
