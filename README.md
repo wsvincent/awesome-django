@@ -8,6 +8,7 @@
 * [Resources](#resources)
   * [Official Resources](#official-resources)
   * [General Tutorials](#general-tutorials)
+  * [Deployment Tutorials](#deployment-tutorials)
   * [External Resources](#external-resources)
   * [Starter Projects](#starter-projects)
   * [Example Apps: Beginner](#example-apps-beginner)
@@ -41,6 +42,10 @@
 * [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 * [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
+
+
+### Deployment Tutorials
+* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/storing-django-static-and-media-files-on-amazon-s3)
 
 ### External Resources
 
