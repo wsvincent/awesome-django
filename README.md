@@ -186,8 +186,8 @@
 
 
 ### Paid
+* [Build your first website with Django 2](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd)
 * [GoDjango](https://godjango.com/)
-* [Treehouse](https://teamtreehouse.com/tracks/learn-django)
 * [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/)
 * Udemy:
   - [Django 2 & Python](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
