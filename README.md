@@ -167,7 +167,6 @@
 > Django 1.11
 
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/?tag=wsvincent-20)
-* [Build Your First Website with Python and Django 1.11](https://www.amazon.com/Build-First-Website-Python-Django/dp/0994616856/?tag=wsvincent-20)
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
 
 
