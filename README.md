@@ -80,9 +80,10 @@
 ### Docker
 > Docker is commonly used to work with production-level databases locally like PostgreSQL or MySQL.
 
-* [Why Docker?](https://wsvincent.com/django-tips-docker/)
-* [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
+* [A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
 * [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
+* [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
+* [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
 * [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx)
 
 ## Django REST Framework
