@@ -185,7 +185,6 @@
 
 
 ### Paid
-* [Build your first website with Django 2](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd)
 * [GoDjango](https://godjango.com/)
 * [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/)
 * Udemy:
