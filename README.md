@@ -68,7 +68,7 @@
 * [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
 * [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 * [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
-* [Image Sharing Blow](https://github.com/MeNsaaH/soMedia)
+* [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 
 ### Example Apps: Advanced
 
