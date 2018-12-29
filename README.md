@@ -43,9 +43,12 @@
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 * [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
 
-
 ### Deployment Tutorials
-* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/storing-django-static-and-media-files-on-amazon-s3)
+* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
+
+### Advanced Tutorials
+
+* [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
 
 ### External Resources
 
@@ -84,7 +87,7 @@
 * [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
 * [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
 * [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
-* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx)
+* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
 
 ## Django REST Framework
 
@@ -150,13 +153,14 @@
 * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - API document generator for Swagger UI
 
-## Books
+## Books and Courses
 
 > Django 2.1
 
 * [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 * [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
 * [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
+* [Developing a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
 
 > Django 2.0
 
