@@ -192,12 +192,13 @@
 
 
 ### Paid
-* [GoDjango](https://godjango.com/)
-* [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/)
+* [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd) - Covers how to build/deploy a new Django website and core concepts like models, apps, templates, views, and more. Highly recommended.
+* [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) - Multiple up-to-date courses including on e-commerce and REST APIs.
 * Udemy:
   - [Django 2 & Python](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
   - [Python Django Dev to Deployment](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F)
   - [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
+* [GoDjango](https://godjango.com/) - Great resource but last updated in 2016.
 
 ---
 
