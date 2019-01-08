@@ -184,6 +184,7 @@
 
 * [Django 2.1 Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
 * [Build a Startup with Django 2.1 by CSDojo](https://youtu.be/UyQn0BhVqNU)
+* [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 * [Django 2.0 Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 * [Django 1.11 Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
 * [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
@@ -202,7 +203,7 @@
 
 ---
 
-> Some links to paid content contain affiliate codes. This modest income helps me justify the time to keep this list up-to-date.
+> Some links contain affiliate codes. This modest income helps me justify the time to keep this list up-to-date.
 
 ### License
 
