@@ -45,7 +45,12 @@
 
 
 ### Deployment Tutorials
-* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/storing-django-static-and-media-files-on-amazon-s3)
+
+* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
+
+### Advanced Tutorials
+
+* [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
 
 ### External Resources
 
@@ -84,7 +89,7 @@
 * [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
 * [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
 * [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
-* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx)
+* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
 
 ## Django REST Framework
 
@@ -150,7 +155,7 @@
 * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - API document generator for Swagger UI
 
-## Books
+## Books and Courses
 
 > Django 2.1
 
