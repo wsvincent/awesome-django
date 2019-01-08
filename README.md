@@ -201,7 +201,7 @@
 
 ---
 
-> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
+> Some links to paid content contain affiliate codes. This modest income helps me justify the time to keep this list up-to-date.
 
 ### License
 
