@@ -11,6 +11,7 @@
   * [Conferences](#conferences)
   * [Meetups](#meetups)
   * [Podcasts](#podcasts)
+  * [YouTube Channels](#youtube-channels)
   * [General Tutorials](#general-tutorials)
   * [Deployment Tutorials](#deployment-tutorials)
   * [External Resources](#external-resources)
@@ -59,6 +60,9 @@
 * [DjangoCon US](https://2019.djangocon.us/)
 * [DjangoCon Europe](https://2019.djangocon.eu/)
 * [DjangoCon Australia](https://2018.djangocon.com.au/)
+* [PyCon US](https://us.pycon.org/2019/)
+* [Euro Python](https://ep2019.europython.eu/)
+* [Complete listing of all PyCons globally](https://www.pycon.org/)
 
 ### Meetups
 * [Meetups](https://www.meetup.com/topics/django/all/) - 400+ Meetup groups in 65 countries.
@@ -66,6 +70,13 @@
 ### Podcasts
 * [TalkPython](https://talkpython.fm/)
 * [Podcast Init](https://www.podcastinit.com/)
+
+### YouTube Channels
+* [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
+* [DjangoCon Europe](https://www.youtube.com/user/djangoconeurope)
+* [PyCon US](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
+* [EuroPython](https://www.youtube.com/user/PythonItalia)
+* [PyCon Australia](https://www.youtube.com/user/PyConAU)
 
 ### General Tutorials
 
