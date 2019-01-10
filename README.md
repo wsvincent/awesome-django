@@ -54,6 +54,7 @@
 
 ### External Resources
 
+* [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
 * [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
 * [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
