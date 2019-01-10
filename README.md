@@ -7,6 +7,7 @@
 * [Table of Contents](#table-of-contents)
 * [Resources](#resources)
   * [Official Resources](#official-resources)
+  * [Community](#community)
   * [General Tutorials](#general-tutorials)
   * [Deployment Tutorials](#deployment-tutorials)
   * [External Resources](#external-resources)
@@ -35,6 +36,22 @@
 * [Django Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
 * [Django Source Code](https://github.com/django/django)
 
+### External Resources
+
+* [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
+* [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
+* [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
+* [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
+* [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
+* [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
+
+
+### Community
+* [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
+* [Django Developers Google Group](https://groups.google.com/forum/#!forum/django-developers) - For contributions to Django itself only.
+* [Django IRC Channel](irc://irc.freenode.net/django) - Chat with other Django users.
+* [Twitter](https://twitter.com/djangoproject) - For official announcements on updates, security fixes, etc.
+
 ### General Tutorials
 
 * [Django for Beginners](https://djangoforbeginners.com/) - Build 3 apps from scratch: Hello World, Pages, and Message Board
@@ -52,14 +69,7 @@
 
 * [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
 
-### External Resources
 
-* [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
-* [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
-* [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
-* [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
-* [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
-* [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
 
 ### Starter Projects
 
