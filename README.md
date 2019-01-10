@@ -1,10 +1,8 @@
 <div align="center">
-  <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <br /><br /><br />
+  <br /><br />
   <img width="400" src="django-logo.svg" alt="Django logo">
 </div>
-
 
 # Awesome Django
 
