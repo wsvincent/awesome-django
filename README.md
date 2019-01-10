@@ -8,6 +8,8 @@
 * [Resources](#resources)
   * [Official Resources](#official-resources)
   * [Community](#community)
+  * [Conferences](#conferences)
+  * [Meetups](#meetups)
   * [General Tutorials](#general-tutorials)
   * [Deployment Tutorials](#deployment-tutorials)
   * [External Resources](#external-resources)
@@ -52,11 +54,19 @@
 * [Django IRC Channel](irc://irc.freenode.net/django) - Chat with other Django users.
 * [Twitter](https://twitter.com/djangoproject) - For official announcements on updates, security fixes, etc.
 
+### Conferences
+* [DjangoCon US](https://2019.djangocon.us/)
+* [DjangoCon Europe](https://2019.djangocon.eu/)
+* [DjangoCon Australia](https://2018.djangocon.com.au/)
+
+### Meetups
+* [Meetups](https://www.meetup.com/topics/django/all/) - 400+ Meetup groups in 65 countries.
+
 ### General Tutorials
 
-* [Django for Beginners](https://djangoforbeginners.com/) - Build 3 apps from scratch: Hello World, Pages, and Message Board
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app
-* [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
+* [Django for Beginners](https://djangoforbeginners.com/) - Use class-based views to build three apps of increasing complexity (part of a full-length book).
+* [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
 * [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 * [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
 
