@@ -13,20 +13,20 @@
   * [Meetups](#meetups)
   * [Podcasts](#podcasts)
   * [YouTube Channels](#youtube-channels)
-  * [General Tutorials](#general-tutorials)
-  * [Deployment Tutorials](#deployment-tutorials)
-  * [Starter Projects](#starter-projects)
-  * [Example Apps: Beginner](#example-apps-beginner)
-  * [Example Apps: Advanced](#example-app-advanced)
+* [Third-Party Packages](#third-party-packages)
+* [Tutorials](#tutorials)
+  * [Beginner](#beginner-tutorials)
+  * [Intermediate/Advanced](#intermediate-advanced)
   * [Docker](#docker)
+* [Boilerplate](#boilerplate)
+* [Open Source Apps](#open-source-apps)
+* [Open Source Projects](#open-source-projects)
 * [Django REST Framework](#django-rest-framework)
   * [Resources](#drf-resources)
-  * [General Tutorials](#drf-tutorials)
-  * [DRF and React Tutorials](#drf-and-react-tutorials)
-  * [Starter Projects](#drf-starter-projects)
-  * [Example Apps](#drf-example-apps)
-* [Third-Party Packages](#third-party-packages)
-* [Books](#books)
+  * [Tutorials](#drf-tutorials)
+  * [DRF Boilerplate](#drf-boilerplate)
+  * [Open Source Apps](#drf-open-source-apps)
+* [Books and Courses](#books-and-courses)
 * [Videos](#videos)
   - [Free](#free)
   - [Paid](#paid)
@@ -48,6 +48,8 @@
 * [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 * [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
+* [RealPython](https://realpython.com/tutorials/django/)
+* [TestDriven](https://testdriven.io/blog/)
 
 
 ### Community
@@ -78,92 +80,6 @@
 * [EuroPython](https://www.youtube.com/user/PythonItalia)
 * [PyCon Australia](https://www.youtube.com/user/PyConAU)
 
-### General Tutorials
-
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
-* [Django for Beginners](https://djangoforbeginners.com/) - Use class-based views to build three apps of increasing complexity (part of a full-length book).
-* [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
-* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
-* [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
-
-
-### Deployment Tutorials
-
-* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
-
-### Advanced Tutorials
-
-* [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
-
-
-
-### Starter Projects
-
-* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A full-bodied starter project, highly customizable.
-* [djangox](https://github.com/wsvincent/djangox) - Comes with complete user registration, email/password, Pipenv, and more.
-* [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately simple project that has multiple staging environments and Heroku deployment config.
-
-### Example Apps: Beginner
-
-* [Hello, World app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app)
-* [Message Board app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app)
-* [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
-* [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
-* [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
-* [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
-
-### Example Apps: Advanced
-
-* [wagtail](https://github.com/wagtail/wagtail) - Very popular Django-based content management system
-* [Zulip](https://github.com/zulip/zulip) - Open-source team chat
-* [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
-* [django-cms](https://github.com/divio/django-cms) - CMS for Django
-* [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
-
-### Docker
-> Docker is commonly used to work with production-level databases locally like PostgreSQL or MySQL.
-
-* [A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
-* [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
-* [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
-* [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
-* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
-
-## Django REST Framework
-
-> The most popular way to build web APIs with Django.
-
-### DRF Resources
-
-* [Official Documentation](http://www.django-rest-framework.org/)
-* [DRF Source Code](https://github.com/encode/django-rest-framework)
-* [DRF](https://github.com/nioperas06/awesome-django-rest-framework)
-
-### DRF Tutorials
-
-* [Official REST Framework - A Beginner's Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
-* [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
-* [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-* [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
-* [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
-* [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
-
-### DRF and React Tutorials
-
-* [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
-* [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
-* [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
-
-### DRF Starter Projects
-
-* [DRFx](https://github.com/wsvincent/drfx)
-
-### DRF Example Apps
-
-* [DRF Polls](https://github.com/wsvincent/drf-polls) - API of the official Django polls tutorial
-* [DRF Blog](https://github.com/wsvincent/drf-blog-api) - Basic Blog API
-* [ECGC](https://github.com/flowerncsu/ecgc-2017) - Example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
-
 ## Third-Party Packages
 
 > For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)
@@ -187,12 +103,94 @@
 * [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 * [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
-> Django Rest Framework specific packages
+> Django REST Framework specific packages
 
 * [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
 * [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
 * [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 * [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - API document generator for Swagger UI
+
+## Tutorials
+
+### Beginner Tutorials
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
+* [Django for Beginners](https://djangoforbeginners.com/) - Use class-based views to build three apps of increasing complexity (part of a full-length book).
+* [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
+* [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
+* [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
+
+### Intermediate/Advanced Tutorials
+* [Django Stripe Tutorial](https://testdriven.io/blog/django-stripe-tutorial/)
+* [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
+* [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
+
+### Docker Tutorials
+> Docker is commonly used to work with production-level databases locally like PostgreSQL or MySQL.
+
+* [A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
+* [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
+* [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
+* [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
+* [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
+
+## Boilerplate
+
+* [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A full-bodied starter project, highly customizable.
+* [djangox](https://github.com/wsvincent/djangox) - Comes with complete user registration, email/password, Pipenv, and more.
+* [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+
+## Open Source Apps
+
+* [Hello, World app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app)
+* [Message Board app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app)
+* [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
+* [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
+* [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
+* [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
+
+## Open Source Projects
+
+* [wagtail](https://github.com/wagtail/wagtail) - Very popular Django-based content management system
+* [Zulip](https://github.com/zulip/zulip) - Open-source team chat
+* [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
+* [django-cms](https://github.com/divio/django-cms) - CMS for Django
+* [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
+
+
+## Django REST Framework
+
+> The most popular way to build web APIs with Django.
+
+### DRF Resources
+
+* [Official Documentation](http://www.django-rest-framework.org/)
+* [DRF Source Code](https://github.com/encode/django-rest-framework)
+* [DRF](https://github.com/nioperas06/awesome-django-rest-framework)
+
+### DRF Tutorials
+
+* [Official REST Framework - A Beginner's Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
+* [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
+* [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
+* [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
+* [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
+* [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
+
+> Tutorials using React front-end.
+
+* [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
+* [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+* [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
+
+### DRF Boilerplate
+
+* [DRFx](https://github.com/wsvincent/drfx)
+
+### DRF Open Source Apps
+
+* [DRF Polls](https://github.com/wsvincent/drf-polls) - API of the official Django polls tutorial
+* [DRF Blog](https://github.com/wsvincent/drf-blog-api) - Basic Blog API
+* [ECGC](https://github.com/flowerncsu/ecgc-2017) - Example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
 
 ## Books and Courses
 
@@ -214,8 +212,6 @@
 
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/?tag=wsvincent-20)
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
-
-
 
 ## Videos
 
