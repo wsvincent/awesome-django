@@ -1,17 +1,17 @@
-<p align="center">
-  <br>
-  <img width="400" src="./logo.svg" alt="logo of awesome-django repository">
-  <br>
-  <br>
-</p>
+<div align="center">
+  <br /><br />
+  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <br /><br /><br />
+  <img width="400" src="django-logo.svg" alt="Django logo">
+</div>
 
-# Awesome Django [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# Awesome Django
 
 > A curated list of awesome things related to Django.
 
-## Table of Contents
+## Contents
 
-* [Table of Contents](#table-of-contents)
 * [Resources](#resources)
   * [Official Resources](#official-resources)
   * [External Resources](#external-resources)
