@@ -53,7 +53,7 @@
 ### Community
 * [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
 * [Django Developers Google Group](https://groups.google.com/forum/#!forum/django-developers) - For contributions to Django itself only.
-* [Django IRC Channel](irc://irc.freenode.net/django) - Chat with other Django users.
+* <a href="irc://irc.freenode.net/django">Django IRC Channel</a> - Chat with other Django users at 
 * [Twitter](https://twitter.com/djangoproject) - For official announcements on updates, security fixes, etc.
 
 ### Conferences
