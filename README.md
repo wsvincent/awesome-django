@@ -214,6 +214,7 @@
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
 * [Building Django 2.0 Web Applications](https://www.amazon.com/dp/B079DW6TRJ/?tag=wsvincent-20)
 * [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
+* [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
 
 > Django 1.11
 
