@@ -10,6 +10,7 @@
   * [Community](#community)
   * [Conferences](#conferences)
   * [Meetups](#meetups)
+  * [Podcasts](#podcasts)
   * [General Tutorials](#general-tutorials)
   * [Deployment Tutorials](#deployment-tutorials)
   * [External Resources](#external-resources)
@@ -61,6 +62,10 @@
 
 ### Meetups
 * [Meetups](https://www.meetup.com/topics/django/all/) - 400+ Meetup groups in 65 countries.
+
+### Podcasts
+* [TalkPython](https://talkpython.fm/)
+* [Podcast Init](https://www.podcastinit.com/)
 
 ### General Tutorials
 
