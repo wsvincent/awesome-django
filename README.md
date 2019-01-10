@@ -245,7 +245,7 @@
 
 ---
 
-> Some links contain affiliate codes. This modest income helps me justify the time to keep this list up-to-date.
+> Some links contain affiliate codes which helps me justify the time to keep this list up-to-date.
 
 ### License
 
