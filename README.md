@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="400" src="./logo.svg" alt="logo of awesome-django repository">
+  <br>
+  <br>
+</p>
+
 # Awesome Django [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Django.
@@ -46,7 +53,7 @@
 * [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
 * [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 * [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
-* [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information. 
+* [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
 * [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 * [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
