@@ -214,13 +214,14 @@
 
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
-* [Building Django 2.0 Web Applications](https://www.amazon.com/dp/B079DW6TRJ/?tag=wsvincent-20)
-* [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
+* [Django 2 by Example](https://www.amazon.com/dp/1788472489/?tag=wsvincent-20)
 
 > Django 1.11
 
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/?tag=wsvincent-20)
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
+* [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
+* [Beginning Django](https://www.amazon.com/dp/1484227867/?tag=wsvincent-20)
 
 ## Videos
 
