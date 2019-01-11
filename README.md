@@ -208,6 +208,7 @@
 * [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
 * [Develop a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/?source=e4245ba649f3)
 * [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
+* [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/?tag=wsvincent-20)
 
 > Django 2.0
 
