@@ -227,29 +227,50 @@
 
 ### Free
 
-* [Django 2.1 Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
+> Django 2.1
+
+* [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
 * [Build a Startup with Django 2.1 by CSDojo](https://youtu.be/UyQn0BhVqNU)
 * [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
-* [Pretty Printed - 30 Part Series](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
-* [Django 2.0 Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-* [Django 1.11 Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
-* [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
-* [Django 1.9 Web Development by Harrison Kinsley](https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
-* [Effective Django (2013)](https://youtu.be/NfsJDPm0X54)
 
+https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5
+
+> Django 2.0
+
+* [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+* [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+* [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+
+> Django 1.11
+
+* [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
+* [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
 
 ### Paid
-* [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd) - Covers how to build/deploy a new Django website and core concepts like models, apps, templates, views, and more. Highly recommended.
-* [Coding for Entrepreneurs](https://www.codingforentrepreneurs.com/) - Multiple up-to-date courses including on e-commerce and REST APIs.
-* Udemy:
-  - [Django 2 & Python](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
-  - [Python Django Dev to Deployment](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F)
-  - [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
-* [GoDjango](https://godjango.com/) - Great resource but last updated in 2016.
+
+> Django 2.1
+
+* [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd)
+
+Covers how to build/deploy a new Django website and core concepts like models, apps, templates, views, and more. Highly recommended.
+
+* [Build a Real Estate App](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F)
+
+From Brad Traversy who has many free YouTube tutorials, build a real estate app using Postgres and deploy it.
+
+* [Ulimate Web Development Bootcamp](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
+
+Build three websites from scratch and deploy with Digital Ocean.
+
+> Django 1.11
+
+* [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
+
+A 33 hour(!) course on building an e-commerce application using Stripe and deploying with Heroku.
 
 ---
 
-> Some links contain affiliate codes which helps me justify the time to keep this list up-to-date.
+> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
 
 ### License
 
