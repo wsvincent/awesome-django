@@ -233,8 +233,6 @@
 * [Build a Startup with Django 2.1 by CSDojo](https://youtu.be/UyQn0BhVqNU)
 * [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 
-https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5
-
 > Django 2.0
 
 * [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
