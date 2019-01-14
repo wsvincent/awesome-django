@@ -143,8 +143,9 @@
 ## Boilerplate
 
 * [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A full-bodied starter project, highly customizable.
-* [djangox](https://github.com/wsvincent/djangox) - Comes with complete user registration, email/password, Pipenv, and more.
+* [djangox](https://github.com/wsvincent/djangox) - A simpler approach with complete user authentication flow, Pipenv, and more.
 * [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+* [docker-django](https://github.com/erroneousboat/docker-django) - A quick starter guide for Django and Docker together.
 
 ## Open Source Apps
 
