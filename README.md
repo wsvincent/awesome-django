@@ -230,7 +230,7 @@
 > Django 2.1
 
 * [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
-* [Build a Startup with Django 2.1 by CSDojo](https://youtu.be/UyQn0BhVqNU)
+* [Build a Startup with Django by CSDojo](https://youtu.be/UyQn0BhVqNU)
 * [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 
 > Django 2.0
