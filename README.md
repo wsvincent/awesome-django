@@ -250,21 +250,13 @@
 
 * [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd)
 
-Covers how to build/deploy a new Django website and core concepts like models, apps, templates, views, and more. Highly recommended.
-
 * [Build a Real Estate App](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F)
 
-From Brad Traversy who has many free YouTube tutorials, build a real estate app using Postgres and deploy it.
-
 * [Ulimate Web Development Bootcamp](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
-
-Build three websites from scratch and deploy with Digital Ocean.
 
 > Django 1.11
 
 * [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
-
-A 33 hour(!) course on building an e-commerce application using Stripe and deploying with Heroku.
 
 ---
 
