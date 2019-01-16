@@ -31,7 +31,6 @@
 - [Django REST Framework](#django-rest-framework)
   - [Resources](#drf-resources)
   - [Tutorials](#drf-tutorials)
-    - [React](#drf-plus-react-tutorials)
   - [DRF Boilerplate](#drf-boilerplate)
   - [Open Source Apps](#drf-open-source-apps)
 - [Books](#books)
@@ -198,9 +197,6 @@
 * [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
 * [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
 * [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
-
-### DRF Plus React Tutorials
-
 * [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 * [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
 * [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
