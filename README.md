@@ -32,9 +32,15 @@
   * [DRF Boilerplate](#drf-boilerplate)
   * [Open Source Apps](#drf-open-source-apps)
 * [Books and Courses](#books-and-courses)
+  * [2.1](#django-2.1-books)
+  * [2.0](#django-2.0-books)
+  * [1.11](#django-1.11-books)
 * [Videos](#videos)
-  - [Free](#free)
-  - [Paid](#paid)
+  * [2.1 Free](#django-2.1-free-videos)
+  * [2.1 Paid](#django-2.1-paid-videos)
+  * [2.0 Free](#django-2.0-free-videos)
+  * [1.11 Paid](#django-1.11-paid-videos)
+  * [1.11 Free](#django-1.11-free-videos)
 
 ## Resources
 
@@ -202,7 +208,7 @@
 
 ## Books and Courses
 
-> Django 2.1
+### Django 2.1 Books
 
 * [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 * [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
@@ -211,13 +217,13 @@
 * [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/)
 * [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/)
 
-> Django 2.0
+### Django 2.0 Books
 
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/)
 * [Django 2 by Example](https://www.amazon.com/dp/1788472489/)
 
-> Django 1.11
+### Django 1.11 Books
 
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/)
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/)
@@ -226,28 +232,13 @@
 
 ## Videos
 
-### Free
-
-> Django 2.1
+### Django 2.1 Free Videos
 
 * [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
 * [Build a Startup with Django by CSDojo](https://youtu.be/UyQn0BhVqNU)
 * [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 
-> Django 2.0
-
-* [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
-* [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-* [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
-
-> Django 1.11
-
-* [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
-* [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
-
-### Paid
-
-> Django 2.1
+### Django 2.1 Paid Videos
 
 * [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2)
 
@@ -257,7 +248,18 @@
 
 * [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
 
-> Django 1.11
+### Django 2.0 Free Videos
+
+* [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+* [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+* [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+
+### Django 1.11 Free Videos
+
+* [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
+* [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
+
+### Django 1.11 Paid Videos
 
 * [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
 
