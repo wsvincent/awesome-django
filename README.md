@@ -34,11 +34,10 @@
   - [DRF Boilerplate](#drf-boilerplate)
   - [Open Source Apps](#drf-open-source-apps)
 - [Books](#books)
-  - [2.1 Books](#2.1-books)
-  - [2.0 Books](#2.0-books)
-  - [1.11 Books](#1.11-books)
 - [Courses](#courses)
 - [Videos](#videos)
+  - [Free Videos](#free-videos)
+  - [Paid Videos](#paid-videos)
 
 ## Resources
 
@@ -206,7 +205,7 @@
 
 ## Books
 
-### 2.1 Books
+*Django 2.1*
 
 * [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 * [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
@@ -214,13 +213,13 @@
 * [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/)
 * [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/)
 
-### 2.0 Books
+*Django 2.0*
 
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 * [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/)
 * [Django 2 by Example](https://www.amazon.com/dp/1788472489/)
 
-### 1.11 Books
+*Django 1.11*
 
 * [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/)
 * [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/)
@@ -232,22 +231,27 @@
 
 ## Videos
 
+### Free Videos
+
+*Django 2.1*
 - [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
 - [Build a Startup with Django by CSDojo](https://youtu.be/UyQn0BhVqNU)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 
-- [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2)
-- [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/), covering APIs, data manipulation, and deployment to Heroku.
-- [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
-- [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
-
-
+*Django 2.0*
 - [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 - [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
+*Django 1.11*
 - [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
 - [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
+
+### Paid Videos
+- [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2)
+- [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/), covering APIs, data manipulation, and deployment to Heroku.
+- [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
+- [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
 
 ### License
 
