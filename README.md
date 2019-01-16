@@ -38,13 +38,7 @@
   - [2.0 Books](#2.0-books)
   - [1.11 Books](#1.11-books)
 - [Courses](#courses)
-- [Free Videos](#free-videos)
-  - [2.1](#2.1-free-videos)
-  - [2.0](#2.0-free-videos)
-  - [1.11](#1.11-free-videos)
-- [Paid Videos](#paid-videos)
-  - [2.1](#2.1-paid-videos)
-  - [1.11](#1.11-paid-videos)
+- [Videos](#videos)
 
 ## Resources
 
@@ -236,30 +230,24 @@
 ## Courses
 * [Develop a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
 
-## Free Videos
+## Videos
 
-### 2.1 Free Videos
 - [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
 - [Build a Startup with Django by CSDojo](https://youtu.be/UyQn0BhVqNU)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
-
-### 2.0 Free Videos
-
-- [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
-- [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
-
-### 1.11 Free Videos
-
-- [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
-- [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
-
-## Paid Videos
 
 - [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2)
 - [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/), covering APIs, data manipulation, and deployment to Heroku.
 - [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
 - [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
+
+
+- [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
+- [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+
+- [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
+- [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
 
 ### License
 
