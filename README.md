@@ -206,23 +206,23 @@
 
 * [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 * [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
-* [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
-* [Develop a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/?source=e4245ba649f3)
-* [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
-* [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/?tag=wsvincent-20)
+* [Build Your First Website with Django 2.1](https://djangobook.com/build-your-first-website-with-django-2-1/)
+* [Develop a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
+* [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/)
+* [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/)
 
 > Django 2.0
 
 * [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
-* [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
-* [Django 2 by Example](https://www.amazon.com/dp/1788472489/?tag=wsvincent-20)
+* [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/)
+* [Django 2 by Example](https://www.amazon.com/dp/1788472489/)
 
 > Django 1.11
 
-* [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/?tag=wsvincent-20)
-* [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
-* [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
-* [Beginning Django](https://www.amazon.com/dp/1484227867/?tag=wsvincent-20)
+* [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/)
+* [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/)
+* [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/)
+* [Beginning Django](https://www.amazon.com/dp/1484227867/)
 
 ## Videos
 
@@ -249,21 +249,17 @@
 
 > Django 2.1
 
-* [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2?ref=3474fd)
+* [Build Your First Website with Django](https://academy.masteringdjango.com/courses/build-your-first-website-with-django-2)
 
-* [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/)
+* [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/), covering APIs, data manipulation, and deployment to Heroku.
 
-* [Build a Real Estate App](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F)
+* [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
 
-* [Ulimate Web Development Bootcamp](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F)
+* [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
 
 > Django 1.11
 
 * [Build a Django eCommerce Application](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1396598&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-ecommerce-build-a-django-ecommerce-web-application%2F)
-
----
-
-> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
 
 ### License
 
