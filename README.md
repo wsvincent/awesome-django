@@ -43,30 +43,32 @@
 
 ### Official Resources
 
-- [Django Official Website](https://www.djangoproject.com/)
-- [Django Documentation](https://docs.djangoproject.com/en/dev/)
-- [Django Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
-- [Django Source Code](https://github.com/django/django)
+- [Project Website](https://www.djangoproject.com/)
+- [Documentation](https://docs.djangoproject.com/en/dev/)
+- [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
+- [Source Code](https://github.com/django/django)
 
 ### External Resources
 
 - [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
-- [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions for each generic class-based view.
+- [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
+- [Classy Django Forms](https://cdf.9vo.lt/) - Detailed descriptions of methods/properties/attributes for each form class.
+- [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
 - [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
 - [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 - [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 - [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
-- [RealPython](https://realpython.com/tutorials/django/)
-- [TestDriven](https://testdriven.io/blog/)
+- [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
+- [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
 
 ### Community
 
-- [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
-- [Django Developers Google Group](https://groups.google.com/forum/#!forum/django-developers) - For contributions to Django itself only.
-- Django IRC Channel - Chat with other Django users at irc://irc.freenode.net/django
+- [Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
+- [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers) - For contributions to Django itself only.
 - [Twitter](https://twitter.com/djangoproject) - For official announcements on updates, security fixes, etc.
+- IRC Channel - Chat with other Django users at irc://irc.freenode.net/django
 
 ### Conferences
 
