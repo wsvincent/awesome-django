@@ -179,6 +179,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
 - [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
+- [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 
 ## Django REST Framework
 
