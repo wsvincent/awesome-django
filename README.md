@@ -117,6 +117,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
+- [Dj-Models](https://pypi.org/project/DJModels/) - Use the Django ORM in any Python web framework/micro-framework.
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
