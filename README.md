@@ -11,8 +11,8 @@
 ## Contents
 
 - [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
+  - [Official](#official-resources)
+  - [External](#external-resources)
   - [Community](#community)
   - [Conferences](#conferences)
     - [YouTube Channels](#conference-youtube-channels)
@@ -101,7 +101,7 @@
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
-### Django Third-Party Packages
+### Django
 
 - [django-allauth](https://github.com/pennersr/django-allauth/) - User registration, social authentication, account management, and more.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
@@ -122,7 +122,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
-### Django REST Framework Third-Party Packages
+### Django REST Framework
 
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
@@ -219,26 +219,26 @@ _Django 2.1_
 
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
-- [Build Your First Website with Django 2.1](https://djangobook.com/build-your-first-website-with-django-2-1/)
-- [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/)
-- [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/)
+- [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
+- [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
+- [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/?tag=wsvincent-20)
 
 _Django 2.0_
 
 - [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
-- [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/)
-- [Django 2 by Example](https://www.amazon.com/dp/1788472489/)
+- [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
+- [Django 2 by Example](https://www.amazon.com/dp/1788472489/?tag=wsvincent-20)
 
 _Django 1.11_
 
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/)
-- [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/)
-- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/)
-- [Beginning Django](https://www.amazon.com/dp/1484227867/)
+- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/?tag=wsvincent-20)
+- [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
+- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
+- [Beginning Django](https://www.amazon.com/dp/1484227867/?tag=wsvincent-20)
 
 ## Courses
 
-- [Develop a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
+- [Develop a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/affiliates/e4245ba649f3/)
 
 ## Videos
 
@@ -263,10 +263,12 @@ _Django 1.11_
 
 ### Paid Videos
 
-- [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/), covering APIs, data manipulation, and deployment to Heroku.
-- [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
-- [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
+- [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/?tag=wsvincent-20), covering APIs, data manipulation, and deployment to Heroku.
+- [Build a Real Estate App](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
+- [Ultimate Web Development Bootcamp](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
 
 ### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
