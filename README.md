@@ -162,6 +162,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django) - A quick starter guide for Django and Docker together.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
+- [django2-project-template](https://github.com/vigo/django2-project-template) - A quick starter template for Django.
 
 ## Open Source Apps
 
