@@ -103,6 +103,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Django
 
+- [channels](https://github.com/django/channels/) - Async support for Django
 - [django-allauth](https://github.com/pennersr/django-allauth/) - User registration, social authentication, account management, and more.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
@@ -113,11 +114,14 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
+- [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
+- [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
+- [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
