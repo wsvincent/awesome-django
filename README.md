@@ -128,6 +128,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Django REST Framework
 
+- [django-cors-headers](https://github.com/OttoYiu/django-cors-headers)
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
