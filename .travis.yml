@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-dupe --white-list awesome-django,django-pagination,djangobeer,django-dynamic-preferences.,djangovillage
+  - awesome_bot README.md --allow-dupe --white-list=https://www.amazon.com,https://youtu.be,https://transactions.sendowl.com,https://testdriven.io,https://www.youtube.com/,https://www.amazon.com

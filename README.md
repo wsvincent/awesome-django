@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
   <br /><br />
   <img width="400" src="django-logo.svg" alt="Django logo">
 </div>
@@ -51,8 +51,8 @@
 ### External Resources
 
 - [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
-- [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-- [Classy Django Forms](https://cdf.9vo.lt/) - Detailed descriptions of methods/properties/attributes for each form class.
+- [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
+- [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 - [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
@@ -95,7 +95,7 @@
 
 - [Django Chat](https://djangochat.com) - A weekly podcast featuring discussions of core Django concepts and regular guests.
 - [TalkPython](https://talkpython.fm/) - The most popular Python podcast with select episodes on Django.
-- [Podcast Init](https://www.podcastinit.com/) - The 2nd most popular Python podcast that features Django guests on occasion.
+- [Podcast Init](https://www.pythonpodcast.com/) - The 2nd most popular Python podcast that features Django guests on occasion.
 
 ## Third-Party Packages
 
@@ -148,7 +148,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 - [Django Stripe Tutorial](https://testdriven.io/blog/django-stripe-tutorial/)
 - [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
-- [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
+- [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3/)
 - [Python and Django Logging in Plain English](https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english/)
 
 ### Docker Tutorials
@@ -159,7 +159,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
 - [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
 - [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
-- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
+- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
 
 ## Boilerplate
 
@@ -193,7 +193,7 @@ _The most popular way to build web APIs with Django._
 
 ### DRF Resources
 
-- [Official Documentation](http://www.django-rest-framework.org/)
+- [Official Documentation](https://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
 - [DRF](https://github.com/nioperas06/awesome-django-rest-framework)
 
@@ -225,7 +225,7 @@ _Django 2.1_
 
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
-- [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
+- [Build Your First Website with Django 2.1](https://djangobook.com/build-your-first-website-with-django-2-1/)
 - [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
 - [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/?tag=wsvincent-20)
 
@@ -252,29 +252,29 @@ _Django 1.11_
 
 _Django 2.1_
 
-- [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
-- [Build a Startup with Django by CSDojo](https://youtu.be/UyQn0BhVqNU)
+- [Django Authentication Tutorial by Vitor Freitas](https://www.youtube.com/watch?v=60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
+- [Build a Startup with Django by CSDojo](https://www.youtube.com/watch?v=UyQn0BhVqNU)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 
 _Django 2.0_
 
 - [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
-- [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Blog Tutorial by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 - [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 _Django 1.11_
 
-- [Todo App by Traversy Media](https://youtu.be/2yXfUPwlZTw)
-- [Django Crash Course by Traversy Media](https://youtu.be/D6esTdOLXh4)
+- [Todo App by Traversy Media](https://www.youtube.com/watch?v=2yXfUPwlZTw)
+- [Django Crash Course by Traversy Media](https://www.youtube.com/watch?v=D6esTdOLXh4)
 
 ### Paid Videos
 
 - [Build Backend Web Apps and APIs with Django](https://www.oreilly.com/library/view/web-development-in/9780134659824/) - 9 hour course from Andrew Pinkham, author of [Django Unleashed](https://www.amazon.com/dp/0321985079/?tag=wsvincent-20), covering APIs, data manipulation, and deployment to Heroku.
-- [Build a Real Estate App](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1952540&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fpython-django-dev-to-deployment%2F) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
-- [Ultimate Web Development Bootcamp](https://click.linksynergy.com/link?id=1*FmkJFU6n4&offerid=507388.1562632&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fthe-ultimate-beginners-guide-to-django-django-2-python-web-dev-website%2F) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
+- [Build a Real Estate App](https://www.udemy.com/python-django-dev-to-deployment/?ranMID=39197&ranEAID=1*FmkJFU6n4&ranSiteID=1.FmkJFU6n4-ng2ZvEdBe3OJgm25_6ISAA&LSNPUBID=1*FmkJFU6n4) - 11 hour course by Brad Traversy on building a real estate app with PostgreSQL and deploying to Digital Ocean.
+- [Ultimate Web Development Bootcamp](https://www.udemy.com/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/?ranMID=39197&ranEAID=1*FmkJFU6n4&ranSiteID=1.FmkJFU6n4-0tAYkI7.V3JeeE9NDtv3HQ&LSNPUBID=1*FmkJFU6n4) - 10 hour course building three apps--word counter, personal portfolio, product hunt clone--and deploying to Digital Ocean.
 
 ### License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 > Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
