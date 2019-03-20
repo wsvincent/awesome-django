@@ -135,6 +135,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - API document generator for Swagger UI
 
+### Django Admin
+
+- [django-jet](https://github.com/geex-arts/django-jet) - Modern responsive template for the Django admin interface with improved functionality.
+
 ## Tutorials
 
 ### Beginner Tutorials
