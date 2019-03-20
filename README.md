@@ -125,6 +125,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
+- [django-haystack](https://haystacksearch.org/) - Modular search for Django (Support backend Solr, Elasticsearch, Whoosh, Xapian, etc. )
 
 ### Django REST Framework
 
