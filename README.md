@@ -81,11 +81,12 @@
 
 ### Conference YouTube Channels
 
-- [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
+- [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw)
 - [DjangoCon Europe](https://www.youtube.com/user/djangoconeurope)
-- [PyCon US](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
+- [DjangoCon US](https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw)
 - [EuroPython](https://www.youtube.com/user/PythonItalia)
 - [PyCon Australia](https://www.youtube.com/user/PyConAU)
+- [PyCon US](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 
 ### Meetups
 
