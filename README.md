@@ -261,6 +261,7 @@ _Django 2.0_
 - [Build a Guestbook (30-part series) by Pretty Printed](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 - [Blog Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 - [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
+- [Try Django from Coding for Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
 
 _Django 1.11_
 
