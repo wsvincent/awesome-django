@@ -19,8 +19,6 @@
   - [Meetups](#meetups)
   - [Podcasts](#podcasts)
 - [Third-Party Packages](#third-party-packages)
-  - [Django](#django-third-party-packages)
-  - [Django REST Framework](#django-rest-framework-third-party-packages)
 - [Tutorials](#tutorials)
   - [Beginner](#beginner-tutorials)
   - [Intermediate/Advanced](#intermediate-advanced)
@@ -101,12 +99,11 @@
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
-### Django
-
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [django-allauth](https://github.com/pennersr/django-allauth/) - User registration, social authentication, account management, and more.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
+- [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Database URLs
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
@@ -114,6 +111,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
+- [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
@@ -126,7 +124,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
-### Django REST Framework
+*Django REST Framework*
 
 - [django-cors-headers](https://github.com/OttoYiu/django-cors-headers)
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
