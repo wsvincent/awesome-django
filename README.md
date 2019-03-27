@@ -55,7 +55,7 @@
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
 - [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
-- [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
+- [Will Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 - [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 - [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
 - [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
