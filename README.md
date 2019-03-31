@@ -84,6 +84,7 @@
 - [PyCon US](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ)
 - [EuroPython](https://www.youtube.com/user/PythonItalia)
 - [PyCon Australia](https://www.youtube.com/user/PyConAU)
+- [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos)
 
 ### Meetups
 
