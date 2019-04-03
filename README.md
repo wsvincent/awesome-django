@@ -113,6 +113,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
+- [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
