@@ -109,6 +109,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
+- [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
@@ -119,6 +120,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
+- [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
