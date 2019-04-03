@@ -102,6 +102,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [django-allauth](https://github.com/pennersr/django-allauth/) - User registration, social authentication, account management, and more.
+- [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
 - [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Database URLs
