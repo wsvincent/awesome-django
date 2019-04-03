@@ -101,8 +101,8 @@
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
 - [channels](https://github.com/django/channels/) - Async support for Django
-- [django-allauth](https://github.com/pennersr/django-allauth/) - User registration, social authentication, account management, and more.
-- [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
+- [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
+- [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
 - [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Database URLs
@@ -115,6 +115,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
+- [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
