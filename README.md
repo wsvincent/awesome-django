@@ -118,6 +118,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
+- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
