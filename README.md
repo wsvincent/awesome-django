@@ -41,10 +41,10 @@
 
 ### Official Resources
 
-- [Project Website](https://www.djangoproject.com/)
-- [Documentation](https://docs.djangoproject.com/en/dev/)
-- [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/)
-- [Source Code](https://github.com/django/django)
+- [Project Website](https://www.djangoproject.com/) - Official Django website
+- [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions
+- [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals
+- [Source Code](https://github.com/django/django) - Hosted on Github 
 
 ### External Resources
 
@@ -131,6 +131,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
+
 
 *Django REST Framework*
 
