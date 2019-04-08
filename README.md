@@ -44,10 +44,11 @@
 - [Project Website](https://www.djangoproject.com/) - Official Django website
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals
-- [Source Code](https://github.com/django/django) - Hosted on Github 
+- [Source Code](https://github.com/django/django) - Hosted on Github
 
 ### External Resources
 
+- [Will Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 - [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
 - [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://cdf.9vo.lt/) - Detailed descriptions of methods/properties/attributes for each form class.
@@ -55,7 +56,6 @@
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
 - [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
-- [Will Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 - [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 - [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
 - [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
@@ -92,9 +92,9 @@
 
 ### Podcasts
 
-- [Django Chat](https://djangochat.com) - A weekly podcast featuring discussions of core Django concepts and regular guests.
-- [TalkPython](https://talkpython.fm/) - The most popular Python podcast with select episodes on Django.
-- [Podcast Init](https://www.podcastinit.com/) - The 2nd most popular Python podcast that features Django guests on occasion.
+- [Django Chat](https://djangochat.com) - A weekly podcast from Will Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
+- [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
+- [Podcast Init](https://www.podcastinit.com/) - A popular Python podcast that features Django guests on occasion.
 
 ## Third-Party Packages
 
@@ -117,6 +117,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
+- [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries
