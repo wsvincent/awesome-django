@@ -229,10 +229,12 @@ _The most popular way to build web APIs with Django._
 
 ## Books
 
-_Django 2.1_
-
+_Django 2.2_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
-- [REST APIs with Django: Build web APIs with Python and Django](https://restapiswithdjango.com/)
+- [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
+
+
+_Django 2.1_
 - [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
 - [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
 - [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/?tag=wsvincent-20)
