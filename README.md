@@ -185,6 +185,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 - [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
 - [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
+- [Job Portal App](https://github.com/manjurulhoque/django-job-portal)
 
 ## Open Source Projects
 
