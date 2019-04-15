@@ -130,8 +130,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
-- [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
+
+*Content Management Systems (CMSs)*
+- [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
+- [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
+- [django-cms](https://github.com/divio/django-cms) - CMS for Django
 
 
 *Django REST Framework*
@@ -188,10 +192,8 @@ _Docker is commonly used to work with production-level databases locally like Po
 
 ## Open Source Projects
 
-- [wagtail](https://github.com/wagtail/wagtail) - Very popular Django-based content management system
 - [Zulip](https://github.com/zulip/zulip) - Open-source team chat
 - [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
-- [django-cms](https://github.com/divio/django-cms) - CMS for Django
 - [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
 
