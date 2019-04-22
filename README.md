@@ -108,6 +108,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Database URLs
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
+- [django-kaio](https://github.com/APSL/django-kaio) - Class based settings for Django projects that can be read from multiple sources.
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
@@ -129,6 +130,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
+- [model-mommy](https://github.com/berinhard/model_mommy) - Model Mommy: Smart fixtures for better tests
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
