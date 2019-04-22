@@ -134,9 +134,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 *Content Management Systems (CMSs)*
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
+- [puput](https://github.com/APSL/puput) - Puput is a powerful and simple Django app to manage a blog. It uses the awesome Wagtail CMS as content management system.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
-
 
 *Django REST Framework*
 
