@@ -262,6 +262,9 @@ _Django 1.11_
 
 ### Free Videos
 
+_Django 2.2_
+- [Mastering Django](https://www.youtube.com/channel/UCiuZer2ELlG3dAhWCzwz9Og/featured)
+
 _Django 2.1_
 
 - [Django Authentication Tutorial by Vitor Freitas](https://youtu.be/60GTvKCuam8?list=PLLxk3TkuAYnryu1lEcFaBr358IynT7l7H)
