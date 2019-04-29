@@ -72,8 +72,8 @@
 
 - [DjangoCon US](https://2019.djangocon.us/)
 - [DjangoCon Europe](https://2019.djangocon.eu/)
-- [DjangoCon Australia](https://2018.djangocon.com.au/)
 - [PyCon US](https://us.pycon.org/2019/)
+- [PyCon Australia](https://2019.pycon-au.org/)
 - [Euro Python](https://ep2019.europython.eu/)
 - [Complete listing of all PyCons globally](https://www.pycon.org/)
 
