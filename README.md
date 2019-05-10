@@ -142,6 +142,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 - [django-cors-headers](https://github.com/OttoYiu/django-cors-headers) - If your back-end and front-end are on different servers, you need this
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
+- [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger) - API document generator for Swagger UI
