@@ -100,6 +100,7 @@
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks without signals.
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
