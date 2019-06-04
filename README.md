@@ -130,6 +130,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
+- [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
 *Content Management Systems (CMSs)*
