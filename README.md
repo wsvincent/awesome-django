@@ -54,6 +54,7 @@
 - [Classy Django Forms](https://cdf.9vo.lt/) - Detailed descriptions of methods/properties/attributes for each form class.
 - [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
+- [Django Examples](https://github.com/MeNsaaH/django-examples) - Collection of projects you can do with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
 - [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
 - [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
@@ -186,6 +187,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 
 ## Open Source Apps
+_For a more complete listing of available open source apps, see [Django Examples](https://github.com/MeNsaaH/django-examples)_
 
 - [Hello, World app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app)
 - [Message Board app](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app)
@@ -195,6 +197,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 
 ## Open Source Projects
+_For a more complete listing of available open source projects, see [Django Examples](https://github.com/MeNsaaH/django-examples)_
 
 - [Zulip](https://github.com/zulip/zulip) - Open-source team chat
 - [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
