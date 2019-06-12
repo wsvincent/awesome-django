@@ -117,6 +117,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
+- [django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
