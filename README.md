@@ -32,6 +32,7 @@
   - [DRF Boilerplate](#drf-boilerplate)
   - [Open Source Apps](#drf-open-source-apps)
 - [Books](#books)
+- [Hosting](#hosting)
 - [Courses](#courses)
 - [Videos](#videos)
   - [Free Videos](#free-videos)
@@ -233,6 +234,25 @@ _The most popular way to build web APIs with Django._
 - [DRF Polls](https://github.com/wsvincent/drf-polls) - API of the official Django polls tutorial
 - [DRF Blog](https://github.com/wsvincent/drf-blog-api) - Basic Blog API
 - [ECGC](https://github.com/flowerncsu/ecgc-2017) - Example from DjangoCon 2017 talk [Write an API for Almost Anything](https://www.youtube.com/watch?v=-6tR5TffP0w)
+
+## Hosting
+
+### PaaS (Platforms-as-a-Service)
+
+- [Heroku](https://www.heroku.com/)
+- [PythonAnywhere](https://www.pythonanywhere.com/details/django_hosting)
+- [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
+- [AWS CodeStar](https://aws.amazon.com/codestar/)
+- [Google Cloud](https://cloud.google.com/python/django/)
+- [Zeit Now](https://zeit.co/now)
+- [Dokku](http://dokku.viewdocs.io/dokku/)
+- [Render](https://render.com/)
+
+### IaaS (Infrastructure-as-a-Service)
+
+- [Digital Ocean](https://m.do.co/c/c0a588a8bb9e)
+- [Linode](https://www.linode.com/?r=70d00cc48f300a318474ba61cb7e7663b6e1531b)
+- [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 ## Books
 
