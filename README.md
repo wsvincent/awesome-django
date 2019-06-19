@@ -167,6 +167,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
 - [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
 - [Python and Django Logging in Plain English](https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english/)
+- [Python Continuous Integration and Deployment From Scratch](https://semaphoreci.com/blog/python-continuous-integration-continuous-delivery)
 
 ### Docker Tutorials
 
