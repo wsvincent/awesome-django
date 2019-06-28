@@ -177,6 +177,7 @@ _Docker is commonly used to work with production-level databases locally like Po
 - [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
 - [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
 - [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
+- [Deploying Django to Heroku With Docker](https://testdriven.io/blog/deploying-django-to-heroku-with-docker/)
 
 ## Boilerplate
 
