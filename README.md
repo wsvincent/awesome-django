@@ -93,7 +93,7 @@
 
 ### Podcasts
 
-- [Django Chat](https://djangochat.com) - A weekly podcast from Will Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
+- [Django Chat](https://djangochat.com) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 - [Podcast Init](https://www.podcastinit.com/) - A popular Python podcast that features Django guests on occasion.
 
