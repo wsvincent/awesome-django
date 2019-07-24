@@ -260,6 +260,7 @@ _The most popular way to build web APIs with Django._
 _Django 2.2_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
+- [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com)
 
 
 _Django 2.1_
