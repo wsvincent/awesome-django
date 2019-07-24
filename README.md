@@ -242,6 +242,7 @@ _The most popular way to build web APIs with Django._
 
 - [Heroku](https://www.heroku.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/details/django_hosting)
+- [Divio](https://www.divio.com)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [AWS CodeStar](https://aws.amazon.com/codestar/)
 - [Google Cloud](https://cloud.google.com/python/django/)
