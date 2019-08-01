@@ -105,6 +105,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
+- [django-click](https://github.com/GaretJax/django-click) - Write Django management command using the click CLI library
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
