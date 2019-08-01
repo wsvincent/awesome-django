@@ -106,7 +106,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
-- [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Database URLs
+- [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
