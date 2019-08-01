@@ -117,6 +117,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, inspired by Rails callbacks.
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
