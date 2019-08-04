@@ -49,7 +49,7 @@
 
 ### External Resources
 
-- [Will Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
+- [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
 - [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
 - [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://cdf.9vo.lt/) - Detailed descriptions of methods/properties/attributes for each form class.
@@ -289,9 +289,6 @@ _Django 1.11_
 ## Videos
 
 ### Free Videos
-
-_Django 2.2_
-- [Mastering Django](https://www.youtube.com/channel/UCiuZer2ELlG3dAhWCzwz9Og/featured)
 
 _Django 2.1_
 
