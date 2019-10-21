@@ -197,7 +197,7 @@ _Django 2.2_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com)
-
+- [Tango with Django](https://www.tangowithdjango.com)
 
 _Django 2.1_
 - [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
