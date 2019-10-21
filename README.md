@@ -260,6 +260,7 @@ _Django 1.11_
 - [ponee](https://github.com/valentinogagliardi/ponee/) - A lightweight Django template ready for Heroku.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 - [django2-project-template](https://github.com/vigo/django2-project-template/) - A quick starter template with PostgreSQL.
+- [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Open Source
 - [Hello, World](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app/)
