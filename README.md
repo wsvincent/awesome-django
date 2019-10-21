@@ -272,6 +272,7 @@ _Django 1.11_
 - [django-oscar](https://github.com/django-oscar/django-oscar/) - E-commerce for Django
 - [saleor](https://github.com/mirumee/saleor/) - E-commerce storefront
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django
+- [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django
 
 ## Django REST Framework
 
