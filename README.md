@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
+  <a href="https://travis-ci.org/wsvincent/awesome-flask"><img src="https://api.travis-ci.org/wsvincent/awesome-flask.svg?branch=master" alt="Build Status" /></a></p>
   <img width="400" src="django-logo.svg" alt="Django logo">
 </div>
 
