@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <a href="https://travis-ci.org/wsvincent/awesome-flask"><img src="https://api.travis-ci.org/wsvincent/awesome-flask.svg?branch=master" alt="Build Status" /></a></p>
+  <a href="https://travis-ci.org/wsvincent/awesome-flask"><img src="https://api.travis-ci.org/wsvincent/awesome-django.svg?branch=master" alt="Build Status" /></a></p>
   <img width="400" src="django-logo.svg" alt="Django logo">
 </div>
 
@@ -66,7 +66,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### APIs
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
-- [django-cors-headers](https://github.com/OttoYiu/django-cors-headers) - If your back-end and front-end are on different servers, you need this
+- [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
@@ -124,7 +124,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
 
 ### URLs
-- [dj-database-url](https://github.com/kennethreitz/dj-database-url) - Database URLs
+- [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
 - [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models
 
 ## Resources
@@ -139,10 +139,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### External Resources
 
 - [William Vincent's Website](https://wsvincent.com/) - Up-to-date tutorials on Django and Django REST Framework.
-- [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
 - [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
-- [Classy Django REST Framework](https://www.cdrf.co/) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
+- [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
 - [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
@@ -166,7 +165,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [PyCon US](https://us.pycon.org/2019/)
 - [PyCon Australia](https://2019.pycon-au.org/)
 - [Euro Python](https://ep2019.europython.eu/)
-- [Complete listing of all PyCons globally](https://www.pycon.org/)
+- [Complete listing of all PyCons globally](https://pycon.org)
 
 ### Conference YouTube Channels
 
@@ -187,7 +186,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Tutorials
 
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
-- [Django for Beginners](https://djangoforbeginners.com/) - Use class-based views to build three apps of increasing complexity (part of a full-length book).
 - [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
 - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 - [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
@@ -199,32 +197,32 @@ _Django 2.2_
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
 - [Tango with Django](https://www.tangowithdjango.com/)
+- [Build a website with Django 2](https://djangobook.com/build-a-website-with-django-2/)
 
 _Django 2.1_
-- [Build Your First Website with Django 2.1](https://djangobook.com/build-your-first-website-with-django-2-1/)
-- [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/)
-- [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/)
+- [Practical Django 2 and Channels 2](https://www.amazon.com/Practical-Django-Channels-Applications-Capabilities/dp/1484240987)
+- [Django 2 Web Development Cookbook](https://www.amazon.com/Django-Web-Development-Cookbook-practical/dp/1788837681)
 
 _Django 2.0_
 
 - [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
-- [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/)
-- [Django 2 by Example](https://www.amazon.com/dp/1788472489/)
+- [Django Design Patterns and Best Practices](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349)
+- [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
 
 _Django 1.11_
 
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/)
-- [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/)
-- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/)
-- [Beginning Django](https://www.amazon.com/dp/1484227867/)
+- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
+- [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
+- [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
+- [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
 
 ### Courses
 
 - [Developing a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
 
 ### Videos
-- [Python Django Crash Course 2019 by Traversy Media](https://youtu.be/e1IyzVyrLSU)
-- [Full Stack React & Django by Traversy Media](https://youtu.be/Uyei2iDA4Hs)
+- [Python Django Crash Course 2019 by Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be)
+- [Full Stack React & Django by Traversy Media](https://www.youtube.com/watch?v=Uyei2iDA4Hs&feature=youtu.be)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
 - [Python Django Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc)
 - [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
@@ -233,12 +231,12 @@ _Django 1.11_
 
 ### PaaS (Platforms-as-a-Service)
 - [Heroku](https://www.heroku.com/)
-- [PythonAnywhere](https://www.pythonanywhere.com/details/django_hosting/)
+- [PythonAnywhere](https://www.pythonanywhere.com)
 - [Divio](https://www.divio.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [AWS CodeStar](https://aws.amazon.com/codestar/)
 - [Google Cloud](https://cloud.google.com/python/django/)
-- [Zeit Now](https://zeit.co/now/)
+- [Zeit Now](https://zeit.co/now)
 - [Dokku](https://dokku.viewdocs.io/dokku/)
 - [Render](https://render.com/)
 
