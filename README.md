@@ -133,15 +133,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Project Website](https://www.djangoproject.com/) - Official Django website
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals
-- [Source Code](https://github.com/django/django) - Hosted on Github
+- [Source Code](https://github.com/django/django/) - Hosted on Github
 
 ### External Resources
 
-- [William Vincent's Website](https://wsvincent.com) - Up-to-date tutorials on Django and Django REST Framework.
+- [William Vincent's Website](https://wsvincent.com/) - Up-to-date tutorials on Django and Django REST Framework.
 - [Django Packages](https://djangopackages.org/) - Comprehensive directory of reusable Django apps and tools.
-- [Classy Class-Based Views](http://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
-- [Classy Django Forms](https://cdf.9vo.lt/) - Detailed descriptions of methods/properties/attributes for each form class.
-- [Classy Django REST Framework](http://www.cdrf.co/) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
+- [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
+- [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
+- [Classy Django REST Framework](https://www.cdrf.co/) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
 - [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
@@ -152,10 +152,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Community
 
-- [Django Forum](https://forum.djangoproject.com) - Discourse Board
-- [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
-- [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers) - For contributions to Django itself only.
-- [Twitter](https://twitter.com/djangoproject) - For official announcements on updates, security fixes, etc.
+- [Django Forum](https://forum.djangoproject.com/) - Discourse Board
+- [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
+- [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
+- [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 - IRC Channel - Chat with other Django users at irc://irc.freenode.net/django
 
 ### Conferences
@@ -179,9 +179,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Podcasts
 
-- [Django Chat](https://djangochat.com) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
+- [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
-- [Podcast Init](https://www.podcastinit.com/) - A popular Python podcast that features Django guests on occasion.
+- [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
 ### Tutorials
 
@@ -196,30 +196,30 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 _Django 2.2_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
-- [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com)
-- [Tango with Django](https://www.tangowithdjango.com)
+- [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
+- [Tango with Django](https://www.tangowithdjango.com/)
 
 _Django 2.1_
-- [Build Your First Website with Django 2.1](https://transactions.sendowl.com/stores/9897/130290)
-- [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/?tag=wsvincent-20)
-- [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/?tag=wsvincent-20)
+- [Build Your First Website with Django 2.1](https://djangobook.com/build-your-first-website-with-django-2-1/)
+- [Practical Django 2 and Channels 2](https://www.amazon.com/dp/1484240987/)
+- [Django 2 Web Development Cookbook](https://www.amazon.com/dp/1788837681/)
 
 _Django 2.0_
 
 - [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
-- [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/?tag=wsvincent-20)
-- [Django 2 by Example](https://www.amazon.com/dp/1788472489/?tag=wsvincent-20)
+- [Django Design Patterns and Best Practices](https://www.amazon.com/dp/1788831349/)
+- [Django 2 by Example](https://www.amazon.com/dp/1788472489/)
 
 _Django 1.11_
 
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/?tag=wsvincent-20)
-- [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/?tag=wsvincent-20)
-- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/?tag=wsvincent-20)
-- [Beginning Django](https://www.amazon.com/dp/1484227867/?tag=wsvincent-20)
+- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/dp/0692915729/)
+- [Test-Driven Development with Python](https://www.amazon.com/dp/1491958707/)
+- [Django RESTful Web Services](https://www.amazon.com/dp/1788833929/)
+- [Beginning Django](https://www.amazon.com/dp/1484227867/)
 
 ### Courses
 
-- [Developing a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/?utm_source=will)
+- [Developing a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
 
 ### Videos
 - [Python Django Crash Course 2019 by Traversy Media](https://youtu.be/e1IyzVyrLSU)
@@ -232,13 +232,13 @@ _Django 1.11_
 
 ### PaaS (Platforms-as-a-Service)
 - [Heroku](https://www.heroku.com/)
-- [PythonAnywhere](https://www.pythonanywhere.com/details/django_hosting)
-- [Divio](https://www.divio.com)
+- [PythonAnywhere](https://www.pythonanywhere.com/details/django_hosting/)
+- [Divio](https://www.divio.com/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [AWS CodeStar](https://aws.amazon.com/codestar/)
 - [Google Cloud](https://cloud.google.com/python/django/)
-- [Zeit Now](https://zeit.co/now)
-- [Dokku](http://dokku.viewdocs.io/dokku/)
+- [Zeit Now](https://zeit.co/now/)
+- [Dokku](https://dokku.viewdocs.io/dokku/)
 - [Render](https://render.com/)
 
 ### IaaS (Infrastructure-as-a-Service)
@@ -249,27 +249,27 @@ _Django 1.11_
 ## Projects
 
 ### Boilerplate
-- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - A full-bodied starter project, highly customizable.
-- [djangox](https://github.com/wsvincent/djangox) - A simpler approach with complete user authentication flow, Pipenv, and more.
-- [DRFx](https://github.com/wsvincent/drfx) - A DRF starter with user auth, Pipenv, and other goodies.
+- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+- [djangox](https://github.com/wsvincent/djangox/) - A simpler approach with complete user authentication flow, Pipenv, and more.
+- [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
-- [docker-django](https://github.com/erroneousboat/docker-django) - A quick starter guide for Django and Docker together.
-- [ponee](https://github.com/valentinogagliardi/ponee) - A lightweight Django template ready for Heroku.
-- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge Django template focused on code quality and security.
-- [django2-project-template](https://github.com/vigo/django2-project-template) - A quick starter template with PostgreSQL.
+- [docker-django](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
+- [ponee](https://github.com/valentinogagliardi/ponee/) - A lightweight Django template ready for Heroku.
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+- [django2-project-template](https://github.com/vigo/django2-project-template/) - A quick starter template with PostgreSQL.
 
 ### Open Source
-- [Hello, World](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app)
-- [Message Board](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app)
-- [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users)
+- [Hello, World](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app/)
+- [Message Board](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app/)
+- [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
 - [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
-- [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd)
+- [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd/)
 - [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 - [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp)
-- [Zulip](https://github.com/zulip/zulip) - Open-source team chat
-- [django-oscar](https://github.com/django-oscar/django-oscar) - E-commerce for Django
-- [saleor](https://github.com/mirumee/saleor) - E-commerce storefront
-- [Django-CRM](https://github.com/MicroPyramid/Django-CRM) - Open Source Python CRM based on Django
+- [Zulip](https://github.com/zulip/zulip/) - Open-source team chat
+- [django-oscar](https://github.com/django-oscar/django-oscar/) - E-commerce for Django
+- [saleor](https://github.com/mirumee/saleor/) - E-commerce storefront
+- [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django
 
 ## Django REST Framework
 
@@ -277,7 +277,7 @@ _The most popular way to build web APIs with Django._
 
 ### DRF Resources
 
-- [Official Documentation](http://www.django-rest-framework.org/)
+- [Official Documentation](https://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
 - [DRF](https://github.com/nioperas06/awesome-django-rest-framework)
 
@@ -286,9 +286,6 @@ _The most popular way to build web APIs with Django._
 - [Official REST Framework - A Beginner's Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
 - [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 - [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
-- [DRF Serializers, Viewsets, and Routers](https://wsvincent.com/django-rest-framework-serializers-viewsets-routers/)
-- [DRF Todo API with User Auth](https://wsvincent.com/django-rest-framework-authentication-tutorial/)
-- [DRF User Authentication](https://wsvincent.com/django-rest-framework-user-authentication-tutorial/)
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
@@ -296,6 +293,4 @@ _The most popular way to build web APIs with Django._
 
 ### License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-> Some links contain affiliate codes which help me justify the time to keep this list up-to-date.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
