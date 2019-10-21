@@ -63,7 +63,8 @@
 
 ### Community
 
-- [Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
+- [Django Forum](https://forum.djangoproject.com) - Discourse Board
+- [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers) - For contributions to Django itself only.
 - [Twitter](https://twitter.com/djangoproject) - For official announcements on updates, security fixes, etc.
 - IRC Channel - Chat with other Django users at irc://irc.freenode.net/django
@@ -126,6 +127,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
+- [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
