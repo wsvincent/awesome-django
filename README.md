@@ -50,8 +50,10 @@
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
+- [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
+- [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals
