@@ -226,6 +226,7 @@ _Django 1.11_
 - [Python Django Crash Course 2019 by Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be)
 - [Full Stack React & Django by Traversy Media](https://www.youtube.com/watch?v=Uyei2iDA4Hs&feature=youtu.be)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
+- [Try Django from Coding for Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
 - [Python Django Tutorial by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&feature=youtu.be)
 - [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
