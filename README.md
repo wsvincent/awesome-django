@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
-  <br /><br />
+<a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a>
+<a href="https://travis-ci.org/wsvincent/awesome-django"><img src="https://api.travis-ci.org/wsvincent/awesome-django.svg?branch=master" alt="Build Status" /></a></p>
   <img width="400" src="django-logo.svg" alt="Django logo">
 </div>
 
@@ -158,23 +158,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
 - [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
 - [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
-
-### Intermediate/Advanced Tutorials
-
-- [Django Stripe Tutorial](https://testdriven.io/blog/django-stripe-tutorial/)
-- [Setting up Stripe Connect with Django](https://testdriven.io/blog/setting-up-stripe-connect-with-django/)
-- [Storing Django Static and Media Files on Amazon S3](https://testdriven.io/blog/storing-django-static-and-media-files-on-amazon-s3)
-- [Python and Django Logging in Plain English](https://djangodeconstructed.com/2018/12/18/django-and-python-logging-in-plain-english/)
-
-### Docker Tutorials
-
-_Docker is commonly used to work with production-level databases locally like PostgreSQL or MySQL._
-
-- [A Beginner's Guide to Docker](https://wsvincent.com/beginners-guide-to-docker/)
-- [A Brief Intro to Docker for Djangonauts](https://www.revsys.com/tidbits/brief-intro-docker-djangonauts/)
-- [How to use Django, Docker, and PostgreSQL](https://wsvincent.com/django-docker-postgresql/)
-- [Docker for Django Developers (slides)](https://mherman.org/presentations/dockercon-2018/#1)
-- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx)
 
 ## Boilerplate
 
