@@ -78,6 +78,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
+- [puput](https://github.com/APSL/puput) - Blog app features with Wagtail 
 
 ### ECommerce
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
