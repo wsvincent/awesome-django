@@ -255,7 +255,8 @@ _Django 1.11_
 - [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django) - A quick starter guide for Django and Docker together.
 - [ponee](https://github.com/valentinogagliardi/ponee) - A lightweight Django template ready for Heroku.
-- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge Django template focused on code quality and security.
+- [django2-project-template](https://github.com/vigo/django2-project-template) - A quick starter template with PostgreSQL.
 
 ### Open Source
 - [Hello, World](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app)
