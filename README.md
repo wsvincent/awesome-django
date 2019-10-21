@@ -224,7 +224,7 @@ _Django 1.11_
 - [Python Django Crash Course 2019 by Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be)
 - [Full Stack React & Django by Traversy Media](https://www.youtube.com/watch?v=Uyei2iDA4Hs&feature=youtu.be)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
-- [Python Django Tutorial by Corey Schafer](https://youtu.be/UmljXZIypDc)
+- [Python Django Tutorial by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&feature=youtu.be)
 - [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 ## Hosting
@@ -236,13 +236,13 @@ _Django 1.11_
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [AWS CodeStar](https://aws.amazon.com/codestar/)
 - [Google Cloud](https://cloud.google.com/python/django/)
-- [Zeit Now](https://zeit.co/now)
-- [Dokku](https://dokku.viewdocs.io/dokku/)
+- [Zeit Now](https://zeit.co/home)
+- [Dokku](http://dokku.viewdocs.io/dokku/)
 - [Render](https://render.com/)
 
 ### IaaS (Infrastructure-as-a-Service)
-- [Digital Ocean](https://m.do.co/c/c0a588a8bb9e)
-- [Linode](https://www.linode.com/?r=70d00cc48f300a318474ba61cb7e7663b6e1531b)
+- [Digital Ocean](https://www.digitalocean.com)
+- [Linode](https://www.linode.com/)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 ## Projects
@@ -278,7 +278,7 @@ _The most popular way to build web APIs with Django._
 
 - [Official Documentation](https://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
-- [DRF](https://github.com/nioperas06/awesome-django-rest-framework)
+- [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ### DRF Tutorials
 
@@ -286,7 +286,7 @@ _The most popular way to build web APIs with Django._
 - [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 - [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
-- [DRF with React](https://www.valentinog.com/blog/tutorial-api-django-rest-react/)
+- [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
 
 
