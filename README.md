@@ -16,7 +16,6 @@
   - [Community](#community)
   - [Conferences](#conferences)
     - [YouTube Channels](#conference-youtube-channels)
-  - [Meetups](#meetups)
   - [Podcasts](#podcasts)
 - [Third-Party Packages](#third-party-packages)
 - [Tutorials](#tutorials)
@@ -87,9 +86,6 @@
 - [PyCon Australia](https://www.youtube.com/user/PyConAU)
 - [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos)
 
-### Meetups
-
-- [Meetups](https://www.meetup.com/topics/django/all/) - 400+ Meetup groups in 65 countries.
 
 ### Podcasts
 
