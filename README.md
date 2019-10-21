@@ -78,7 +78,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
-- [puput](https://github.com/APSL/puput) - Blog app features with Wagtail 
+- [puput](https://github.com/APSL/puput) - Blog app features with Wagtail
 
 ### ECommerce
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
@@ -114,6 +114,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
+- [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project)
 
 ### sunscrapers
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
