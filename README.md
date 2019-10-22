@@ -89,6 +89,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### ECommerce
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
+- [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
