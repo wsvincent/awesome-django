@@ -16,7 +16,7 @@
   - [ECommerce](#ecommerce)
   - [Forms](#forms)
   - [Models](#models)
-  - [Redis](#redis)
+  - [Queues](#queues)
   - [Search](#search)
   - [Static Assets](#static-assets)
   - [Testing](#testing)
@@ -97,7 +97,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 
-### Redis
+### Queues
+- [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django
 
@@ -120,7 +121,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project)
 
-### sunscrapers
+### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 
