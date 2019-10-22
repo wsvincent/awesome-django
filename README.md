@@ -137,6 +137,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 
 ### Views
+- [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
 
