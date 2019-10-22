@@ -54,7 +54,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
-- [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
@@ -81,6 +80,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [starlette](https://github.com/encode/starlette) - ASGI framework
 
 ### Commands
+- [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 - [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library
 - [django-dbbackup](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files
 
