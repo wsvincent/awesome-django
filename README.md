@@ -12,6 +12,7 @@
   - [Admin](#admin)
   - [APIs](#apis)
   - [Async](#async)
+  - [Commands](#commands)
   - [Content Management Systems](#content-management-systems)
   - [ECommerce](#ecommerce)
   - [Forms](#forms)
@@ -23,6 +24,7 @@
   - [Users](#users)
   - [Views](#views)
   - [URLs](#urls)
+- [Python Packages](#python-packages)
 - [Resources](#resources)
   - [Official](#official-resources)
   - [External](#external-resources)
@@ -50,7 +52,7 @@
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
-- [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library
+
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
@@ -78,6 +80,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [starlette](https://github.com/encode/starlette) - ASGI framework
 
+### Commands
+- [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library
+- [django-dbbackup](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files
+
 ### Content Management Systems
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
@@ -91,6 +97,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
+- [bleach](https://github.com/mozilla/bleach) - Technically not a Django package but very useful
 
 ### Models
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
@@ -132,6 +139,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### URLs
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
 - [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models
+
+## Python Packages
+
+_A short list of Python packages that work well with Django._
+
+- [black](https://github.com/psf/black) - Uncompromising Python code formatter
+- [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries
+- [pytest](https://github.com/pytest-dev/pytest/) - Testing framework
+- [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 
 ## Resources
 
