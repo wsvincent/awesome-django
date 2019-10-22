@@ -53,10 +53,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
-- [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
-- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 
@@ -99,6 +97,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [bleach](https://github.com/mozilla/bleach) - Technically not a Django package but very useful
 
 ### Models
+- [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
