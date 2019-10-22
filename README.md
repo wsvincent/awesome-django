@@ -59,6 +59,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 
 ### Admin
+- [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
 - [django-honeypot](https://github.com/jamesturk/django-honeypot/) - Configure a honeypot to see who's trying to hack your site
