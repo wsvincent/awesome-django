@@ -17,9 +17,9 @@
   - [ECommerce](#ecommerce)
   - [Forms](#forms)
   - [Models](#models)
-  - [Queues](#queues)
   - [Search](#search)
   - [Static Assets](#static-assets)
+  - [Task Queues](#task-queues)
   - [Testing](#testing)
   - [Users](#users)
   - [Views](#views)
@@ -106,11 +106,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 
-### Queues
-- [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
-- [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
-- [django-redis](https://github.com/niwinz/django-redis) - Full featured redis cache backend for Django
-
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
@@ -121,8 +116,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 
+### Task Queues
+- [huey](https://github.com/coleifer/huey) - A little task queue for Python
+- [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
+- [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
+- [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
+
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
+- [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
