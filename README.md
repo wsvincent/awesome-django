@@ -73,6 +73,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
+- [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
