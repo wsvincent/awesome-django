@@ -153,6 +153,7 @@ _A short list of Python packages that work well with Django._
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter
 - [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries
+- [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 
