@@ -109,6 +109,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
+- [django-model-field-meta](https://github.com/melvinkcx/django-model-field-meta) - Model field metadata
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
