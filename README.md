@@ -278,6 +278,7 @@ _Django 1.11_
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
 - [djangox](https://github.com/wsvincent/djangox/) - A simpler approach with complete user authentication flow, Pipenv, and more.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
+- [django-project-template](https://github.com/jpadilla/django-project-template) - Full-featured starter project.
 - [django-starter-project](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
 - [ponee](https://github.com/valentinogagliardi/ponee/) - A lightweight Django template ready for Heroku.
