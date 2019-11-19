@@ -110,6 +110,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 
+### Configuration Management
+- [confidential](https://github.com/candidco/confidential) - Easily manage configs and secrets in your Python projects
+
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
