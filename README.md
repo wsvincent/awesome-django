@@ -134,6 +134,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project)
+- [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test Django schema and data migrations, including migrations' order
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
