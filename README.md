@@ -285,10 +285,9 @@ _Django 1.11_
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Open Source
-- [Hello, World](https://github.com/wsvincent/djangoforbeginners/tree/master/ch2-hello-world-app/)
-- [Message Board](https://github.com/wsvincent/djangoforbeginners/tree/master/ch4-message-board-app/)
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
 - [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
+- [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone
 - [Behavior-Driven Development with Aloe](https://github.com/testdrivenio/django-aloe-bdd/)
 - [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 - [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp)
