@@ -201,6 +201,8 @@ _A short list of Python packages that work well with Django._
 - [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos)
 - [Complete listing of all PyCons globally](https://pycon.org)
 
+### Newsletters
+- [Django News](https://django-news.com) - Weekly newsletter on announecments, articles, projects, and talks.
 
 ### Podcasts
 
@@ -217,8 +219,11 @@ _A short list of Python packages that work well with Django._
 
 ### Books
 
-_Django 2.2_
+_Django 3.0_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
+
+_Django 2.2_
+
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
 - [Tango with Django](https://www.tangowithdjango.com/)
