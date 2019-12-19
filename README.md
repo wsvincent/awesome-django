@@ -283,6 +283,7 @@ _Django 1.11_
 - [djangox](https://github.com/wsvincent/djangox/) - A simpler approach with complete user authentication flow, Pipenv, and more.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
+- [sos-django-template](https://github.com/erayerdin/sos-django-template) - An opinionated project template that separates development and production environments as well as provides dependencies enhancing your development cycle.
 - [docker-django](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
 - [ponee](https://github.com/valentinogagliardi/ponee/) - A lightweight Django template ready for Heroku.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
