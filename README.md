@@ -320,6 +320,7 @@ _The most popular way to build web APIs with Django._
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
+- [The Complete Guide to Django REST Framework and Vue JS](https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js/?referralCode=A2FA0F6C1C4BE66A3B3E)
 
 
 ### License
