@@ -11,6 +11,7 @@
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
   - [APIs](#apis)
+  - [APM](#apm)
   - [Async](#async)
   - [Commands](#commands)
   - [Content Management Systems](#content-management-systems)
@@ -75,6 +76,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
+
+### APM (Application Performance Monitoring)
+
+- [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
+- [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
