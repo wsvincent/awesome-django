@@ -62,7 +62,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
-- [django-honeypot](https://github.com/jamesturk/django-honeypot/) - Configure a honeypot to see who's trying to hack your site
+- [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
 - [xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement with goodies
 
@@ -97,6 +97,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
+- [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
 - [bleach](https://github.com/mozilla/bleach) - Technically not a Django package but very useful
@@ -109,6 +110,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
+- [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
