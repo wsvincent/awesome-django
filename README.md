@@ -179,7 +179,7 @@ _A short list of Python packages that work well with Django._
 
 ### External Resources
 
-- [William Vincent's Website](https://wsvincent.com/) - Up-to-date tutorials on Django and Django REST Framework.
+- [LearnDjango](https://learndjango.com/) - Up-to-date tutorials on Django and Django REST Framework.
 - [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 - [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
@@ -211,11 +211,12 @@ _A short list of Python packages that work well with Django._
 - [Complete listing of all PyCons globally](https://pycon.org)
 
 ### Newsletters
-- [Django News](https://django-news.com) - Weekly newsletter on announecments, articles, projects, and talks.
+- [Django News](https://django-news.com) - Weekly newsletter on announcements, articles, projects, and talks.
 
 ### Podcasts
 
 - [Django Chat](https://djangochat.com/) - A weekly podcast from William Vincent and Django Fellow Carlton Gibson with discussions of core Django concepts and regular guests.
+- [Django Riffs](https://djangoriffs.com) - A new podcast from Matt Layman.
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 - [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
@@ -243,7 +244,6 @@ _Django 2.1_
 - [Django 2 Web Development Cookbook](https://www.amazon.com/Django-Web-Development-Cookbook-practical/dp/1788837681)
 
 _Django 2.0_
-
 - [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 - [Django Design Patterns and Best Practices](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349)
 - [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
@@ -254,10 +254,6 @@ _Django 1.11_
 - [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 - [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
 - [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
-
-### Courses
-
-- [Developing a Real-Time Taxi App with Django Channels and Angular](https://testdriven.io/courses/real-time-app-with-django-channels-and-angular/)
 
 ### Videos
 - [Python Django Crash Course 2019 by Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be)
