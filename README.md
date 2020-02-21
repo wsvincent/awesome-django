@@ -194,7 +194,7 @@ _A short list of Python packages that work well with Django._
 ### Community
 
 - [Django Forum](https://forum.djangoproject.com/) - Discourse Board
-- [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more. 
+- [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
 - [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
@@ -230,11 +230,11 @@ _A short list of Python packages that work well with Django._
 
 _Django 3.0_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
-
-_Django 2.2_
-
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
+- [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
+
+_Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
 - [Build a website with Django 2](https://djangobook.com/build-a-website-with-django-2/)
 
