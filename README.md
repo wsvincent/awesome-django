@@ -133,6 +133,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
+- [beatserver](https://github.com/rajasimon/beatserver) - Beatserver, a periodic task scheduler for Django
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
