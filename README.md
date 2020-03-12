@@ -142,6 +142,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project)
+- [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Finds and resolve N+1 queries.  Proposes select_related or prefetch_related for reducing query load
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
