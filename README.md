@@ -11,13 +11,13 @@
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
   - [APIs](#apis)
-  - [APM](#apm)
   - [Async](#async)
   - [Commands](#commands)
   - [Content Management Systems](#content-management-systems)
   - [ECommerce](#ecommerce)
   - [Forms](#forms)
   - [Models](#models)
+  - [Performance](#performance)
   - [Search](#search)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
@@ -76,10 +76,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
-### APM (Application Performance Monitoring)
-
-- [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
-- [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
@@ -121,14 +117,17 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 
+### Performance
+- [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
+- [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
+- [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
+
 ### Static Assets
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
-- [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 
 ### Task Queues
-- [huey](https://github.com/coleifer/huey) - A little task queue for Python
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
@@ -161,11 +160,13 @@ _A short list of Python packages that work well with Django._
 
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter
 - [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement
+- [huey](https://github.com/coleifer/huey) - A little task queue for Python
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK
+- [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites
 
 ## Resources
 
