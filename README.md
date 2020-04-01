@@ -250,7 +250,7 @@ _Django 2.0_
 
 _Django 1.11_
 
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.amazon.com/Two-Scoops-Django-1-11-Practices/dp/0692915729)
+- [Two Scoops of Django: Best Practices for Django 1.11](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-1-11)
 - [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 - [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
 - [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
