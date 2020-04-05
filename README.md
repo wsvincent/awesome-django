@@ -91,6 +91,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail
+- [CodeRed CMS](https://github.com/coderedcorp/coderedcms) - A content management system for marketing websites based on Django and Wagtail.
 
 ### ECommerce
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
@@ -293,7 +294,6 @@ _Django 1.11_
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 - [django2-project-template](https://github.com/vigo/django2-project-template/) - A quick starter template with PostgreSQL.
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
-- [CodeRed CMS](https://github.com/coderedcorp/coderedcms) - A content management system for marketing websites based on Django and Wagtail.
 - [Django Rest + Vue JS Template](https://github.com/gtalarico/django-vue-template) - A minimal example for an application using Vue and Django.
 
 ### Open Source
