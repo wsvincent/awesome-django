@@ -13,6 +13,7 @@
   - [APIs](#apis)
   - [Async](#async)
   - [Commands](#commands)
+  - [Configuration](#configuration)
   - [Content Management Systems](#content-management-systems)
   - [ECommerce](#ecommerce)
   - [Forms](#forms)
@@ -53,7 +54,7 @@
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
 
-- [django-environ](https://github.com/joke2k/django-environ) - Environment variables
+
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries
@@ -85,6 +86,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 - [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library
 - [django-dbbackup](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files
+
+### Configuration
+- [confidential](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support)
+- [django-environ](https://github.com/joke2k/django-environ) - Environment variables
+- [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files
 
 ### Content Management Systems
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
@@ -135,6 +141,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
+- [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
@@ -295,6 +302,7 @@ _Django 1.11_
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
 - [django2-project-template](https://github.com/vigo/django2-project-template/) - A quick starter template with PostgreSQL.
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
+- [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings
 
 ### Open Source
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
