@@ -234,6 +234,8 @@ _Django 3.0_
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
 - [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
+- [Django 3 by Example](https://djangobyexample.com/)
+- [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
 
 _Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
