@@ -124,9 +124,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 
 ### Performance
-- [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
-- [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
-- [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
+- [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code
+- [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries
+- [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection
+- [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries
 
 ### Static Assets
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
@@ -134,6 +135,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 
 ### Task Queues
+- [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
@@ -329,7 +331,7 @@ _The most popular way to build web APIs with Django._
 
 ### DRF Tutorials
 
-- [Official REST Framework - A Beginner's Guide](https://wsvincent.com/official-django-rest-framework-tutorial-beginners-guide/)
+- [Official REST Framework - A Beginner's Guide](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
 - [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 - [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
