@@ -99,6 +99,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail
 
 ### ECommerce
+- [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
 
