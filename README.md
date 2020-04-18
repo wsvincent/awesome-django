@@ -4,7 +4,6 @@
 </div>
 
 # Awesome Django
-
 > A curated list of awesome things related to Django.
 
 ## Contents
@@ -55,13 +54,14 @@
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
+
+
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting
 
 ### Admin
-
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Import/export data more easily with admin integration
@@ -69,7 +69,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin
 
 ### APIs
-
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this
 - [django-rest-auth](https://github.com/Tivix/django-rest-auth) - REST API endpoints for authentication and registration
@@ -80,41 +79,34 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
 ### Async
-
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [starlette](https://github.com/encode/starlette) - ASGI framework
 
 ### Commands
-
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`
 - [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library
 - [django-dbbackup](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files
 
 ### Configuration
-
 - [confidential](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support)
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files
 
 ### Content Management Systems
-
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail
 
 ### ECommerce
-
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
 
 ### Files/Images
-
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files
 
 ### Forms
-
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
@@ -122,7 +114,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [bleach](https://github.com/mozilla/bleach) - Technically not a Django package but very useful
 
 ### Models
-
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities
@@ -133,32 +124,27 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin
 
 ### Search
-
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 
 ### Performance
-
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code
 - [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries
 - [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection
 - [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries
 
 ### Static Assets
-
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django
 
 ### Task Queues
-
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
 
 ### Testing
-
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django
 - [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order
@@ -169,18 +155,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project)
 
 ### Users
-
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects
 
 ### Views
-
 - [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
 
 ### URLs
-
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
 - [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models
 
@@ -261,7 +244,6 @@ _A short list of Python packages that work well with Django._
 ### Books
 
 _Django 3.0_
-
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
@@ -270,17 +252,14 @@ _Django 3.0_
 - [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
 
 _Django 2.2_
-
 - [Tango with Django](https://www.tangowithdjango.com/)
 - [Build a website with Django 2](https://djangobook.com/build-a-website-with-django-2/)
 
 _Django 2.1_
-
 - [Practical Django 2 and Channels 2](https://www.amazon.com/Practical-Django-Channels-Applications-Capabilities/dp/1484240987)
 - [Django 2 Web Development Cookbook](https://www.amazon.com/Django-Web-Development-Cookbook-practical/dp/1788837681)
 
 _Django 2.0_
-
 - [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
 - [Django Design Patterns and Best Practices](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349)
 - [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
@@ -293,7 +272,6 @@ _Django 1.11_
 - [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
 
 ### Videos
-
 - [Python Django Crash Course 2019 by Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be)
 - [Full Stack React & Django by Traversy Media](https://www.youtube.com/watch?v=Uyei2iDA4Hs&feature=youtu.be)
 - [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
@@ -304,7 +282,6 @@ _Django 1.11_
 ## Hosting
 
 ### PaaS (Platforms-as-a-Service)
-
 - [Heroku](https://www.heroku.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com)
 - [Divio](https://www.divio.com/)
@@ -316,7 +293,6 @@ _Django 1.11_
 - [Render](https://render.com/)
 
 ### IaaS (Infrastructure-as-a-Service)
-
 - [Digital Ocean](https://www.digitalocean.com)
 - [Linode](https://www.linode.com/)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
@@ -324,7 +300,6 @@ _Django 1.11_
 ## Projects
 
 ### Boilerplate
-
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
 - [djangox](https://github.com/wsvincent/djangox/) - A simpler approach with complete user authentication flow, Pipenv, and more.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
@@ -337,7 +312,6 @@ _Django 1.11_
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings
 
 ### Open Source
-
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
 - [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 - [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone
@@ -368,6 +342,7 @@ _The most popular way to build web APIs with Django._
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
+
 
 ### License
 
