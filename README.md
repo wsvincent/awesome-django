@@ -78,6 +78,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
+
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [starlette](https://github.com/encode/starlette) - ASGI framework
@@ -224,7 +225,6 @@ _A short list of Python packages that work well with Django._
 - [Complete listing of all PyCons globally](https://pycon.org)
 
 ### Newsletters
-
 - [Django News](https://django-news.com) - Weekly newsletter on announcements, articles, projects, and talks.
 
 ### Podcasts
