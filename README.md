@@ -18,15 +18,16 @@
   - [ECommerce](#ecommerce)
   - [Files/Images](#files-images)
   - [Forms](#forms)
+  - [Logging](#logging)
   - [Models](#models)
   - [Performance](#performance)
   - [Search](#search)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
   - [Testing](#testing)
+  - [URLs](#urls)
   - [Users](#users)
   - [Views](#views)
-  - [URLs](#urls)
 - [Python Packages](#python-packages)
 - [Resources](#resources)
   - [Official](#official-resources)
@@ -79,7 +80,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django
 
-
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django
 - [starlette](https://github.com/encode/starlette) - ASGI framework
@@ -115,6 +115,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
 - [bleach](https://github.com/mozilla/bleach) - Technically not a Django package but very useful
 
+### Logging
+- [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+
 ### Models
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals
@@ -125,15 +128,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin
 
-### Search
-- [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
-- [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
-
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code
 - [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries
 - [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection
 - [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries
+
+### Search
+- [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
+- [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin
 
 ### Static Assets
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django
@@ -155,6 +158,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project)
+- [django-swagger-tester](https://github.com/sondrelg/django-swagger-tester) - Django test utility for validating Swagger documentation
+
+### URLs
+- [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
+- [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth
@@ -164,10 +172,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django
-
-### URLs
-- [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs
-- [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models
 
 ## Python Packages
 
