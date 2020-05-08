@@ -114,7 +114,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
-- [bleach](https://github.com/mozilla/bleach) - Technically not a Django package but very useful
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
@@ -180,6 +179,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 _A short list of Python packages that work well with Django._
 
+- [bleach](https://github.com/mozilla/bleach) - Sanitize your inputs/forms
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter
 - [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement
 - [huey](https://github.com/coleifer/huey) - A little task queue for Python
