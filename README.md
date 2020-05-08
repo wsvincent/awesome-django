@@ -136,6 +136,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries
 - [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection
 - [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries
+- [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs 
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
