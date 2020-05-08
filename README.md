@@ -8,6 +8,10 @@
 
 ## Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
   - [APIs](#apis)
@@ -16,7 +20,7 @@
   - [Configuration](#configuration)
   - [Content Management Systems](#content-management-systems)
   - [ECommerce](#ecommerce)
-  - [Files/Images](#files-images)
+  - [Files/Images](#filesimages)
   - [Forms](#forms)
   - [Logging](#logging)
   - [Models](#models)
@@ -30,31 +34,31 @@
   - [Views](#views)
 - [Python Packages](#python-packages)
 - [Resources](#resources)
-  - [Official](#official-resources)
-  - [External](#external-resources)
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
   - [Community](#community)
   - [Conferences](#conferences)
+  - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
   - [Tutorials](#tutorials)
   - [Books](#books)
   - [Videos](#videos)
 - [Hosting](#hosting)
-  - [PaaS](#paas-platforms-as-a-service)
-  - [IaaS](#iaas-infrastructure-as-a-service)
+  - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
+  - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
   - [Open Source Projects](#open-source-projects)
 - [Django REST Framework](#django-rest-framework)
-  - [Resources](#drf-resources)
-  - [Tutorials](#drf-tutorials)
-  - [DRF Boilerplate](#drf-boilerplate)
-  - [Open Source Apps](#drf-open-source-apps)
+  - [DRF Resources](#drf-resources)
+  - [DRF Tutorials](#drf-tutorials)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Third-Party Packages
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
-
-
 
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django
@@ -193,7 +197,7 @@ _A short list of Python packages that work well with Django._
 - [Project Website](https://www.djangoproject.com/) - Official Django website
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals
-- [Source Code](https://github.com/django/django/) - Hosted on Github
+- [Source Code](https://github.com/django/django/) - Hosted on GitHub
 
 ### External Resources
 
@@ -229,6 +233,7 @@ _A short list of Python packages that work well with Django._
 - [Complete listing of all PyCons globally](https://pycon.org)
 
 ### Newsletters
+
 - [Django News](https://django-news.com) - Weekly newsletter on announcements, articles, projects, and talks.
 
 ### Podcasts
@@ -269,7 +274,6 @@ _Django 2.0_
 - [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
 
 _Django 1.11_
-
 - [Two Scoops of Django: Best Practices for Django 1.11](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-1-11)
 - [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 - [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
@@ -315,7 +319,7 @@ _Django 1.11_
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings
 
-### Open Source
+### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
 - [Newspaper app with custom user model, full user auth](https://github.com/wsvincent/djangoforbeginners/tree/master/ch15-comments)
 - [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone
@@ -323,7 +327,7 @@ _Django 1.11_
 - [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 - [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp)
 - [Zulip](https://github.com/zulip/zulip/) - Open-source team chat
-- [django-oscar](https://github.com/django-oscar/django-oscar/) - E-commerce for Django
+- [django-oscar]() - E-commerce for Django
 - [saleor](https://github.com/mirumee/saleor/) - E-commerce storefront
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django
@@ -347,7 +351,6 @@ _The most popular way to build web APIs with Django._
 - [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
 
-
-### License
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
