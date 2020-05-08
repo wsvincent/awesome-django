@@ -98,7 +98,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files
 
 ### Content Management Systems
-- [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS)
+- [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail
