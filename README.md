@@ -37,7 +37,6 @@
   - [Podcasts](#podcasts)
   - [Tutorials](#tutorials)
   - [Books](#books)
-  - [Courses](#courses)
   - [Videos](#videos)
 - [Hosting](#hosting)
   - [PaaS](#paas-platforms-as-a-service)
