@@ -35,14 +35,12 @@
 - [Python Packages](#python-packages)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
+  - [Educational](#educational)
   - [Community](#community)
   - [Conferences](#conferences)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
-  - [Tutorials](#tutorials)
   - [Books](#books)
-  - [Videos](#videos)
 - [Hosting](#hosting)
   - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
@@ -201,19 +199,21 @@ _A short list of Python packages that work well with Django._
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals
 - [Source Code](https://github.com/django/django/) - Hosted on GitHub
 
-### External Resources
+### Educational
 
-- [LearnDjango](https://learndjango.com/) - Up-to-date tutorials on Django and Django REST Framework.
 - [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
 - [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
-- [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
-- [Pony Checkup](https://www.ponycheckup.com/) - Security checkups for Django sites.
-- [Django Hunter](https://github.com/6IX7ine/djangohunter) - Tool to help identify incorrectly configured Django applications that are exposing sensitive information.
+- [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
+- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 - [Simple is Better than Complex](https://simpleisbetterthancomplex.com/) - Regularly updated website with many tutorials and tips on Django.
 - [Full Stack Python's Django Page](https://www.fullstackpython.com/django.html) - Explanation of Django philosophy and links to other resources and tutorials.
 - [RealPython](https://realpython.com/tutorials/django/) - Many high-quality tutorials on Django.
 - [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
+- [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
+- [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and writes regular tutorials.
+- [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
+- [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 
 ### Community
 
@@ -245,12 +245,6 @@ _A short list of Python packages that work well with Django._
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 - [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
-### Tutorials
-
-- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
-- [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Create a lending library app.
-- [A Complete Beginner's Guide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/) - In-depth and excellent walkthrough of a new Django app
-- [Build a HackerNews clone](https://medium.com/@danieldng/a-little-hacker-news-in-django-part-1-f12aa81dc25d) - Very well-done tutorial for Django 2.0.
 
 ### Books
 
@@ -282,14 +276,6 @@ _Django 1.11_
 - [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 - [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
 - [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
-
-### Videos
-- [Python Django Crash Course 2019 by Traversy Media](https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be)
-- [Full Stack React & Django by Traversy Media](https://www.youtube.com/watch?v=Uyei2iDA4Hs&feature=youtu.be)
-- [Just Django](https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ)
-- [Try Django from Coding for Entrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
-- [Python Django Tutorial by Corey Schafer](https://www.youtube.com/watch?v=UmljXZIypDc&feature=youtu.be)
-- [CS50's Web Programming with Python and JavaScript](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 ## Hosting
 
