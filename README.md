@@ -137,7 +137,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection
 - [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries
 - [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
-- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs 
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django
@@ -261,6 +261,8 @@ _Django 3.0_
 - [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
 - [Django 3 by Example](https://djangobyexample.com/)
 - [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
+- [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
+- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x?variant=31605362196567)
 
 _Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
