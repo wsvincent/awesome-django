@@ -108,6 +108,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files
+- [django-imgix](https://github.com/imgix/django-imgix) - Transform, optimize, and intelligently cache your entire image library for fast websites and app. Commercial project w/ generous free tier.
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms
