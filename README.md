@@ -214,6 +214,7 @@ _A short list of Python packages that work well with Django._
 - [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and writes regular tutorials.
 - [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
+- [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for django with best practices and examples.
 
 ### Community
 
