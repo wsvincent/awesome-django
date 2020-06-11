@@ -309,6 +309,7 @@ _Django 1.11_
 - [django2-project-template](https://github.com/vigo/django2-project-template/) - A quick starter template with PostgreSQL.
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings
+- [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
