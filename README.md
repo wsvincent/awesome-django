@@ -105,6 +105,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
+- [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files
