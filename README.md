@@ -75,6 +75,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this
 - [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework
 - [django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth
+- [djaq](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth
 - [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django
