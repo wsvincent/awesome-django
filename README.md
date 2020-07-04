@@ -50,6 +50,8 @@
 - [Django REST Framework](#django-rest-framework)
   - [DRF Resources](#drf-resources)
   - [DRF Tutorials](#drf-tutorials)
+- [Wagtail](#wagtail)
+  - [Wagtail Resources](#wagtail-resources)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -345,6 +347,17 @@ _The most popular way to build web APIs with Django._
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
+
+## Wagtail
+
+_Wagtail, the powerful CMS for modern websites._
+
+### Wagtail Resources
+
+- [Official Documentation](https://wagtail.io/)
+- [Wagtail Source Code](https://github.com/wagtail/wagtail/)
+- [awesome-wagtail](https://github.com/springload/awesome-wagtail)
+- [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 
 ## License
 
