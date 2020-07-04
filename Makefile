@@ -2,8 +2,12 @@ build: toc
 
 .PHONY: alex
 alex:
-	npx alex README.md
+	@npx alex README.md
+
+.PHONY: lint
+lint:
+	@npx awesome-lint README.md
 
 .PHONY: toc
 toc:
-	npx doctoc README.md
+	@npx doctoc README.md
