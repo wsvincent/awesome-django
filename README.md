@@ -328,6 +328,7 @@ _Django 1.11_
 - [saleor](https://github.com/mirumee/saleor/) - E-commerce storefront
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django
+- [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects
 
 ## Django REST Framework
 
