@@ -168,6 +168,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [django-swagger-tester](https://github.com/sondrelg/django-swagger-tester) - Django test utility for validating Swagger documentation.
+- [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 
 ### URLs
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
