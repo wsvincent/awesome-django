@@ -150,6 +150,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file.
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django.
+- [django-protected-media](https://github.com/cobusc/django-protected-media) - manages media that are considered sensitive in a protected fashion.
 
 ### Task Queues
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
