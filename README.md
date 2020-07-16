@@ -26,6 +26,7 @@
   - [Models](#models)
   - [Performance](#performance)
   - [Search](#search)
+  - [Security](#security)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
   - [Testing](#testing)
@@ -145,6 +146,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
+
+### Security
+- [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
+- [django-feature-policy](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 
 ### Static Assets
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
