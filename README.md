@@ -163,6 +163,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue.
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django.
 - [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
+- [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability and performance.
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
