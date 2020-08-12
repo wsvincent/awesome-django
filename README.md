@@ -269,15 +269,18 @@ _A short list of Python packages that work well with Django._
 
 ### Books
 
-_Django 3.0_
+_Django 3.1_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
+
+_Django 3.0_
 - [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x?variant=31605362196567)
 - [Django 3 by Example](https://djangobyexample.com/)
 - [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
+- [Mastering Django](https://www.amazon.com/Mastering-Django-Nigel-George/dp/0648884414/)
 
 _Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
@@ -293,10 +296,8 @@ _Django 2.0_
 - [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
 
 _Django 1.11_
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-1-11)
 - [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 - [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
-- [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
 
 ## Hosting
 
