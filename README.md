@@ -136,6 +136,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+- [model_bakery](https://github.com/model-bakers/model_bakery) - Object factory for django.
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
