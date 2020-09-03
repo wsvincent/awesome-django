@@ -8,53 +8,57 @@
 
 ## Contents
 
+<!--lint disable awesome-toc-->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Third-Party Packages](#third-party-packages)
-  - [Admin](#admin)
-  - [APIs](#apis)
-  - [Async](#async)
-  - [Commands](#commands)
-  - [Configuration](#configuration)
-  - [Content Management Systems](#content-management-systems)
-  - [ECommerce](#ecommerce)
-  - [Files/Images](#filesimages)
-  - [Forms](#forms)
-  - [Logging](#logging)
-  - [Models](#models)
-  - [Performance](#performance)
-  - [Search](#search)
-  - [Security](#security)
-  - [Static Assets](#static-assets)
-  - [Task Queues](#task-queues)
-  - [Testing](#testing)
-  - [URLs](#urls)
-  - [Users](#users)
-  - [Views](#views)
-- [Python Packages](#python-packages)
-- [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [Educational](#educational)
-  - [Community](#community)
-  - [Conferences](#conferences)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [Books](#books)
-- [Hosting](#hosting)
-  - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
-  - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
-- [Projects](#projects)
-  - [Boilerplate](#boilerplate)
-  - [Open Source Projects](#open-source-projects)
-- [Django REST Framework](#django-rest-framework)
-  - [DRF Resources](#drf-resources)
-  - [DRF Tutorials](#drf-tutorials)
-- [Wagtail](#wagtail)
-  - [Wagtail Resources](#wagtail-resources)
+- [Awesome Django](#awesome-django)
+  - [Contents](#contents)
+  - [Third-Party Packages](#third-party-packages)
+    - [Admin](#admin)
+    - [APIs](#apis)
+    - [Async](#async)
+    - [Commands](#commands)
+    - [Configuration](#configuration)
+    - [Content Management Systems](#content-management-systems)
+    - [ECommerce](#ecommerce)
+    - [Files/Images](#filesimages)
+    - [Forms](#forms)
+    - [Logging](#logging)
+    - [Models](#models)
+    - [Performance](#performance)
+    - [Search](#search)
+    - [Security](#security)
+    - [Static Assets](#static-assets)
+    - [Task Queues](#task-queues)
+    - [Testing](#testing)
+    - [URLs](#urls)
+    - [Users](#users)
+    - [Views](#views)
+  - [Python Packages](#python-packages)
+  - [Resources](#resources)
+    - [Official Resources](#official-resources)
+    - [Educational](#educational)
+    - [Community](#community)
+    - [Conferences](#conferences)
+    - [Newsletters](#newsletters)
+    - [Podcasts](#podcasts)
+    - [Books](#books)
+  - [Hosting](#hosting)
+    - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
+    - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
+  - [Projects](#projects)
+    - [Boilerplate](#boilerplate)
+    - [Open Source Projects](#open-source-projects)
+  - [Django REST Framework](#django-rest-framework)
+    - [DRF Resources](#drf-resources)
+    - [DRF Tutorials](#drf-tutorials)
+  - [Wagtail](#wagtail)
+    - [Wagtail Resources](#wagtail-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!--lint enable awesome-toc-->
 
 ## Third-Party Packages
 
@@ -75,6 +79,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 
 ### APIs
+<!--lint disable double-link-->
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 - [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
@@ -85,6 +90,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
+- [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
+<!--lint enable double-link-->
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
@@ -100,12 +107,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables.
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
+- [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables
 
 ### Content Management Systems
+<!--lint disable double-link-->
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
+<!--lint enable double-link-->
 
 ### ECommerce
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
@@ -142,7 +152,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
 - [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
 - [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
-- [django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django.
+- [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 
 ### Search
@@ -172,7 +182,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
-- [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [django-swagger-tester](https://github.com/sondrelg/django-swagger-tester) - Django test utility for validating Swagger documentation.
@@ -234,15 +243,18 @@ _A short list of Python packages that work well with Django._
 - [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
+- [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
 
 ### Community
 
+<!--lint disable double-link-->
 - [Django Forum](https://forum.djangoproject.com/) - Discourse Board.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
 - [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 - IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
+<!--lint enable double-link-->
 
 ### Conferences
 
@@ -269,15 +281,18 @@ _A short list of Python packages that work well with Django._
 
 ### Books
 
-_Django 3.0_
+_Django 3.1_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
+
+_Django 3.0_
 - [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x?variant=31605362196567)
 - [Django 3 by Example](https://djangobyexample.com/)
 - [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
+- [Mastering Django](https://www.amazon.com/Mastering-Django-Nigel-George/dp/0648884414/)
 
 _Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
@@ -293,10 +308,8 @@ _Django 2.0_
 - [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
 
 _Django 1.11_
-- [Two Scoops of Django: Best Practices for Django 1.11](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-1-11)
 - [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
 - [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
-- [Beginning Django](https://www.amazon.com/Beginning-Django-Application-Development-Deployment/dp/1484227867)
 
 ## Hosting
 
@@ -340,11 +353,10 @@ _Django 1.11_
 - [Image Sharing Blog](https://github.com/MeNsaaH/soMedia)
 - [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp)
 - [Zulip](https://github.com/zulip/zulip/) - Open-source team chat.
-- [saleor](https://github.com/mirumee/saleor/) - E-commerce storefront.
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
-- [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics
+- [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 
 ## Django REST Framework
@@ -353,12 +365,15 @@ _The most popular way to build web APIs with Django._
 
 ### DRF Resources
 
+<!--lint disable double-link-->
 - [Official Documentation](https://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
 - [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)
+<!--lint enable double-link-->
 
 ### DRF Tutorials
 
+<!--lint ignore double-link-->
 - [Official REST Framework - A Beginner's Guide](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
 - [DRF Blog API](https://wsvincent.com/django-rest-framework-tutorial/)
 - [Building APIs with Django and DRF](https://books.agiliq.com/projects/django-api-polls-tutorial/en/latest/)
@@ -371,9 +386,10 @@ _The most popular way to build web APIs with Django._
 _Wagtail, the powerful CMS for modern websites._
 
 ### Wagtail Resources
-
+<!--lint disable double-link-->
 - [Official Documentation](https://wagtail.io/)
 - [Wagtail Source Code](https://github.com/wagtail/wagtail/)
 - [awesome-wagtail](https://github.com/springload/awesome-wagtail)
 - [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
+<!--lint enable double-link-->
