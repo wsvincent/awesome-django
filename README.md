@@ -357,6 +357,7 @@ _Django 1.11_
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
+- [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 
 ## Django REST Framework
 
