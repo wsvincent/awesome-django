@@ -81,7 +81,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### APIs
 <!--lint disable double-link-->
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
-<!--lint enable double-link-->
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 - [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
 - [django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
@@ -91,6 +90,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
+<!--lint enable double-link-->
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
@@ -110,10 +110,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Content Management Systems
 <!--lint disable double-link-->
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
-<!--lint enable double-link-->
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
+<!--lint enable double-link-->
 
 ### ECommerce
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
@@ -245,14 +245,14 @@ _A short list of Python packages that work well with Django._
 
 ### Community
 
+<!--lint disable double-link-->
 - [Django Forum](https://forum.djangoproject.com/) - Discourse Board.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
-<!--lint disable double-link-->
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
-<!--lint enable double-link-->
 - [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 - IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
+<!--lint enable double-link-->
 
 ### Conferences
 
@@ -362,11 +362,11 @@ _The most popular way to build web APIs with Django._
 
 ### DRF Resources
 
-- [Official Documentation](https://www.django-rest-framework.org/)
 <!--lint disable double-link-->
+- [Official Documentation](https://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
-<!--lint enable double-link-->
 - [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)
+<!--lint enable double-link-->
 
 ### DRF Tutorials
 
@@ -383,10 +383,10 @@ _The most popular way to build web APIs with Django._
 _Wagtail, the powerful CMS for modern websites._
 
 ### Wagtail Resources
-- [Official Documentation](https://wagtail.io/)
 <!--lint disable double-link-->
+- [Official Documentation](https://wagtail.io/)
 - [Wagtail Source Code](https://github.com/wagtail/wagtail/)
 - [awesome-wagtail](https://github.com/springload/awesome-wagtail)
-<!--lint enable double-link-->
 - [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
+<!--lint enable double-link-->
