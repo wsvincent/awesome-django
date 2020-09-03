@@ -234,6 +234,7 @@ _A short list of Python packages that work well with Django._
 - [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
+- [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
 
 ### Community
 
