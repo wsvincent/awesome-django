@@ -108,6 +108,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 - [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
+- [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 
 ### Content Management Systems
 <!--lint disable double-link-->
