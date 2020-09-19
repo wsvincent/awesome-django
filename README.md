@@ -23,6 +23,7 @@
     - [Configuration](#configuration)
     - [Content Management Systems](#content-management-systems)
     - [ECommerce](#ecommerce)
+    - [Editors](#editors)
     - [Files/Images](#filesimages)
     - [Forms](#forms)
     - [Logging](#logging)
@@ -123,6 +124,14 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system.
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
+
+### Editors
+- [django-ckeditor](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
+- [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
+- [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
+- [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django.
+- [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
+- [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites.
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
