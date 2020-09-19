@@ -215,6 +215,7 @@ _A short list of Python packages that work well with Django._
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework.
+- [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
