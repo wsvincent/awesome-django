@@ -220,6 +220,7 @@ _A short list of Python packages that work well with Django._
 - [bleach](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter.
 - [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement.
+- [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [huey](https://github.com/coleifer/huey) - A little task queue for Python.
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
