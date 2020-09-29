@@ -287,31 +287,18 @@ _Django 3.1_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
+- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x)
+- [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/collections/two-scoops-press/products/django-crash-course)
 
 _Django 3.0_
-- [Django Crash Course](https://roygreenfeld.com/products/django-crash-course)
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
-- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/collections/two-scoops-press/products/two-scoops-of-django-3-x?variant=31605362196567)
 - [Django 3 by Example](https://djangobyexample.com/)
 - [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
 - [Mastering Django](https://www.amazon.com/Mastering-Django-Nigel-George/dp/0648884414/)
+- [Build a website with Django 3](https://www.amazon.com/Build-Website-Django-Nigel-George/dp/0648884406/)
 
 _Django 2.2_
 - [Tango with Django](https://www.tangowithdjango.com/)
-- [Build a website with Django 2](https://djangobook.com/build-a-website-with-django-2/)
-
-_Django 2.1_
-- [Practical Django 2 and Channels 2](https://www.amazon.com/Practical-Django-Channels-Applications-Capabilities/dp/1484240987)
-- [Django 2 Web Development Cookbook](https://www.amazon.com/Django-Web-Development-Cookbook-practical/dp/1788837681)
-
-_Django 2.0_
-- [Hello Web App 2.0](https://hellowebbooks.com/learn-django/)
-- [Django Design Patterns and Best Practices](https://www.amazon.com/Django-Design-Patterns-Practices-Industry-standard/dp/1788831349)
-- [Django 2 by Example](https://www.amazon.com/Django-Example-powerful-reliable-applications/dp/1788472489)
-
-_Django 1.11_
-- [Test-Driven Development with Python](https://www.amazon.com/Test-Driven-Development-Python-Selenium-JavaScript/dp/1491958707)
-- [Django RESTful Web Services](https://www.amazon.com/Django-RESTful-Web-Services-services/dp/1788833929)
 
 ## Hosting
 
