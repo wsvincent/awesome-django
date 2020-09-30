@@ -4,7 +4,9 @@
 </div>
 
 # Awesome Django
-> A curated list of awesome things related to Django.
+> A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
+
+Please consider supporting Django by making a donation to the [Django Software Foundation](https://www.djangoproject.com/fundraising/), sponsoring via [GitHub Sponsors](https://github.com/sponsors/django), or buying [official merchandise](https://django.threadless.com/).
 
 ## Contents
 
@@ -139,7 +141,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
-### General 
+### General
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
