@@ -26,6 +26,7 @@
     - [Editors](#editors)
     - [Files/Images](#filesimages)
     - [Forms](#forms)
+    - [General](#general)
     - [Logging](#logging)
     - [Models](#models)
     - [Performance](#performance)
@@ -64,11 +65,6 @@
 ## Third-Party Packages
 
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
-
-- [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
-- [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
-- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
-- [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 
 ### Admin
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
@@ -142,6 +138,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+
+### General 
+- [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
+- [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
+- [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
