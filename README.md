@@ -1,6 +1,4 @@
 ---
-permalink: /
-layout: default
 ---
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a><br>
