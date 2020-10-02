@@ -124,6 +124,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
 
 ### Editors
+<!--lint ignore awesome-list-item-->
 - [django-ckeditor](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
 - [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
