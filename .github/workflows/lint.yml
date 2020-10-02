@@ -1,6 +1,8 @@
 name: Lint Awesome List
 
-on: [push, pull_request]
+on:
+  pull_request:
+  push: [main]
 
 jobs:
   lint:
