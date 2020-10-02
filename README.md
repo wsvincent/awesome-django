@@ -94,6 +94,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 - [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
+- [django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 <!--lint enable double-link-->
 
 ### Async
@@ -219,6 +220,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Views
 - [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins.
+- [django-easy-audit](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
 - [django-stronghold](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login_required.
@@ -343,7 +345,7 @@ _Django 2.2_
 
 ### Boilerplate
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
-- [djangox](https://github.com/wsvincent/djangox/) - A simpler approach with complete user authentication flow, Pipenv, and more.
+- [djangox](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [docker-django](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
