@@ -1,2 +1,7 @@
-.DS_Store
-ab-results-README*
+_site
+.sass-cache
+.jekyll-metadata
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
