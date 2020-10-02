@@ -12,14 +12,20 @@ lint:
 
 .PHONY: static
 static:
+	@JEKYLL_ENV=production \
+		npx -p tailwindcss@${TAILWIND_CSS_VERSION} tailwindcss build \
+			./src/style.css \
+			--config ./tailwind.config.js \
+			--output ./assets/style.css
+
 	@npx -p tailwindcss@${TAILWIND_CSS_VERSION} tailwindcss build \
 		./src/style.css \
 		--config ./tailwind.config.js \
-		--output ./assets/style.css
+		--output ./assets/development.css
 
 .PHONY: serve
 serve:
-	bundle exec jekyll serve --drafts --watch --port 4000
+	@bundle exec jekyll serve --drafts --watch --port 4000
 
 .PHONY: toc
 toc:

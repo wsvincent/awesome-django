@@ -4,10 +4,10 @@ module.exports = {
     purgeLayersByDefault: true,
   },
   purge: {
-    enabled: false, //process.env.JEKYLL_ENV == "production",
+    enabled: process.env.JEKYLL_ENV == "production",
     mode: 'all',
     content: [
-      '*.html'
+      '**/*.html'
     ],
   },
   plugins: [
