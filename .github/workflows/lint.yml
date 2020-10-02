@@ -2,7 +2,9 @@ name: Lint Awesome List
 
 on:
   pull_request:
-  push: [main]
+  push:
+    branches:
+      - main
 
 jobs:
   lint:
