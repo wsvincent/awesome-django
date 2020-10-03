@@ -25,7 +25,7 @@ static:
 
 .PHONY: serve
 serve:
-	@bundle exec jekyll serve --drafts --watch --port 4000
+	@bundle exec jekyll serve --drafts --watch --port 8000
 
 .PHONY: toc
 toc:

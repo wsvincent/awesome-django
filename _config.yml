@@ -10,12 +10,12 @@ url: "https://awesome-django.org" # the base hostname & protocol for your site, 
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-optional-front-matter
 include:
   - README.md
 exclude:
   - "*.md"
-  - Gemfile
-  - Gemfile.lock
+  - Gemfile*
   - LICENSE
   - Makefile
   - postcss.config.js
@@ -26,7 +26,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-    scope:
+  - scope:
       path: "README.md"
     values:
       permalink: "/"
