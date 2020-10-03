@@ -6,9 +6,13 @@
 </div>
 
 # Awesome Django
-> A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
+> A curated list of awesome things related to Django.
+Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and
+<a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
-Please consider supporting Django by making a donation to the [Django Software Foundation](https://www.djangoproject.com/fundraising/), sponsoring via [GitHub Sponsors](https://github.com/sponsors/django), or buying [official merchandise](https://django.threadless.com/).
+Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
+sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
+or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.
 
 ## Contents
 
