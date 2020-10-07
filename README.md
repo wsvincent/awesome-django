@@ -25,6 +25,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Admin](#admin)
   - [APIs](#apis)
   - [Async](#async)
+  - [Caching](#caching)
   - [Commands](#commands)
   - [Configuration](#configuration)
   - [Content Management Systems](#content-management-systems)
@@ -100,6 +101,10 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
 - [starlette](https://github.com/encode/starlette) - ASGI framework.
+
+### Caching
+- [django-cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
+- [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
 ### Commands
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
