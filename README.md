@@ -141,6 +141,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django.
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
 - [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites.
+- [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
@@ -151,7 +152,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
-- [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 
 ### General
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
