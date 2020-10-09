@@ -376,6 +376,7 @@ _Django 2.2_
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
+- [Polaris](https://github.com/stellar/django-polaris) - Stellar Ecosystem Proposal (SEP) implementations maintained by the Stellar Development Foundation (SDF).
 
 ## Django REST Framework
 
