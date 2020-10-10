@@ -346,6 +346,7 @@ _Django 2.2_
 - [Digital Ocean](https://www.digitalocean.com)
 - [Linode](https://www.linode.com/)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+- [Hetzner](https://www.hetzner.com/)
 
 ## Projects
 
