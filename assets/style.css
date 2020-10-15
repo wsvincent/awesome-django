@@ -991,8 +991,7 @@ video {
   padding-right: 1rem;
 }
 
-.py-8 {
-  padding-top: 2rem;
+.pb-8 {
   padding-bottom: 2rem;
 }
 
@@ -1522,14 +1521,13 @@ video {
     margin-bottom: 0;
   }
 
-  .lg\:py-8 {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-  }
-
   .lg\:px-8 {
     padding-left: 2rem;
     padding-right: 2rem;
+  }
+
+  .lg\:pb-8 {
+    padding-bottom: 2rem;
   }
 }
 
