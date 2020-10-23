@@ -1,4 +1,4 @@
-TAILWIND_CSS_VERSION := 1.8.10
+TAILWIND_CSS_VERSION := 1.9.2
 
 build: toc
 
