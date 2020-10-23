@@ -124,6 +124,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
 - [django-cms](https://github.com/divio/django-cms) - CMS for Django.
+- [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
 
