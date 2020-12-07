@@ -190,6 +190,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
 
+### Search engine optimisation
+- [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+
 ### Security
 - [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
 - [django-feature-policy](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
