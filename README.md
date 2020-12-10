@@ -404,6 +404,8 @@ _The most popular way to build web APIs with Django._
 - [DRF with React: Todo API](https://wsvincent.com/django-rest-framework-react-tutorial/)
 - [DRF with React](https://www.valentinog.com/blog/drf/)
 - [Making React and Django play well together](https://fractalideas.com/blog/making-react-and-django-play-well-together/)
+- [DRF with PostGIS and Mapbox: Store search-and-discovery API](https://medium.com/egen/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-4522e1d98739)
+- [DRF with PostGIS and Mapbox: Community-driven delivery app](https://medium.com/egen/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-part-2-d391e143fe67)
 
 ## Wagtail
 
