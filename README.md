@@ -81,6 +81,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
+- [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays accross foreign key relationships.
 
 ### APIs
@@ -170,6 +171,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [django-money](https://github.com/django-money/django-money) - Money fields for forms/models.
+- [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
