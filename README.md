@@ -169,6 +169,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [django-money](https://github.com/django-money/django-money) - Money fields for forms/models.
+- [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
