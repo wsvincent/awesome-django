@@ -391,6 +391,7 @@ _Django 2.2_
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
+- [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 
 ## Django REST Framework
 
