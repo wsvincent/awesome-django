@@ -224,7 +224,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
-- [django-swagger-tester](https://github.com/sondrelg/django-swagger-tester) - Django test utility for validating Swagger documentation.
+- [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 
 ### URLs
