@@ -145,6 +145,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
 - [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+- [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
