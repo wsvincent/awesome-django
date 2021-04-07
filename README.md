@@ -112,6 +112,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
 - [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the click CLI library.
 - [django-dbbackup](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+- [django-liquidb](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 
 ### Configuration
 - [confidential](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
