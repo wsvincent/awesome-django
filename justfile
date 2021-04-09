@@ -12,6 +12,7 @@ TAILWIND_CSS_VERSION := "2.1.1"
 
 @lint:
     npx awesome-lint README.md
+
 @serve:
     modd --file=modd.conf
     bundle exec jekyll serve --drafts --watch --port 8000
