@@ -8,9 +8,13 @@ TAILWIND_CSS_VERSION := "2.1.1"
 
 @build:
     just toc
+    bundle exec jekyll build
 
 @lint:
     npx awesome-lint README.md
+@serve:
+    modd --file=modd.conf
+    bundle exec jekyll serve --drafts --watch --port 8000
 
 @static:
 	JEKYLL_ENV=production \
@@ -24,9 +28,6 @@ TAILWIND_CSS_VERSION := "2.1.1"
 		--config ./tailwind.config.js \
 		--output ./assets/development.css \
 		-w
-
-@serve:
-	bundle exec jekyll serve --drafts --watch --port 8000
 
 @toc:
 	npx doctoc README.md
