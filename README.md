@@ -18,7 +18,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
   - [APIs](#apis)
@@ -31,11 +30,13 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Editors](#editors)
   - [Files/Images](#filesimages)
   - [Forms](#forms)
+  - [Full-stack frameworks](#full-stack-frameworks)
   - [General](#general)
   - [Logging](#logging)
   - [Models](#models)
   - [Performance](#performance)
   - [Search](#search)
+  - [Search engine optimisation](#search-engine-optimisation)
   - [Security](#security)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
