@@ -19,8 +19,8 @@ exclude:
   - LICENSE
   - Makefile
   - postcss.config.js
-  - tailwind.config.js
   - src
+  - tailwind.config.js
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
