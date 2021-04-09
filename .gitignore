@@ -60,6 +60,7 @@ Gemfile.lock
 .jekyll-metadata
 .sass-cache/
 _site/
+assets/development.css
 build
 dist
 node_modules

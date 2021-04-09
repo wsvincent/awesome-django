@@ -16,8 +16,11 @@ include:
 exclude:
   - "*.md"
   - Gemfile*
+  - justfile
   - LICENSE
   - Makefile
+  - modd.conf
+  - package*.json
   - postcss.config.js
   - src
   - tailwind.config.js
