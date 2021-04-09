@@ -11,7 +11,8 @@ TAILWIND_CSS_VERSION := "2.1.1"
     bundle exec jekyll build
 
 @lint:
-    npx awesome-lint README.md
+    -curlylint _layouts/
+    -npx awesome-lint README.md
 
 @serve:
     modd --file=modd.conf

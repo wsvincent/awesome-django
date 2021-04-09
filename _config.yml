@@ -20,6 +20,7 @@ exclude:
   - LICENSE
   - Makefile
   - modd.conf
+  - node_modules
   - package*.json
   - postcss.config.js
   - src
