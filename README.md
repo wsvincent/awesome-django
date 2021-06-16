@@ -84,7 +84,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
 - [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays accross foreign key relationships.
-- [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme
+- [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ### APIs
