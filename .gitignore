@@ -59,6 +59,7 @@ Gemfile.lock
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache/
+.vendor/
 _site/
 assets/development.css
 build
