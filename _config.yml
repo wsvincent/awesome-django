@@ -8,6 +8,7 @@ url: "https://awesome-django.org" # the base hostname & protocol for your site, 
 
 # Build settings
 markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -35,3 +36,56 @@ defaults:
     values:
       permalink: "/"
       layout: "default"
+
+aux_links:
+  "Awesome Django on GitHub":
+    - "//github.com/wsvincent/awesome-django"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+color_scheme: django
+# color_scheme: light
+
+heading_anchors: true
+
+footer_content: "Please consider supporting Django by making a donation to the <a rel=\"sponsored\" href=\"https://www.djangoproject.com/fundraising/\">Django Software Foundation</a>, sponsoring via <a rel=\"sponsored\" href=\"https://github.com/sponsors/django\">GitHub Sponsors</a>, or buying <a rel=\"sponsored\" href=\"https://django.threadless.com/\">official merchandise</a>."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/wsvincent/awesome-django" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+
+search_enabled: false
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 2
+  # Maximum amount of previews per search result
+  # Default: 3
+  previews: 3
+  # Maximum amount of words to display before a matched word in the preview
+  # Default: 5
+  preview_words_before: 5
+  # Maximum amount of words to display after a matched word in the preview
+  # Default: 10
+  preview_words_after: 10
+  # Set the search token separator
+  # Default: /[\s\-/]+/
+  # Example: enable support for hyphenated search words
+  tokenizer_separator: /[\s/]+/
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: true
+  # Enable or disable the search button that appears in the bottom right corner of every page
+  # Supports true or false (default)
+  button: false

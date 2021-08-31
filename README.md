@@ -1,11 +1,14 @@
 ---
+title: "Awesome Django"
 ---
+
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a><br>
   <img width="400" src="./assets/django-logo.svg" alt="Django logo">
 </div>
 
 # Awesome Django
+
 > A curated list of awesome things related to Django. Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and <a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
