@@ -378,6 +378,7 @@ _Django 2.2_
 
 ### Boilerplate
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+- [django-base-site](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
 - [djangox](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
