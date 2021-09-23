@@ -1,19 +1,15 @@
----
-title: "Awesome Django"
----
+# Awesome Django [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-<div align="center">
-  <a href="https://github.com/sindresorhus/awesome#readme"><img src="https://awesome.re/badge-flat.svg" /></a><br>
-  <img width="400" src="./assets/django-logo.svg" alt="Django logo">
-</div>
+> A curated list of awesome things related to Django. 
 
-# Awesome Django
+[Django](https://djangoproject.com) is a batteries-included web application framework written in Python.
 
-> A curated list of awesome things related to Django. Maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and <a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
+This repo is maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and <a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
 or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.
+
 
 ## Contents
 
@@ -277,7 +273,7 @@ _A short list of Python packages that work well with Django._
 
 ### Official Resources
 
-- [Project Website](https://www.djangoproject.com/) - Official Django website.
+<!--lint ignore double-link--> - [Project Website](https://www.djangoproject.com/) - Official Django website.
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
 - [Source Code](https://github.com/django/django/) - Hosted on GitHub.
