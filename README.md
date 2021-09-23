@@ -1,10 +1,13 @@
 # Awesome Django [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to Django. 
+> A curated list of awesome things related to Django.
+
+<div align="center">
+  <img width="400" src="./assets/django-logo.svg" alt="Django logo">
+</div>
+
 
 [Django](https://djangoproject.com) is a batteries-included web application framework written in Python.
-
-This repo is maintained by <a rel="" href="https://github.com/wsvincent">William Vincent</a> and <a rel="" href="https://github.com/jefftriplett">Jeff Triplett</a>.
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
