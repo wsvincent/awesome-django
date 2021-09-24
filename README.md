@@ -148,11 +148,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-ckeditor](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
 - [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
-- [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight wysiwyg editor for Django.
+- [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight WYSIWYG editor for Django.
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
-- [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites.
+- [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
-- [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django
+- [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
@@ -163,7 +163,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
-- [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view.
+- [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Full-stack frameworks
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
