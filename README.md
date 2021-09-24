@@ -149,7 +149,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
 - [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight WYSIWYG editor for Django.
-- [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for django.
+- [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
 - [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
@@ -302,7 +302,7 @@ _A short list of Python packages that work well with Django._
 ### Community
 
 <!--lint disable double-link-->
-- [Django Forum](https://forum.djangoproject.com/) - Discourse Board.
+- [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
