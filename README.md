@@ -1,4 +1,4 @@
-# Awesome Django [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Django
 
 > A curated list of awesome things related to Django.
 
