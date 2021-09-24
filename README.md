@@ -1,4 +1,4 @@
-# Awesome Django
+# Awesome Django [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
 
@@ -124,7 +124,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 - [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
-- [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
+- [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets and allows for different merging strategies all following the twelve-factor app.
 
 ### Content Management Systems
 <!--lint disable double-link-->
