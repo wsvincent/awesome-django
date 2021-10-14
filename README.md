@@ -299,6 +299,8 @@ _A short list of Python packages that work well with Django._
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
 - [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for Django with best practices and examples.
 - [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
+- [Django Central](https://djangocentral.com/django/) - An educational site providing content on Python and web development to all the programmers and budding programmers across the internet. 
+- [MadewithDjango](https://madewithdjango.com/) - A collection of projects made with our favorite Python web framework.
 
 ### Community
 
@@ -407,6 +409,7 @@ _Django 2.2_
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
+- [Django Blog](https://github.com/TheAbhijeet/Django_blog) - A blog application made with Django and bootstrap
 
 ## Django REST Framework
 
