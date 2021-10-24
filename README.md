@@ -341,8 +341,8 @@ _A short list of Python packages that work well with Django._
 
 _Django 3.2_
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
-- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/a-wedge-of-django)
-- [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+- [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+- [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/a-wedge-of-django)
 
 _Django 3.1_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
