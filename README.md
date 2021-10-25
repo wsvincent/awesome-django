@@ -409,7 +409,7 @@ _Django 2.2_
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
-- [Django Blog](https://github.com/TheAbhijeet/Django_blog) - A blog application made with Django and bootstrap
+- [Django Blog](https://github.com/TheAbhijeet/Django_blog) - A blog application made with Django and bootstrap.
 
 ## Django REST Framework
 
