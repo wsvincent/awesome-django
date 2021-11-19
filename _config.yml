@@ -49,7 +49,14 @@ color_scheme: django
 
 heading_anchors: true
 
-footer_content: "Please consider supporting Django by making a donation to the <a rel=\"sponsored\" href=\"https://www.djangoproject.com/fundraising/\">Django Software Foundation</a>, sponsoring via <a rel=\"sponsored\" href=\"https://github.com/sponsors/django\">GitHub Sponsors</a>, or buying <a rel=\"sponsored\" href=\"https://django.threadless.com/\">official merchandise</a>."
+footer_content: >-
+  Please consider supporting Django by making a donation to the 
+  <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>, 
+  sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>, 
+  or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.
+  
+  Awesome Django is not associated with the Django Software Foundation. 
+  Django is a registered trademark of the Django Software Foundation.
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
