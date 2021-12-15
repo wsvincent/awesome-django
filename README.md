@@ -368,6 +368,7 @@ _Django 2.2_
 - [AWS CodeStar](https://aws.amazon.com/codestar/)
 - [Google Cloud](https://cloud.google.com/python/django/)
 - [Zeit Now](https://zeit.co/home)
+- [Appliku](https://appliku.com)
 - [Dokku](http://dokku.viewdocs.io/dokku/)
 - [Render](https://render.com/)
 
