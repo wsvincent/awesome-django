@@ -12,6 +12,7 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-optional-front-matter
+  - jekyll-seo-tag
 include:
   - README.md
 exclude:
