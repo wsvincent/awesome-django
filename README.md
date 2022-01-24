@@ -239,7 +239,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
-- [django-pattern-library](https://github.com/torchbox/django-pattern-library) – Pattern library generator for Django templates, to help testing of UI components.
+- [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 
 ### URLs
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
