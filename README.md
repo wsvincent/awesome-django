@@ -168,6 +168,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Full-stack frameworks
+- [IDOM](https://github.com/idom-team/django-idom) - ReactJS for Python Developers. Build interactive pages without a single line of Javascript!
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 - [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 - [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
