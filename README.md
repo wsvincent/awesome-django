@@ -346,6 +346,7 @@ _A short list of Python packages that work well with Django._
 
 _Django 4.0_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
+- [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 
 _Django 3.2_
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
