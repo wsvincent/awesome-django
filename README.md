@@ -145,7 +145,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions w/ Django ORM
 - [django-pivot](https://github.com/martsberger/django-pivot) - Pivot data in Django querysets
 - [django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres triggers w/ Django ORM
-- [django-pgtrigger](https://github.com/Opus10/django-pghistory) - Postgres trigger based audit w/ Django ORM
+- [django-pghistory](https://github.com/Opus10/django-pghistory) - Postgres trigger based audit w/ Django ORM
 
 ### ECommerce
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
