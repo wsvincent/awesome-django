@@ -27,6 +27,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Commands](#commands)
   - [Configuration](#configuration)
   - [Content Management Systems](#content-management-systems)
+  - [Databases](#databases)
   - [ECommerce](#ecommerce)
   - [Editors](#editors)
   - [Files/Images](#filesimages)
@@ -139,6 +140,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
+
+### Databases
+- [django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions w/ Django ORM
+- [django-pivot](https://github.com/martsberger/django-pivot) - Pivot data in Django querysets
+- [django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres triggers w/ Django ORM
+- [django-pgtrigger](https://github.com/Opus10/django-pghistory) - Postgres trigger based audit w/ Django ORM
 
 ### ECommerce
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
