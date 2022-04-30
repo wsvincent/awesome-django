@@ -151,7 +151,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-ckeditor](https://github.com/shaunsephton/django-ckeditor) - Django admin CKEditor integration.
 - [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
-- [django-wysiwyg-redactor](https://github.com/douglasmiranda/django-wysiwyg-redactor) - A lightweight WYSIWYG editor for Django.
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
 - [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
