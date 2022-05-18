@@ -365,8 +365,6 @@ _Django 3.0_
 - [Mastering Django](https://www.amazon.com/Mastering-Django-Nigel-George/dp/0648884414/)
 - [Build a website with Django 3](https://www.amazon.com/Build-Website-Django-Nigel-George/dp/0648884406/)
 
-_Django 2.2_
-- [Tango with Django](https://www.tangowithdjango.com/)
 
 ## Hosting
 
