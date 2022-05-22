@@ -104,6 +104,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 - [django-ninja](https://django-ninja.rest-framework.com/) - Django Ninja - Fast Django REST framework based on type annotations.
 - [django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
+- [django-rest-cli](https://github.com/py-universe/django-rest-cli) - A CRUD endpoints generator and flexible cookiecutter for rapid REST APIs dev.
 <!--lint enable double-link-->
 
 ### Async
