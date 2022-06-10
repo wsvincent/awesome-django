@@ -414,6 +414,7 @@ _Django 3.0_
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
+- [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config and AB testing.
 
 ## Django REST Framework
 
