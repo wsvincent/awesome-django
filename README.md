@@ -451,3 +451,11 @@ _Wagtail, the powerful CMS for modern websites._
 - [This week in Wagtail](https://wagtail.io/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
 <!--lint enable double-link-->
+
+## Visual Studio Code
+
+_The most popular IDE._
+
+### VS Code Extensions
+
+- [Django Support](https://marketplace.visualstudio.com/items?itemName=almahdi.code-django) - Best syntax highlighter and snippets for Django
