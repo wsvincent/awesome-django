@@ -65,6 +65,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [DRF Tutorials](#drf-tutorials)
 - [Wagtail](#wagtail)
   - [Wagtail Resources](#wagtail-resources)
+- [Visual Studio Code](#visual-studio-code)
+  - [VS Code Extensions](#vs-code-extensions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!--lint enable awesome-toc-->
