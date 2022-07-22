@@ -65,8 +65,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [DRF Tutorials](#drf-tutorials)
 - [Wagtail](#wagtail)
   - [Wagtail Resources](#wagtail-resources)
-- [Visual Studio Code](#visual-studio-code)
-  - [VS Code Extensions](#vs-code-extensions)
+- [Source Code Editing](#source-code-editing)
+  - [Visual Studio Code](#visual-studio-code)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!--lint enable awesome-toc-->
@@ -454,10 +454,10 @@ _Wagtail, the powerful CMS for modern websites._
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
 <!--lint enable double-link-->
 
-## Visual Studio Code
+## Source Code Editing
 
-_The most popular IDE._
+Popular extensions
 
-### VS Code Extensions
+### Visual Studio Code
 
 - [Django Support](https://marketplace.visualstudio.com/items?itemName=almahdi.code-django) - Best syntax highlighter and snippets for Django.
