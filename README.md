@@ -460,4 +460,4 @@ _The most popular IDE._
 
 ### VS Code Extensions
 
-- [Django Support](https://marketplace.visualstudio.com/items?itemName=almahdi.code-django) - Best syntax highlighter and snippets for Django
+- [Django Support](https://marketplace.visualstudio.com/items?itemName=almahdi.code-django) - Best syntax highlighter and snippets for Django.
