@@ -29,6 +29,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Content Management Systems](#content-management-systems)
   - [ECommerce](#ecommerce)
   - [Editors](#editors)
+  - [Email](#email)
   - [Files/Images](#filesimages)
   - [Forms](#forms)
   - [Full-stack frameworks](#full-stack-frameworks)
@@ -155,6 +156,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
+
+### Email
+- [django-email-editor](https://github.com/InQuant/django-email-editor) - Easy and simple email template preview and edit (post_office compatible). 
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
