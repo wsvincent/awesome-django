@@ -228,7 +228,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue.
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue.
-- [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django.
+- [django-redis](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
 - [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
