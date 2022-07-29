@@ -196,6 +196,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+- [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
