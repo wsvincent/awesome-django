@@ -129,6 +129,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 - [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
+- [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
 <!--lint enable double-link-->
 
 ### Content Management Systems
