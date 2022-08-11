@@ -252,6 +252,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
 - [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
 - [django-robots](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
+- [django-redirects](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
