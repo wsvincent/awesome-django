@@ -180,6 +180,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
+- [django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
