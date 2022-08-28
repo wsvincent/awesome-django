@@ -129,7 +129,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 - [djenv](https://github.com/danieljdufour/djenv) - Load Django settings from environmental variables.
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
-- [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
+- [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
+- [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
 <!--lint enable double-link-->
 
 ### Content Management Systems
@@ -180,6 +181,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
+- [django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
+- [django-freeze](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
@@ -197,6 +200,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+- [django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
+- [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+- [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
@@ -229,11 +235,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue.
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue.
-- [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django.
+- [django-redis](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
 - [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
-- [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability and performance.
+- [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
@@ -251,6 +257,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
 - [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
 - [django-robots](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
+- [django-redirects](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
@@ -420,7 +427,7 @@ _Django 3.0_
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
-- [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config and AB testing.
+- [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 
 ## Django REST Framework
 
