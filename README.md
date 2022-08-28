@@ -160,6 +160,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
+- [file-validator](https://github.com/rzashakeri/file_validator) - The first Python validation library to validate files using type, mime, extension and magic numbers
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
