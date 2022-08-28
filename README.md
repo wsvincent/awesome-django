@@ -45,7 +45,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [URLs](#urls)
   - [Users](#users)
   - [Views](#views)
-  - [Validators](#validators)
 - [Python Packages](#python-packages)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -271,10 +270,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
 - [django-stronghold](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login_required.
-
-
-### Validators
-- [Django Audio Validator](https://github.com/rzashakeri/django-audio-validator) - a Audio Validator For Django With MIME type checking And Extension
 
 ## Python Packages
 
