@@ -162,6 +162,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 
 ### Forms
+- [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 - [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 - [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
