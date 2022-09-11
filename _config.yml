@@ -27,6 +27,7 @@ exclude:
   - postcss.config.js
   - src
   - tailwind.config.js
+  - vendor
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
@@ -97,3 +98,27 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+
+nav_external_links:
+  - title: Third-Party Packages
+    url: "#third-party-packages"
+    hide_icon: true
+  - title: Python Packages
+    url: "#python-packages"
+    hide_icon: true
+  - title: Resources
+    url: "#resources"
+    hide_icon: true
+  - title: Hosting
+    url: "#hosting"
+    hide_icon: true
+  - title: Projects
+    url: "#projects"
+    hide_icon: true
+  - title: Django REST Framework
+    url: "#django-rest-framework"
+    hide_icon: true
+  - title: Wagtail
+    url: "#wagtail"
+    hide_icon: true
