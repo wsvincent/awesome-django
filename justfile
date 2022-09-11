@@ -8,13 +8,19 @@
     just toc
     bundle exec jekyll build
 
+@down:
+    just down
+
 @lint:
     -curlylint _layouts/
     -npx awesome-lint README.md
 
 @serve:
-    modd --file=modd.conf
-    bundle exec jekyll serve --drafts --watch --port 8000
+    # modd --file=modd.conf
+    just up ""
+
+@up *ARGS="-d":
+    docker-compose up {{ ARGS }}
 
 @toc:
 	npx doctoc README.md
