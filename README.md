@@ -144,7 +144,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 <!--lint enable double-link-->
 
 ### Database connectors
-- [djongo](https://github.com/doableware/djongo)
+- [djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
 ### ECommerce
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
