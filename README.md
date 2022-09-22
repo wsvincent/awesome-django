@@ -368,17 +368,12 @@ _Django 4.0_
 - [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
+- [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
 
 _Django 3.2_
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 - [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/a-wedge-of-django)
-
-_Django 3.0_
-- [Django 3 by Example](https://djangobyexample.com/)
-- [Django 3 Web Development Cookbook](https://www.packtpub.com/eu/web-development/django-3-web-development-cookbook-fourth-edition)
-- [Mastering Django](https://www.amazon.com/Mastering-Django-Nigel-George/dp/0648884414/)
-- [Build a website with Django 3](https://www.amazon.com/Build-Website-Django-Nigel-George/dp/0648884406/)
 
 
 ## Hosting
