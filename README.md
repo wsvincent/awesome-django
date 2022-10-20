@@ -300,7 +300,8 @@ _A short list of Python packages that work well with Django._
 
 ### Official Resources
 
-<!--lint ignore double-link--> - [Project Website](https://www.djangoproject.com/) - Official Django website.
+<!--lint ignore double-link--> 
+- [Project Website](https://www.djangoproject.com/) - Official Django website.
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
 - [Source Code](https://github.com/django/django/) - Hosted on GitHub.
