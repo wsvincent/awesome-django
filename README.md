@@ -35,10 +35,11 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Full-stack frameworks](#full-stack-frameworks)
   - [General](#general)
   - [Logging](#logging)
+  - [Model Fields](#model-fields)
   - [Models](#models)
   - [Performance](#performance)
   - [Search](#search)
-  - [Search engine optimisation](#search-engine-optimisation)
+  - [Search Engine Optimisation](#search-engine-optimisation)
   - [Security](#security)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
@@ -143,7 +144,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
 
-### Database connectors
+### Database Connectors
 - [djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
 ### ECommerce
@@ -166,6 +167,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+
 ### Forms
 - [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
@@ -225,7 +227,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
 - [django-admin-search](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
-### Search engine optimisation
+### Search Engine Optimisation
 - [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ### Security
