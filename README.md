@@ -35,10 +35,11 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Full-stack frameworks](#full-stack-frameworks)
   - [General](#general)
   - [Logging](#logging)
+  - [Model Fields](#model-fields)
   - [Models](#models)
   - [Performance](#performance)
   - [Search](#search)
-  - [Search engine optimisation](#search-engine-optimisation)
+  - [Search Engine Optimisation](#search-engine-optimisation)
   - [Security](#security)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
@@ -143,7 +144,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
 
-### Database connectors
+### Database Connectors
 - [djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
 ### ECommerce
@@ -166,6 +167,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+
 ### Forms
 - [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
@@ -194,22 +196,23 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 - [DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 
-### Models
-- [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
-- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
+### Model Fields
+- [django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
+- [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
 - [django-money](https://github.com/django-money/django-money) - Money fields for forms/models.
-- [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
+- [django-streamfield](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
+
+### Models
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
+- [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
 - [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
-- [django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
-- [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
-- [django-streamfield](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
@@ -224,7 +227,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
 - [django-admin-search](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
 
-### Search engine optimisation
+### Search Engine Optimisation
 - [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ### Security
@@ -257,6 +260,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
+- [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 - [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
