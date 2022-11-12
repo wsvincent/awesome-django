@@ -221,6 +221,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-query-profiler](https://github.com/django-query-profiler/django-query-profiler) - Django query profiler to help resolve N+1 queries.
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+- [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
