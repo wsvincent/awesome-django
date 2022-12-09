@@ -420,6 +420,7 @@ _Django 3.2_
 - [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 - [cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 - [launchr](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+- [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
