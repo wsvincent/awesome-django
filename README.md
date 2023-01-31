@@ -297,6 +297,7 @@ _A short list of Python packages that work well with Django._
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework.
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
+- [python-fsutil](https://github.com/fabiocaccamo/python-fsutil) - High-level file-system operations.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
