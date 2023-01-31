@@ -296,7 +296,7 @@ _A short list of Python packages that work well with Django._
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework.
-- [python-benedict](https://github.com/fabiocaccamo/python-benedict) - dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
+- [python-benedict](https://github.com/fabiocaccamo/python-benedict) - A dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
