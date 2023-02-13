@@ -215,6 +215,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
 
 ### Performance
+- [Bencher](https://bencher.dev/) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI.
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
 - [New Relic](https://newrelic.com/python/django) - Time middleware, views, and SQL queries.
 - [Scout](https://docs.scoutapm.com/#django) - Time middleware, template rendering, and SQL queries with automatic N+1 detection.
