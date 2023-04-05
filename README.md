@@ -210,7 +210,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
-- [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
+- [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
