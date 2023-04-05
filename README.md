@@ -167,6 +167,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+- [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
 
 ### Forms
 - [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
