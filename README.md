@@ -4,9 +4,16 @@
 
 > A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
 
+<br>
+
 <div align="center">
-  <img width="400" src="./assets/django-logo.svg" alt="Django logo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/django-logo-negative.svg">
+  <img alt="Dark and Light mode version of the Django logo" src="./assets/django-logo-positive.svg">
+</picture>
 </div>
+
+<br>
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
