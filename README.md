@@ -4,9 +4,16 @@
 
 > A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
 
+<br>
+
 <div align="center">
-  <img width="400" src="./assets/django-logo.svg" alt="Django logo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/django-logo-negative.svg">
+  <img alt="Dark and Light mode version of the Django logo" src="./assets/django-logo-positive.svg">
+</picture>
 </div>
+
+<br>
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
@@ -167,7 +174,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
-- [File Validator](https://github.com/file-validator/file-validator) - Python validation library to validate files using type, mime, extension, magic numbers and size that supports Django. ✅
+- [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
+- [File Validator](https://github.com/file-validator/file-validator) - Python validation library to validate files using type, mime, extension, magic numbers and size that supports Django.
 
 ### Forms
 - [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
@@ -210,7 +218,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
-- [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
+- [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
