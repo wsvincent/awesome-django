@@ -204,6 +204,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Logging
 - [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 - [DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
+- [django-requestlogs](https://github.com/Raekkeri/django-requestlogs) - Package providing middleware and other helpers for audit logging.
 
 ### Model Fields
 - [django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
