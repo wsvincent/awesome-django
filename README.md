@@ -245,6 +245,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-feature-policy](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 - [django-protected-media](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 - [DJ Checkup](https://djcheckup.com) - Runs several checks on your deployed Django site to check for common security mistakes.
+- [django-forbid](https://github.com/pysnippet/django-forbid) - Grant or deny user access based on device and/or location, including VPN detection.
 
 ### Static Assets
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
