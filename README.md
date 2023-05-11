@@ -4,9 +4,16 @@
 
 > A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
 
+<br>
+
 <div align="center">
-  <img width="400" src="./assets/django-logo.svg" alt="Django logo">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/django-logo-negative.svg">
+  <img alt="Dark and Light mode version of the Django logo" src="./assets/django-logo-positive.svg">
+</picture>
 </div>
+
+<br>
 
 Please consider supporting Django by making a donation to the <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
 sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
@@ -133,6 +140,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 - [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 - [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
+- [environs](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
 <!--lint enable double-link-->
 
 ### Content Management Systems
@@ -168,6 +176,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
+- [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
 
 ### Forms
 - [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
@@ -210,7 +219,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
-- [django-simple-history](https://github.com/treyhunner/django-simple-history) - Store model history and view/revert changes from the admin.
+- [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
@@ -370,8 +379,10 @@ _A short list of Python packages that work well with Django._
 
 ### Books
 
-_Django 4.0_
+_Django 4.2_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
+
+_Django 4.0_
 - [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
