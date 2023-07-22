@@ -1,5 +1,3 @@
-version: "3"
-
 services:
 
   devd:
@@ -7,6 +5,7 @@ services:
     command: --livewatch
     expose:
       - 8000
+    init: true
     ports:
       - 8000:8000
     volumes:
@@ -19,6 +18,7 @@ services:
       - BUNDLE_PATH=/usr/local/bundle
     expose:
       - 4000
+    init: true
     ports:
       - 4000:4000
     volumes:
