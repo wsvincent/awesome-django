@@ -172,6 +172,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 - [django-prose](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+- [django-ace](https://github.com/django-ace/django-ace) - ACE integration for Django.
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
