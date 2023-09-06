@@ -52,13 +52,15 @@ color_scheme: django
 heading_anchors: true
 
 footer_content: >-
-  Please consider supporting Django by making a donation to the 
+  <iframe src="https://django-news.com/embed?color1=ffffff&color2=092e20&color_bg_button=092e20&color_border=ccc&color_button=ffffff&color_links=979797&color_terms=808080&title=Subscribe+to+Django+News" width="450" height="310" frameborder="0" style="max-width: 100%"></iframe>
+
+  <p>Please consider supporting Django by making a donation to the
   <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>, 
   sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>, 
-  or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.
+  or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.</p>
   
-  Awesome Django is not associated with the Django Software Foundation. 
-  Django is a registered trademark of the Django Software Foundation.
+  <p>Awesome Django is not associated with the Django Software Foundation.<br>
+  Django is a registered trademark of the Django Software Foundation.</p>
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

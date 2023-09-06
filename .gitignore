@@ -64,6 +64,7 @@ _site/
 assets/development.css
 build
 dist
+docker-compose.override.yml
 node_modules
 package-lock.json
 vendor

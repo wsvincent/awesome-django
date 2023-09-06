@@ -4,12 +4,16 @@
 @alex:
 	npx alex README.md
 
+@bootstrap:
+    pip install --upgrade pip pip-tools
+    pip install --upgrade --requirement requirements.in
+
 @build:
     just toc
     bundle exec jekyll build
 
 @down:
-    just down
+    docker-compose down
 
 @lint:
     -curlylint _layouts/
@@ -19,7 +23,10 @@
     # modd --file=modd.conf
     just up ""
 
-@up *ARGS="-d":
+@start *ARGS="-d":
+    just up {{ ARGS }}
+
+@up *ARGS:
     docker-compose up {{ ARGS }}
 
 @toc:

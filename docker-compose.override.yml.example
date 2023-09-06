@@ -1,0 +1,7 @@
+services:
+
+  devd:
+    # platform: linux/amd64
+
+  jekyll:
+    # platform: linux/amd64
