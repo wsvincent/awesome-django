@@ -255,6 +255,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file.
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django.
+- [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
 
 ### Task Queues
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
@@ -314,7 +315,6 @@ _A short list of Python packages that work well with Django._
 - [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
-- [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
 
 ## Resources
 
