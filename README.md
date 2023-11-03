@@ -289,6 +289,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
+- [django-allauth-ui](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
 - [django-improved-user](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 - [django-cas-ng](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
