@@ -255,6 +255,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-storages](https://github.com/jschneier/django-storages) - A single library to support multiple custom storage backends for Django.
 - [django-compressor](https://github.com/django-compressor/django-compressor/) - Compress JavaScript/CSS into a single cached file.
 - [easy-thumbnails](https://github.com/SmileyChris/easy-thumbnails) - Image thumbnails for Django.
+- [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
 
 ### Task Queues
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
@@ -441,6 +442,7 @@ _Django 3.2_
 - [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
 - [cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 - [launchr](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+- [sidewinder](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment. 
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
