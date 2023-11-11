@@ -50,6 +50,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Security](#security)
   - [Static Assets](#static-assets)
   - [Task Queues](#task-queues)
+  - [Templates](#templates)
   - [Testing](#testing)
   - [URLs](#urls)
   - [Users](#users)
@@ -268,6 +269,16 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 - [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
+### Templates
+
+- [curlylint](https://www.curlylint.org/) – Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
+- [django-components](https://github.com/EmilStenstrom/django-components/) – A way to create simple reusable template components in Django.
+- [django-template-partials](https://github.com/carltongibson/django-template-partials/) – Reusable named inline partials for the Django Template Language.
+- [djhtml](https://github.com/rtts/djhtml) – Django/Jinja template indenter.
+- [djlint](https://www.djlint.com/) – Lint & Format HTML Templates.
+- [slippers](https://mitchel.me/slippers/) – Build reusable components in Django without writing a single line of Python.
+- [JinjaX](https://jinjax.scaletti.dev/) – Super components powers for your Jinja templates.
+
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django.
@@ -280,6 +291,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 - [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
+- [storybook-django](https://github.com/torchbox/storybook-django) – Develop Django UI components in isolation, with Storybook.
 
 ### URLs
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
