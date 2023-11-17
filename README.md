@@ -61,6 +61,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Educational](#educational)
   - [Community](#community)
   - [Conferences](#conferences)
+  - [Job Boards](#job-boards)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
   - [Books](#books)
