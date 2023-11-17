@@ -367,6 +367,7 @@ _A short list of Python packages that work well with Django._
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
+- [Mastodon](https://fosstodon.org/@django) - For official announcements on updates, security fixes, etc.
 - [Twitter](https://twitter.com/djangoproject/) - For official announcements on updates, security fixes, etc.
 - [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
 - IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
