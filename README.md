@@ -385,6 +385,13 @@ _A short list of Python packages that work well with Django._
 - [Django Under the Hood](https://www.youtube.com/channel/UC9T1dhIlL_8Va9DxvKRowBw/videos)
 - [Complete listing of all PyCons globally](https://pycon.org)
 
+### Job Boards
+
+- [Django News Jobs](https://jobs.django-news.com/) - A Django job board that also aggregates other job boards.
+- [Django Gigs](https://djangogigs.com) - This platform caters specifically to freelance and full-time Django developers. 
+- [Django Jobs](https://djangojobs.net) - Django jobs posting for hiring Django Python developers.
+- [Python.org Job Boards](https://www.python.org/jobs/) - While not exclusively for Django, this job board is hosted by the official Python website and features a range of Python and Django-related job opportunities.
+
 ### Newsletters
 
 - [Django News](https://django-news.com) - Weekly newsletter on announcements, articles, projects, and talks.
