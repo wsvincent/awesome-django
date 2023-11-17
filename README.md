@@ -271,13 +271,13 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Templates
 
-- [curlylint](https://www.curlylint.org/) – Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
-- [django-components](https://github.com/EmilStenstrom/django-components/) – A way to create simple reusable template components in Django.
-- [django-template-partials](https://github.com/carltongibson/django-template-partials/) – Reusable named inline partials for the Django Template Language.
-- [djhtml](https://github.com/rtts/djhtml) – Django/Jinja template indenter.
-- [djlint](https://www.djlint.com/) – Lint & Format HTML Templates.
-- [slippers](https://mitchel.me/slippers/) – Build reusable components in Django without writing a single line of Python.
-- [JinjaX](https://jinjax.scaletti.dev/) – Super components powers for your Jinja templates.
+- [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
+- [django-components](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
+- [django-template-partials](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
+- [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
+- [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
+- [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
+- [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
@@ -291,7 +291,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 - [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
-- [storybook-django](https://github.com/torchbox/storybook-django) – Develop Django UI components in isolation, with Storybook.
+- [storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
 
 ### URLs
 - [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
@@ -329,7 +329,6 @@ _A short list of Python packages that work well with Django._
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
-- [whitenoise](https://github.com/evansd/whitenoise) - Simplified static file serving for Python websites.
 
 ## Resources
 
