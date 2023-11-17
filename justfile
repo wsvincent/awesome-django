@@ -2,7 +2,7 @@
     just --list
 
 @alex:
-	npx alex README.md
+	bunx alex README.md
 
 @bootstrap:
     pip install --upgrade pip pip-tools
@@ -17,7 +17,7 @@
 
 @lint:
     -curlylint _layouts/
-    -npx awesome-lint README.md
+    -bunx awesome-lint README.md
 
 @serve:
     # modd --file=modd.conf
@@ -30,4 +30,4 @@
     docker-compose up {{ ARGS }}
 
 @toc:
-	npx doctoc README.md
+	bunx doctoc README.md
