@@ -17,6 +17,8 @@ include:
   - README.md
 exclude:
   - "*.md"
+  - "*.py"
+  - docker*
   - Gemfile*
   - justfile
   - LICENSE
@@ -25,6 +27,7 @@ exclude:
   - node_modules
   - package*.json
   - postcss.config.js
+  - requirements.*
   - src
   - tailwind.config.js
   - vendor
