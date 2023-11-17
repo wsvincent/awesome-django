@@ -23,7 +23,7 @@
     # modd --file=modd.conf
     just up ""
 
-@start *ARGS="-d":
+@start *ARGS="--detach":
     just up {{ ARGS }}
 
 @up *ARGS:
