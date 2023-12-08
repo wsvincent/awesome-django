@@ -243,6 +243,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
 - [django-admin-search](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
+- [django-elasticsearch-dsl](https://github.com/django-es/django-elasticsearch-dsl) - Elasticsearch DSL integration for Django.
 
 ### Search Engine Optimisation
 - [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
