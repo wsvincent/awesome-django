@@ -183,7 +183,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
 
 ### Forms
-- [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models.
+- [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 - [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 - [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
@@ -206,6 +206,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 - [django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 - [django-freeze](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
+- [django-nh3](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 - [Weblate](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 
 ### Logging
