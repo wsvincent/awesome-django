@@ -412,11 +412,13 @@ _A short list of Python packages that work well with Django._
 
 ### Books
 
+_Django 5.0_
+- [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
+
 _Django 4.2_
 - [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
 
 _Django 4.0_
-- [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
 - [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
