@@ -440,6 +440,7 @@ _Django 3.2_
 - [Google Cloud](https://cloud.google.com/python/django/)
 - [Heroku](https://www.heroku.com)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
+- [Piku](https://github.com/piku/piku)
 - [Platform.sh](https://platform.sh)
 - [PythonAnywhere](https://www.pythonanywhere.com)
 - [Railway](https://railway.app)
