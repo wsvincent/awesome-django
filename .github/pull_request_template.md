@@ -2,8 +2,6 @@
 name: Add a new project
 about: Suggest a new Django project for the Awesome Django list
 title: "[NEW] Project Name"
-labels: new project
-assignees: ''
 ---
 
 ## Project Information
