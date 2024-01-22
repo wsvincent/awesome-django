@@ -9,8 +9,13 @@ assignees: ''
 ## Project Information
 
 1. **Project Name:** 
+
 2. **Project URL:** 
-3. **Description:** _(Please provide a brief description of the project.)_
+
+3. **Description:**
+   _(Please provide a brief description of the project.)_
+
+----
 
 ## Criteria
 
@@ -34,9 +39,11 @@ Please answer the following questions about the project you are submitting. This
 5. **What makes it awesome?**
    _(Please provide a brief explanation of why you believe this project is a valuable addition to the Awesome Django list.)_
 
+----
+
 ## Additional Information
 
-Please provide any additional information that you believe is relevant to the project or its evaluation for inclusion in the Awesome Django list. This might include information about the project's documentation, test coverage, community support, or any unique features that set it apart from other Django projects.
+Please provide any additional information you believe is relevant to the project or its evaluation for inclusion in the Awesome Django list. This might include information about the project's documentation, test coverage, community support, or any unique features that set it apart from other Django projects.
 
 _(Please provide any relevant additional information here.)_
 
