@@ -473,6 +473,7 @@ _Django 3.2_
 - [launchr](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 - [sidewinder](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 - [Falco](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [django-awesome](https://github.com/django-awesome/django-awesome) - Integrate beautiful UI to Django admin alongside with bring awesome django libraries incorporated into a project, ready to form the core for projects of any scale and can be deployed to production right after pulling the code.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
