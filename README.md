@@ -273,6 +273,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 - [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+- [django-celery-results](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
 ### Templates
 
