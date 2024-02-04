@@ -336,6 +336,7 @@ _A short list of Python packages that work well with Django._
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
+- [kepi](https://github.com/marnanel/kepi) - Social networking in Python.
 
 ## Resources
 
