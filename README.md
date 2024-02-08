@@ -215,7 +215,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### <a id="i18n"></a> Internationalisation (i18n)
 
 - [django-localflavor](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
-- [django-modeltrans](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField
+- [django-modeltrans](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 - [django-modeltranslations](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
 - [django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
 
