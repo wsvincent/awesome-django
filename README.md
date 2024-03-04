@@ -102,6 +102,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 - [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+- [django-admin-shellx](https://github.com/adinhodovic/django-admin-shellx) - A Django Admin Web Shell using Xterm.js and Django Channels.
 
 ### APIs
 <!--lint disable double-link-->
