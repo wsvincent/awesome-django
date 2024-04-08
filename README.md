@@ -212,6 +212,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-freeze](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 - [django-nh3](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 - [Weblate](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
+- [drf-sendables](https://github.com/amikrop/drf-sendables) - User messages for Django REST Framework.
 
 ### <a id="i18n"></a> Internationalisation (i18n)
 
