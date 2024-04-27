@@ -152,6 +152,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [environs](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
 <!--lint enable double-link-->
 - [django-classy-settings](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+- [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - easily create and manage editable typed variables directly from the Django admin panel.
 
 ### Content Management Systems
 <!--lint disable double-link-->
