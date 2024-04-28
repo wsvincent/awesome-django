@@ -233,7 +233,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-mixin](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
 
 ### Mailing
-- [django-pony-express](https://github.com/edoburu/django-any-urlfield) - Class-based emails including a test suite for Django.
+- [django-pony-express](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
 ### Model Fields
 - [django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
