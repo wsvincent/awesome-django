@@ -19,7 +19,7 @@ title: "[NEW] Project Name"
 
 Please answer the following questions about the project you are submitting. This will help us evaluate if the project should be included in the Awesome Django list.
 
-**Note:** If your project is only a few months old or has under 50 to 100 stars on GitHub, it may need to meet the criteria for inclusion in the Awesome Django list. We recommend that you promote your project more and then consider a submission at a later date when it has gained additional visibility and community support.
+**Note:** If your project is only a few months old or has under 50 to 100 stars on GitHub, it may NOT meet the criteria for inclusion in the Awesome Django list. We would recommend that you promote your project more and then consider a submission at a later date when it has gained more visibility and community support.
 
 1. **Is the project new?**
    - [ ] Yes
