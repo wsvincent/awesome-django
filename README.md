@@ -339,6 +339,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
 - [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
 - [django-stronghold](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login_required.
+- [neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
 
 ## Python Packages
 
