@@ -31,3 +31,40 @@
 
 @toc:
 	bunx doctoc README.md
+
+@test:
+    pytest
+
+@coverage:
+    pytest --cov=app
+
+@deploy:
+    git push heroku main
+
+@backup:
+    rsync -avz --exclude='*.log' /path/to/source /path/to/backup
+
+@rollback:
+    git checkout HEAD^
+
+@analyze:
+    bandit -r .
+
+@format:
+    black .
+
+@encrypt:
+    gpg --encrypt --recipient recipient@example.com filename.txt
+
+@decrypt:
+    gpg --decrypt filename.txt.gpg > filename.txt
+
+@generate-keypair:
+    ssh-keygen -t rsa -b 4096 -f ~/.ssh/my_key
+
+@ssh-login:
+    ssh username@hostname
+
+@remote-sync:
+    rsync -avz /path/to/local username@hostname:/path/to/remote
+
