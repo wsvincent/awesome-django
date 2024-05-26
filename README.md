@@ -47,6 +47,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Model Fields](#model-fields)
   - [Models](#models)
   - [Performance](#performance)
+  - [Permissions](#permissions)
   - [Search](#search)
   - [Search Engine Optimisation](#search-engine-optimisation)
   - [Security](#security)
@@ -209,7 +210,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### General
 - [django-data-browser](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
-- [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 - [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 - [django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
@@ -261,6 +261,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-silk](https://github.com/jazzband/django-silk) - Live profiling and inspection of HTTP requests and database queries.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 - [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
+
+### Permissions
+- [django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
+- [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+- [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
