@@ -493,7 +493,6 @@ _Django 3.2_
 - [djangox](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
-- [docker-django](https://github.com/erroneousboat/docker-django/) - A quick starter guide for Django and Docker together.
 - [django-docker-template](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
 - [django-startproject](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
 - [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
