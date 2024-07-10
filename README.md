@@ -442,21 +442,18 @@ _A short list of Python packages that work well with Django._
 
 ### Books
 
-_Django 5.0_
+_Django 5_
 - [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
 - [Django 5 By Example](https://www.packtpub.com/en-us/product/django-5-by-example-9781805125457)
 - [Django in Action](https://www.manning.com/books/django-in-action)
+- [Django for Beginners, Fifth Edition](https://djangoforbeginners.com/)
 
-_Django 4.2_
-- [Understand Django: An Exploration of the Django Web Framework](https://www.mattlayman.com/understand-django/)
-- [Django for Beginners: Build websites with Python and Django](https://djangoforbeginners.com/)
-
-_Django 4.0_
+_Django 4_
 - [Django for APIs: Build web APIs with Python and Django](https://djangoforapis.com/)
 - [Django for Professionals: Production websites with Python and Django](https://djangoforprofessionals.com/)
-- [Django 4 By Example: Build powerful and reliable Python web applications from scratch](https://www.amazon.com/dp/1801813051/)
+- [Understand Django: An Exploration of the Django Web Framework](https://www.mattlayman.com/understand-django/)
 
-_Django 3.2_
+_Django 3_
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 - [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/a-wedge-of-django)
