@@ -402,6 +402,7 @@ _A short list of Python packages that work well with Django._
 <!--lint disable double-link-->
 - [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
+- [Local Django Communities Page](https://www.djangoproject.com/community/local/) – Featuring local events all around the world.
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
 - [Mastodon](https://fosstodon.org/@django) - For official announcements on updates, security fixes, etc.
