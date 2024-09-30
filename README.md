@@ -133,6 +133,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 - [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [django-redis](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
+- [django-valkey](https://github.com/amirreza8002/django-valkey) - a Valkey cache and session backend for django
 
 ### Commands
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
