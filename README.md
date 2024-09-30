@@ -132,6 +132,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Caching
 - [django-cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
 - [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+- [django-redis](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
 
 ### Commands
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
@@ -294,7 +295,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
 - [django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue.
-- [django-redis](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
 - [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
 - [flower](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
