@@ -312,7 +312,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 - [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 - [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
-- [django-cotton](https://django-cotton.com/) - Goodbye `{% extends, block, include %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
+- [django-cotton](https://django-cotton.com/) - Goodbye `\{\% extends, block, include \%\}`, Hello `<c-component />`. Bringing modern UI composition to Django.
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
