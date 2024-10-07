@@ -558,5 +558,6 @@ _Wagtail, the powerful CMS for modern websites._
 - [Wagtail Source Code](https://github.com/wagtail/wagtail/)
 - [awesome-wagtail](https://github.com/springload/awesome-wagtail)
 - [This week in Wagtail](https://wagtail.org/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
-- [Wagtail Space](https://www.wagtail.space/) - Wagtail CMS events around the world.
+- [Wagtail Space](https://www.wagtail.space/) - Wagtail conferences around the world.
+- [Wagtail events](https://wagtail.org/events/) - Online and in-person Wagtail events.
 <!--lint enable double-link-->
