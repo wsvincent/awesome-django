@@ -449,6 +449,7 @@ _A short list of Python packages that work well with Django._
 
 
 ### Books
+For a complete listing of in-print books check out [DjangoBook.com](https://djangobook.com/).
 
 _Django 5_
 - [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
@@ -465,7 +466,6 @@ _Django 3_
 - [Speed Up Your Django Tests](https://adamj.eu/tech/2020/05/04/new-book-speed-up-your-django-tests/)
 - [Two Scoops of Django 3.x: Best Practices for the Django Web Framework](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 - [A Wedge of Django: Covers Python 3.8 and Django 3.x](https://www.feldroy.com/books/a-wedge-of-django)
-
 
 ## Hosting
 
