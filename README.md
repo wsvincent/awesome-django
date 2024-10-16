@@ -420,7 +420,7 @@ _A short list of Python packages that work well with Django._
 - [DjangoCon Europe](https://djangocon.eu/) ([YouTube Channel](https://www.youtube.com/user/djangoconeurope))
 - [DjangoCon AU](https://djangocon.com.au/)
 - [DjangoCon Africa](https://djangocon.africa/)
-- [Django Day Copenhagen](https://djangoday.dk/)
+- [Django Day Copenhagen](https://djangoday.dk/) ([YouTube Channel](https://www.youtube.com/@djangodanmark))
 - [PyCon US](https://us.pycon.org/) ([YouTube Channel](https://www.youtube.com/channel/UCsX05-2sVSH7Nx3zuk3NYuQ))
 - [PyCon Australia](https://pycon-au.org/) ([YouTube Channel](https://www.youtube.com/user/PyConAU))
 - [Euro Python](https://europython.eu/) ([YouTube Channel](https://www.youtube.com/user/PythonItalia))
