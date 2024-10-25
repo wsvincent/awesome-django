@@ -200,7 +200,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Full-stack frameworks
-
 - [Django-Bridge](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 - [ReactPy](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module](https://github.com/reactive-python/reactpy-django).
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
@@ -220,7 +219,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Django-Classy-Doc](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.https://github.com/nanuxbe/django-classy-doc
 
 ### <a id="i18n"></a> Internationalisation (i18n)
-
 - [django-localflavor](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
 - [django-modeltrans](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 - [django-modeltranslations](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
@@ -305,7 +303,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-celery-results](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
 
 ### Templates
-
 - [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
 - [django-components](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
 - [django-template-partials](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
@@ -372,7 +369,6 @@ _A short list of Python packages that work well with Django._
 ## Resources
 
 ### Official Resources
-
 <!--lint ignore double-link--> 
 - [Project Website](https://www.djangoproject.com/) - Official Django website.
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
@@ -380,7 +376,6 @@ _A short list of Python packages that work well with Django._
 - [Source Code](https://github.com/django/django/) - Hosted on GitHub.
 
 ### Educational
-
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 - [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 - [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
@@ -400,7 +395,6 @@ _A short list of Python packages that work well with Django._
 - [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
 
 ### Community
-
 <!--lint disable double-link-->
 - [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
