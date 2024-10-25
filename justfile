@@ -16,7 +16,7 @@
     docker compose down
 
 @lint:
-    -curlylint _layouts/
+    -uv tool run curlylint _layouts/
     -bunx awesome-lint README.md
 
 @serve:
