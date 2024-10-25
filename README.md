@@ -447,6 +447,9 @@ _A short list of Python packages that work well with Django._
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 - [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
 
+### Videos
+
+- [DjangoTV](https://djangotv.com) - Your source for Django conference videos and tutorials.
 
 ### Books
 For a complete listing of in-print books check out [DjangoBook.com](https://djangobook.com/).
