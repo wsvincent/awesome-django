@@ -41,8 +41,9 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Forms](#forms)
   - [Full-stack frameworks](#full-stack-frameworks)
   - [General](#general)
-  - [Internationalisation](#i18n)
+  - [Internationalisation (i18n)](#internationalisation-i18n)
   - [Logging](#logging)
+  - [Monitoring](#monitoring)
   - [Mailing](#mailing)
   - [Model Fields](#model-fields)
   - [Models](#models)
@@ -67,6 +68,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Job Boards](#job-boards)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
+  - [Videos](#videos)
   - [Books](#books)
 - [Hosting](#hosting)
   - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
@@ -218,7 +220,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Weblate](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 - [Django-Classy-Doc](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.https://github.com/nanuxbe/django-classy-doc
 
-### <a id="i18n"></a> Internationalisation (i18n)
+### Internationalisation (i18n)
 - [django-localflavor](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
 - [django-modeltrans](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 - [django-modeltranslations](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
