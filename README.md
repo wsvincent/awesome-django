@@ -106,7 +106,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 - [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
-- [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 
 ### APIs
 <!--lint disable double-link-->
@@ -155,7 +155,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [environs](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
 <!--lint enable double-link-->
 - [django-classy-settings](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
-- [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - easily create and manage editable typed variables directly from the Django admin panel.
+- [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - Easily create and manage editable typed variables directly from the Django admin panel.
 
 ### Content Management Systems
 <!--lint disable double-link-->
@@ -218,7 +218,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-freeze](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
 - [django-nh3](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 - [Weblate](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
-- [Django-Classy-Doc](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.https://github.com/nanuxbe/django-classy-doc
+- [Django-Classy-Doc](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.
 
 ### Internationalisation (i18n)
 - [django-localflavor](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
@@ -236,7 +236,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Mailing
 - [django-pony-express](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
-- [django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more
+- [django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more.
 
 ### Model Fields
 - [django-any-urlfield](https://github.com/edoburu/django-any-urlfield) - An improved URL selector to choose between internal models and external URLs.
@@ -400,7 +400,7 @@ _A short list of Python packages that work well with Django._
 <!--lint disable double-link-->
 - [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
-- [Local Django Communities Page](https://www.djangoproject.com/community/local/) – Featuring local events all around the world.
+- [Local Django Communities Page](https://www.djangoproject.com/community/local/) - Featuring local events all around the world.
 - [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
 - [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
 - [Mastodon](https://fosstodon.org/@django) - For official announcements on updates, security fixes, etc.
@@ -523,7 +523,7 @@ _Django 3_
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
-- [OpenContracts](https://github.com/JSv4/OpenContracts) - enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
+- [OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 
 ## Django REST Framework
 
