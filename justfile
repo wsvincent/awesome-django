@@ -13,7 +13,7 @@
     bundle exec jekyll build
 
 @down:
-    docker-compose down
+    docker compose down
 
 @lint:
     -curlylint _layouts/
@@ -27,7 +27,7 @@
     just up {{ ARGS }}
 
 @up *ARGS:
-    docker-compose up {{ ARGS }}
+    docker compose up {{ ARGS }}
 
 @toc:
 	bunx doctoc README.md
