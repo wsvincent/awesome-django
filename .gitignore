@@ -67,4 +67,5 @@ dist
 docker-compose.override.yml
 node_modules
 package-lock.json
+site
 vendor
