@@ -446,6 +446,7 @@ _A short list of Python packages that work well with Django._
 ### Videos
 
 - [DjangoTV](https://djangotv.com) - Your source for Django conference videos and tutorials.
+- [PyVideo](https://pyvideo.org) - PyVideo is an index of Python related media.
 
 ### Books
 For a complete listing of in-print books check out [DjangoBook.com](https://djangobook.com/).
