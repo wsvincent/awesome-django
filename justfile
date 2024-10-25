@@ -5,8 +5,8 @@
 	bunx alex README.md
 
 @bootstrap:
-    pip install --upgrade pip pip-tools
-    pip install --upgrade --requirement requirements.in
+    python -m pip install --upgrade pip uv
+    python -m uv pip install --upgrade --requirement requirements.in
 
 @build:
     just toc
