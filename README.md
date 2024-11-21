@@ -1,8 +1,6 @@
 # Awesome Django [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-<a class="github-fork-ribbon right-top" href="https://github.com/wsvincent/awesome-django" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
-
-> A curated list of awesome things related to Django. Maintained by [William Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
+> A curated list of awesome things related to Django. Maintained by [Will Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett).
 
 <br>
 
