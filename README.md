@@ -108,7 +108,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
-- [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui  
+- [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
+- [django-admin-dracula](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin. 
 
 ### APIs
 <!--lint disable double-link-->
