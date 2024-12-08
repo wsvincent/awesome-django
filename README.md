@@ -26,6 +26,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 - [Third-Party Packages](#third-party-packages)
   - [Admin](#admin)
+  - [Admin Themes](#admin-themes)
   - [APIs](#apis)
   - [Async](#async)
   - [Caching](#caching)
@@ -88,8 +89,6 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
 ### Admin
-- [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
-- [django-jazzmin](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy.
 - [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
@@ -97,13 +96,17 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
 - [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to “impersonate” other non-superuser accounts.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
+- [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays across foreign key relationships.
+- [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+
+### Admin Themes
+- [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
+- [django-jazzmin](https://github.com/farridav/django-jazzmin) - Drop-in theme for django admin, that utilises AdminLTE 3 & Bootstrap 4 to make yo' admin look jazzy.
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
 - [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
-- [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays accross foreign key relationships.
 - [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
 - [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
-- [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 - [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui  
 
