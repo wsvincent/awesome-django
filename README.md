@@ -317,6 +317,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 - [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
 - [django-cotton](https://django-cotton.com/) - Goodbye `{% raw %}{%{% endraw %} extends, block, include {% raw %}%}{% endraw %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
+- [htpy](https://htpy.dev/) - htpy is a library that makes writing HTML in plain Python fun and efficient, without a template language.
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
