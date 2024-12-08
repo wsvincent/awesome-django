@@ -1,0 +1,13 @@
+[project]
+name = "awesome-django"
+version = "0.1.0"
+description = "A curated list of awesome things related to Django. Maintained by [Will Vincent](https://github.com/wsvincent) and [Jeff Triplett](https://github.com/jefftriplett)."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "mkdocs",
+  "mkdocs-material",
+  "requests",
+  "rich",
+  "typer",
+]

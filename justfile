@@ -6,17 +6,20 @@
 
 @bootstrap:
     python -m pip install --upgrade pip uv
-    python -m uv pip install --upgrade --requirement requirements.in
+    python -m uv pip install --upgrade --requirement pyproject.toml
 
 @build:
-    just toc
+    just doctoc
     bundle exec jekyll build
+
+@doctoc:
+    bunx doctoc README.md
 
 @down:
     docker compose down
 
 @lint:
-    -uv tool run curlylint _layouts/
+    -uv --quiet tool run curlylint _layouts/
     -bunx awesome-lint README.md
 
 @serve:
@@ -28,6 +31,3 @@
 
 @up *ARGS:
     docker compose up {{ ARGS }}
-
-@toc:
-	bunx doctoc README.md
