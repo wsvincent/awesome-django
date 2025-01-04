@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Contributions are welcome! Please note that Will and Jeff work on this as a benefit to the Django community. It is based on our own personal, biased thoughts. 
+Contributions are welcome! Please note that Will and Jeff work on this as a benefit to the Django community. It is based on our own personal, biased thoughts.
 
 If you disagree with choices made, you are welcome to fork this repo and create/maintain your own list of awesome Django resources if you disagree with choices I've made.
 

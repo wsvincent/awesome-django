@@ -109,7 +109,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 - [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
-- [django-admin-dracula](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin. 
+- [django-admin-dracula](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin.
 
 ### APIs
 <!--lint disable double-link-->
@@ -376,7 +376,7 @@ _A short list of Python packages that work well with Django._
 ## Resources
 
 ### Official Resources
-<!--lint ignore double-link--> 
+<!--lint ignore double-link-->
 - [Project Website](https://www.djangoproject.com/) - Official Django website.
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
@@ -386,7 +386,7 @@ _A short list of Python packages that work well with Django._
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 - [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 - [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
-- [Photon Designer - Django tutorials](https://photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.     
+- [Photon Designer - Django tutorials](https://photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.  
 - [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
 - [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django Forms](https://github.com/ana-balica/classy-django-forms) - Detailed descriptions of methods/properties/attributes for each form class.
@@ -432,7 +432,7 @@ _A short list of Python packages that work well with Django._
 ### Job Boards
 
 - [Django News Jobs](https://jobs.django-news.com/) - A Django job board that also aggregates other job boards.
-- [Django Gigs](https://djangogigs.com) - This platform caters specifically to freelance and full-time Django developers. 
+- [Django Gigs](https://djangogigs.com) - This platform caters specifically to freelance and full-time Django developers.
 - [Django Jobs](https://djangojobs.net) - Django jobs posting for hiring Django Python developers.
 - [Python.org Job Boards](https://www.python.org/jobs/) - While not exclusively for Django, this job board is hosted by the official Python website and features a range of Python and Django-related job opportunities.
 

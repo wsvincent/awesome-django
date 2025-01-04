@@ -2,7 +2,7 @@
 name: ⛔️ Add a New Project [Please Submit as Pull Request]
 about: How to submit a new Django project for the Awesome Django list
 title: ''
-labels: 
+labels:
 assignees: ''
 ---
 
