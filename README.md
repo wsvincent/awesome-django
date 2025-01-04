@@ -524,6 +524,7 @@ _Django 3_
 - [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp)
 - [Zulip](https://github.com/zulip/zulip/) - Open-source team chat.
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
+- [Open Source Customer Relationship Management](https://github.com/DjangoCRM/django-crm) - Python CRM built entirely on Django Admin Site.
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
