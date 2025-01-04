@@ -183,7 +183,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
-- [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - Makes Quill.js easy to use on Django Forms and admin sites.
 - [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 - [django-prose](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
