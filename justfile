@@ -21,6 +21,10 @@
 @lint:
     -uv --quiet tool run curlylint _layouts/
     -bunx awesome-lint README.md
+@lint *ARGS:
+    # -uv --quiet tool run curlylint _layouts/
+    # -bunx awesome-lint README.md
+    uv tool run --with pre-commit-uv pre-commit run {{ ARGS }} --all-files
 
 @serve:
     # modd --file=modd.conf

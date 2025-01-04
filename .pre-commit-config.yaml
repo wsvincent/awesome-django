@@ -1,0 +1,68 @@
+default_language_version:
+  python: python3.12
+
+exclude: |
+    (?x)^(
+        .devcontainer/devcontainer.json|
+        .github/contributors.json|
+        .vscode/launch.json|
+        CONTRIBUTORS.md|
+        frontend/.*|
+        static/.*
+    )$
+
+repos:
+  - repo: https://github.com/pre-commit-ci/pre-commit-ci-config
+    rev: v1.6.1
+    hooks:
+    - id: check-pre-commit-ci-config
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-symlinks
+      - id: check-toml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+  - repo: https://github.com/rtts/djhtml
+    rev: '3.0.6'
+    hooks:
+      - id: djhtml
+        entry: djhtml --tabwidth 2
+        alias: autoformat
+      - id: djcss
+        alias: autoformat
+      - id: djjs
+        alias: autoformat
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.6.9
+    hooks:
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
+      - id: ruff-format
+  - repo: https://github.com/asottile/reorder-python-imports
+    rev: v3.14.0
+    hooks:
+      - id: reorder-python-imports
+  - repo: https://github.com/asottile/pyupgrade
+    rev: v3.18.0
+    hooks:
+      - id: pyupgrade
+        alias: autoformat
+        args: [--py312-plus]
+  # - repo: local
+  #   hooks:
+  #     - id: rustywind
+  #       name: rustywind Tailwind CSS class linter
+  #       language: node
+  #       additional_dependencies:
+  #         - rustywind@latest
+  #       entry: rustywind
+  #       args: [--write]
+  #       types_or: [html]
+  #       # exclude: '.*\.min\.css'
