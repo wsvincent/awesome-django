@@ -3,8 +3,8 @@ email: your-email@example.com
 description: >-
   A curated list of awesome things related to Django. Maintained by
   William Vincent and Jeff Triplett
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://awesomedjango.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://awesomedjango.org"
 
 # Build settings
 markdown: kramdown
@@ -27,10 +27,9 @@ exclude:
   - modd.conf
   - node_modules
   - package*.json
-  - postcss.config.js
   - requirements.*
+  - scripts
   - src
-  - tailwind.config.js
   - vendor
 defaults:
   - scope:
