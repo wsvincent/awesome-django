@@ -524,7 +524,6 @@ _Django 3_
 - [Bootcamp: An enterprise social network](https://github.com/vitorfs/bootcamp)
 - [Zulip](https://github.com/zulip/zulip/) - Open-source team chat.
 - [Django-CRM](https://github.com/MicroPyramid/Django-CRM/) - Open Source Python CRM based on Django.
-- [Open Source Customer Relationship Management](https://github.com/DjangoCRM/django-crm) - Python CRM built entirely on Django Admin Site.
 - [django-job-portal](https://github.com/manjurulhoque/django-job-portal) - Job portal application using Django.
 - [Built with Django](https://builtwithdjango.com) - Curated list of awesome Django projects.
 - [PostHog](https://github.com/PostHog/posthog) - Open-source product analytics.
@@ -533,6 +532,7 @@ _Django 3_
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 - [OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 - [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
+- [Open Source Customer Relationship Management](https://github.com/DjangoCRM/django-crm) - Python CRM built entirely on Django Admin Site.
 
 ## Django REST Framework
 
