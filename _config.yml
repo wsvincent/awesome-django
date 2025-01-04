@@ -14,6 +14,7 @@ plugins:
   - jekyll-optional-front-matter
   - jekyll-seo-tag
 include:
+  - "_projects"
   - README.md
 exclude:
   - "*.md"
@@ -41,6 +42,11 @@ defaults:
     values:
       permalink: "/"
       layout: "default"
+
+collections:  # process the _data folder
+  projects:
+    output: false
+    permalink: /:collection/:name/
 
 aux_links:
   "Awesome Django on GitHub":
