@@ -6,7 +6,7 @@
 
 @bootstrap:
     python -m pip install --upgrade pip uv
-    python -m uv pip install --upgrade --requirement pyproject.toml
+    uv pip install --upgrade --requirement pyproject.toml
 
 @build:
     just doctoc
@@ -18,9 +18,6 @@
 @down:
     docker compose down
 
-@lint:
-    -uv --quiet tool run curlylint _layouts/
-    -bunx awesome-lint README.md
 @lint *ARGS:
     # -uv --quiet tool run curlylint _layouts/
     # -bunx awesome-lint README.md
