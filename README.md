@@ -447,6 +447,7 @@ _A short list of Python packages that work well with Django._
 - [Running in Production](https://runninginproduction.com/tags/django) - Focused on tech stacks with many episodes specifically on Django.
 - [TalkPython](https://talkpython.fm/) - The leading Python podcast with several episodes on Django.
 - [Podcast Init](https://www.pythonpodcast.com/) - A popular Python podcast that features Django guests on occasion.
+- [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
 
 ### Videos
 
