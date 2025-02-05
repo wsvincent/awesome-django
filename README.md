@@ -534,6 +534,7 @@ _Django 3_
 - [OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 - [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
+- [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 
 ## Django REST Framework
 
