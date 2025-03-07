@@ -210,7 +210,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 - [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
 - [Unicorn](https://www.django-unicorn.com/) - A reactive component framework that progressively enhances a normal Django view, makes AJAX calls in the background, and dynamically updates the DOM.
-- [iommi](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ### General
 - [django-data-browser](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
@@ -222,6 +221,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-nh3](https://github.com/marksweb/django-nh3) - Django integration with for nh3 and is an alternative for django-bleach.
 - [Weblate](https://github.com/WeblateOrg/weblate) - Weblate is a copylefted libre software web-based continuous localization system, used by over 2500 libre projects and companies in more than 165 countries.
 - [Django-Classy-Doc](https://github.com/nanuxbe/django-classy-doc) - Document your own code in the style of CCBV and CDRF.
+- [iommi](https://github.com/iommirocks/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ### Internationalisation (i18n)
 - [django-localflavor](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
