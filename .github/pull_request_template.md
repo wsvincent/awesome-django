@@ -24,7 +24,7 @@ Please answer the following questions about the project you are submitting. This
 
 **Additionally:** 🙅 We are not interested in Django Starter Kit projects. We might change our minds, but for now, these tend to be more similar than different. Every Django Starter Kit is awesome.
 
-👉 Please **read** and fill out **all five questions**. We reserve the right to close your pull request without feedback if you skip one or all of them. 
+👉 Please **read** and fill out **all five questions**. We reserve the right to close your pull request without feedback if you skip one or all of them.
 
 1. **Is the project new?**
    - [ ] Yes
