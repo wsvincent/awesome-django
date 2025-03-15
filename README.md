@@ -196,7 +196,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
 
 ### Forms
-- [django-bleach](https://github.com/marksweb/django-bleach/) - Integrate bleach into forms and models. See `django-nh3` as an alternative.
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 - [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 - [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
