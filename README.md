@@ -89,7 +89,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 _For a complete listing of all available packages, see [Django Packages](https://djangopackages.org/)_
 
 ### Admin
-- [django-hijack](https://github.com/arteria/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
+- [django-hijack](https://github.com/django-hijack/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - Configure a honeypot to see who's trying to hack your site.
 - [django-admin-inline-paginator-plus](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
@@ -106,7 +106,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - Customize Admin by the admin itself(color, header. title,logo) and  popup windows replaced by modals.
 - [django-material-admin](https://github.com/MaistrenkoAnton/django-material-admin) - Material design for django administration.
 - [django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-- [django-jet-reboot](https://github.com/b1go/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
+- [django-jet-reboot](https://github.com/assem-ch/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 - [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
@@ -116,12 +116,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 <!--lint disable double-link-->
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
-- [dj-rest-auth](https://github.com/jazzband/dj-rest-auth) - Authentication for Django Rest Framework.
-- [django-rest-knox](https://github.com/James1345/django-rest-knox) - Authentication Module for django-rest-auth.
+- [dj-rest-auth](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework.
+- [django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django-rest-auth.
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
 - [djaq](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
-- [django-rest-framework-simplejwt](https://github.com/davesque/django-rest-framework-simplejwt) - JSON web tokens for DRF.
-- [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with Django.
+- [django-rest-framework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - JSON web tokens for DRF.
+- [django-webpack-loader](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with Django.
 - [drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [graphene-django](https://github.com/graphql-python/graphene-django) - GraphQL for Django.
 - [graphene-django-filter](https://github.com/devind-team/graphene-django-filter) - Advanced filters implementing and/or/not operators in GraphQL for Django.
@@ -141,17 +141,17 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Commands
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
-- [django-click](https://github.com/GaretJax/django-click) - Write Django management commands using the [click CLI library](https://click.palletsprojects.com).
-- [django-dbbackup](https://github.com/django-dbbackup/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+- [django-click](https://github.com/django-commons/django-click) - Write Django management commands using the [click CLI library](https://click.palletsprojects.com).
+- [django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files.
 - [django-liquidb](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 - [django-migration-zero](https://github.com/ambient-innovation/django-migration-zero/) - Holistic implementation of "migration zero" pattern for Django covering local changes and in-production database adjustments.
-- [django-typer](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
+- [django-typer](https://github.com/django-commons/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
 
 ### Configuration
 <!--lint disable double-link-->
 - [confidential](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables.
-- [django-split-settings](https://github.com/sobolevn/django-split-settings) - Organize multiple settings files.
+- [django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize multiple settings files.
 - [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 - [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
@@ -165,7 +165,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 <!--lint disable double-link-->
 - [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
-- [django-cms](https://github.com/divio/django-cms) - CMS for Django.
+- [django-cms](https://github.com/django-cms/django-cms) - CMS for Django.
 - [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
 <!--lint enable double-link-->
@@ -174,17 +174,17 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector.
 
 ### ECommerce
-- [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform.
+- [saleor](https://github.com/saleor/saleor) - GraphQL-based Django E-Commerce Platform.
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system.
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
 
 ### Editors
 <!--lint ignore awesome-list-item-->
-- [django-markdownx](https://github.com/adi-/django-markdownx) - Comprehensive Markdown plugin built for Django.
+- [django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django.
 - [django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI.
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
-- [django-summernote](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+- [django-summernote](https://github.com/lqez/django-summernote) - Summernote is a simple WYSIWYG editor.
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
 - [django-prose](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
 - [django-ace](https://github.com/django-ace/django-ace) - ACE integration for Django.
@@ -213,7 +213,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### General
 - [django-data-browser](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 - [django-filter](https://github.com/carltongibson/django-filter) - Powerful filters based on Django QuerySets.
-- [django-sql-explorer](https://github.com/groveco/django-sql-explorer) - Share data via SQL queries.
+- [django-sql-explorer](https://github.com/explorerhq/sql-explorer) - Share data via SQL queries.
 - [django-tables2](https://github.com/jieter/django-tables2) - HTML tables with pagination/sorting.
 - [django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - Shows a 503 error page when maintenance-mode is on.
 - [django-freeze](https://github.com/fabiocaccamo/django-freeze) - Convert your dynamic django site to a static one with one line of code.
@@ -229,7 +229,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta provides a UI to read and write your project's gettext catalogs within the Django Admin.
 
 ### Logging
-- [django-guid](https://github.com/JonasKs/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+- [django-guid](https://github.com/snok/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 - [DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 
 ### Monitoring
@@ -254,8 +254,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
 - [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
-- [django-polymorphic](https://github.com/django-polymorphic/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
-- [django-recurrence](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
+- [django-polymorphic](https://github.com/jazzband/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+- [django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
 - [django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
@@ -285,7 +285,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Security
 - [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
-- [django-feature-policy](https://github.com/adamchainz/django-feature-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+- [django-feature-policy](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 - [django-protected-media](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
 - [DJ Checkup](https://djcheckup.com) - Runs several checks on your deployed Django site to check for common security mistakes.
 
@@ -299,7 +299,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [beatserver](https://github.com/rajasimon/beatserver) - A periodic task scheduler for Django.
 - [django-q2](https://github.com/django-q2/django-q2) - A multiprocessing distributed task queue for Django.
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue.
-- [django-redis](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
+- [django-redis](https://github.com/jazzband/django-redis) - Full-featured Redis cache backend for Django.
 - [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects.
 - [flower](https://github.com/mher/flower) - Flower is a web-based tool for monitoring and administrating Celery clusters.
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
@@ -310,7 +310,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Templates
 - [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
-- [django-components](https://github.com/EmilStenstrom/django-components/) - A way to create simple reusable template components in Django.
+- [django-components](https://github.com/django-components/django-components/) - A way to create simple reusable template components in Django.
 - [django-template-partials](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
 - [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
 - [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
@@ -320,12 +320,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [htpy](https://htpy.dev/) - htpy is a library that makes writing HTML in plain Python fun and efficient, without a template language.
 
 ### Testing
-- [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses.
+- [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar/) - Configurable panels to debug requests/responses.
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django.
 - [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
-- [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
+- [django-waffle](https://github.com/jazzband/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
@@ -334,7 +334,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
 
 ### URLs
-- [dj-database-url](https://github.com/jacobian/dj-database-url) - Database URLs.
+- [dj-database-url](https://github.com/jazzband/dj-database-url) - Database URLs.
 - [urlman](https://github.com/andrewgodwin/urlman) - A nicer way to do URLs for Django models.
 - [django-robots](https://github.com/jazzband/django-robots) - This is a basic Django application to manage robots.txt files following the robots exclusion protocol, complementing the Django Sitemap contrib app.
 - [django-redirects](https://github.com/fabiocaccamo/django-redirects) - Redirects as they should be, with full control.
@@ -342,7 +342,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
 - [django-allauth-ui](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
-- [django-improved-user](https://github.com/jambonsw/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
+- [django-improved-user](https://github.com/jambonrose/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 - [django-cas-ng](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
 - [django-guest-user](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
@@ -351,7 +351,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-braces](https://github.com/brack3t/django-braces) - Reusable, generic mixins.
 - [django-easy-audit](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 - [django-extra-views](https://github.com/AndrewIngram/django-extra-views) - Extra class-based generic views.
-- [django-vanilla-views](https://github.com/tomchristie/django-vanilla-views) - Simpler class-based views in Django.
+- [django-vanilla-views](https://github.com/encode/django-vanilla-views) - Simpler class-based views in Django.
 - [django-stronghold](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login_required.
 - [neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
 
@@ -367,7 +367,7 @@ _A short list of Python packages that work well with Django._
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
 - [pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library.
 - [pytest](https://github.com/pytest-dev/pytest/) - Testing framework.
-- [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
+- [python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 - [python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs.
 - [sentry-python](https://github.com/getsentry/sentry-python) - Error reporting SDK.
 - [python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python implementation of the Socket.IO_ realtime client and server. [(create Socket.io Django server instance)](https://python-socketio.readthedocs.io/en/latest/server.html?highlight=django#creating-a-server-instance)
@@ -490,9 +490,9 @@ _Django 5_
 ## Projects
 
 ### Boilerplate
-- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+- [cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django/) - A full-bodied starter project, highly customizable.
 - [django-base-site](https://github.com/epicserve/django-base-site/) - A Django site with many common third-party packages pre-installed.
-- [djangox](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+- [djangox](https://github.com/wsvincent/lithium/) - Batteries included starter project for Pip, Pipenv, or Docker.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
 - [django-docker-template](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
@@ -504,7 +504,7 @@ _Django 5_
 - [cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-django) - Django + Vue starter project fusing Vue SFCs & Django Templates.
 - [launchr](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 - [sidewinder](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
-- [Falco](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+- [Falco](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [Blaze.horse](https://github.com/piepworks/blaze-starter) - A Django starter kit with reins and saddle included!
 
 ### Open Source Projects
