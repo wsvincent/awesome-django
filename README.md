@@ -93,7 +93,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [django-admin-inline-paginator-plus](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
-- [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+- [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to log in as a different user by using their own username and password.
 - [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to “impersonate” other non-superuser accounts.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays across foreign key relationships.
@@ -157,7 +157,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
 - [environs](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
 <!--lint enable double-link-->
-- [django-classy-settings](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+- [django-classy-settings](https://github.com/funkybob/django-classy-settings) - Class-based settings to keep your environments in order, with easy access to typed environment variables.
 - [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - Easily create and manage editable typed variables directly from the Django admin panel.
 
 ### Content Management Systems
@@ -185,7 +185,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-business-logic](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
 - [django-summernote](https://github.com/lqez/django-summernote) - Summernote is a simple WYSIWYG editor.
 - [django-tinymce](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
-- [django-prose](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+- [django-prose](https://github.com/withlogicco/django-prose) - A lightweight editor for content creation.
 - [django-ace](https://github.com/django-ace/django-ace) - ACE integration for Django.
 
 ### Files/Images
@@ -197,7 +197,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 - [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
-- [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+- [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
@@ -255,7 +255,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/jazzband/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
-- [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+- [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree-based stuff.
 - [django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
 ### Performance
@@ -304,8 +304,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-celery-beat](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 - [celery-exporter](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 - [django-dramatiq](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
-- [django-celery-results](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
-- [django-tasks](https://github.com/realOrangeOne/django-tasks) -  A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
+- [django-celery-results](https://github.com/celery/django-celery-results) - Celery result backend with Django.
+- [django-tasks](https://github.com/realOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
 
 ### Templates
 - [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
@@ -340,7 +340,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Users
 - [django-allauth](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
-- [django-allauth-ui](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+- [django-allauth-ui](https://github.com/danihodovic/django-allauth-ui/) - Better-looking templates for django-allauth.
 - [django-improved-user](https://github.com/jambonrose/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 - [django-organizations](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 - [django-cas-ng](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
@@ -454,7 +454,7 @@ _A short list of Python packages that work well with Django._
 - [PyVideo](https://pyvideo.org) - PyVideo is an index of Python related media.
 
 ### Books
-For a complete listing of in-print books check out [DjangoBook.com](https://djangobook.com/).
+For a complete listing of in-print books, check out [DjangoBook.com](https://djangobook.com/).
 
 _Django 5_
 - [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)
@@ -494,9 +494,9 @@ _Django 5_
 - [djangox](https://github.com/wsvincent/lithium/) - Batteries included starter project for Pip, Pipenv, or Docker.
 - [DRFx](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 - [django-project-template](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
-- [django-docker-template](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
+- [django-docker-template](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto-renew Let's Encrypt).
 - [django-startproject](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
-- [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template/) - Bleeding-edge Django template focused on code quality and security.
 - [django-webpack-starter](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 - [sos-django-template](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
 - [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
@@ -524,7 +524,7 @@ _Django 5_
 - [OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 - [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
-- [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 
 ## Django REST Framework
 
