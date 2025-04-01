@@ -67,6 +67,11 @@ heading_anchors: true
 footer_content: >-
   <iframe src="https://django-news.com/embed?color1=ffffff&color2=092e20&color_bg_button=092e20&color_border=ccc&color_button=ffffff&color_links=979797&color_terms=808080&title=Subscribe+to+Django+News" width="450" height="310" frameborder="0" style="max-width: 100%"></iframe>
 
+  <div align="center">
+  <webring-css site="https://awesomedjango.org"></webring-css>
+  <script src="https://djangowebring.com/static/webring.js"></script>
+  </div>
+
   <p>Please consider supporting Django by making a donation to the
   <a rel="sponsored" href="https://www.djangoproject.com/fundraising/">Django Software Foundation</a>,
   sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitHub Sponsors</a>,
