@@ -400,6 +400,7 @@ _A short list of Python packages that work well with Django._
 - [Django Template Tags and Filters](https://www.djangotemplatetagsandfilters.com/) - Additional docs on Django's 57 built-in template filters and 27 template tags.
 - [Django for Everybody](https://www.dj4e.com/) - A complete course for webdev beginners focused on Django.
 - [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
+- [Django-tutorial.dev](https://django-tutorial.dev/) - Learn Django as your First Framework. Learn Django by Learning the Blocks, step-by-step. Free, practical, and beginner-friendly.
 
 ### Community
 <!--lint disable double-link-->
