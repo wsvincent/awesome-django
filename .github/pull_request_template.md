@@ -49,6 +49,15 @@ Please answer the following questions about the project you are submitting. This
 
 ----
 
+## AI Disclosure
+
+We love transparent contributions. Using AI is perfectly fine, just let us know.
+
+- [ ] Yes, this pull request was generated or assisted by AI.
+- [ ] No, this pull request was authored entirely by a human.
+
+----
+
 ## Additional Information
 
 Please provide any additional information you believe is relevant to the project or its evaluation for inclusion in the Awesome Django list. This might include information about the project's documentation, test coverage, community support, or any unique features that set it apart from other Django projects.
