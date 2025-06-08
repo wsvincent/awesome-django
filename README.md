@@ -284,6 +284,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
 
 ### Security
+- [django-cryptography](https://github.com/georgemarshall/django-cryptography) - A set of primitives for easily encrypting data in Django.
 - [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
 - [django-feature-policy](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
 - [django-protected-media](https://github.com/cobusc/django-protected-media) - Manages media that are considered sensitive in a protected fashion.
