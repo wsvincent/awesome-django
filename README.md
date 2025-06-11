@@ -34,6 +34,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Configuration](#configuration)
   - [Content Management Systems](#content-management-systems)
   - [Database Connectors](#database-connectors)
+  - [Dependency Injection](#dependency-injection)
   - [ECommerce](#ecommerce)
   - [Editors](#editors)
   - [Files/Images](#filesimages)
@@ -172,6 +173,9 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Database Connectors
 - [djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector.
+
+### Dependency Injection
+- [Wireup](https://github.com/maldoinc/wireup) - Dependency Injection for Django
 
 ### ECommerce
 - [saleor](https://github.com/saleor/saleor) - GraphQL-based Django E-Commerce Platform.
