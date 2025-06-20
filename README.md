@@ -98,6 +98,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays across foreign key relationships.
 - [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
+- [django-admin-collaborator](https://github.com/brktrlw/django-admin-collaborator) - Add real-time user presence, edit locks, and chat to Django admin with Channels and Redis.
 
 ### Admin Themes
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
