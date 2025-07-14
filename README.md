@@ -110,6 +110,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 - [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
 - [django-admin-dracula](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin.
+- [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
 
 ### APIs
 <!--lint disable double-link-->
