@@ -311,11 +311,8 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-tasks](https://github.com/realOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
 
 ### Templates
-- [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
 - [django-components](https://github.com/django-components/django-components/) - A way to create simple reusable template components in Django.
 - [django-template-partials](https://github.com/carltongibson/django-template-partials/) - Reusable named inline partials for the Django Template Language.
-- [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
-- [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 - [slippers](https://mitchel.me/slippers/) - Build reusable components in Django without writing a single line of Python.
 - [JinjaX](https://jinjax.scaletti.dev/) - Super components powers for your Jinja templates.
 - [django-cotton](https://django-cotton.com/) - Goodbye `{% raw %}{%{% endraw %} extends, block, include {% raw %}%}{% endraw %}`, Hello `<c-component />`. Bringing modern UI composition to Django.
@@ -356,6 +353,15 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-vanilla-views](https://github.com/encode/django-vanilla-views) - Simpler class-based views in Django.
 - [django-stronghold](https://github.com/mgrouchy/django-stronghold) - Makes all your Django views default login_required.
 - [neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django.
+
+## Developer Tools
+
+Standalone tools that help in developing Django projects.
+
+### Templates
+- [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
+- [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
+- [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 
 ## Python Packages
 
