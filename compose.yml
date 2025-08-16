@@ -2,18 +2,16 @@ services:
 
   devd:
     image: ghcr.io/jefftriplett/devd:latest
-    command: --livewatch
-    expose:
-      - 8000
+    command: ["--livewatch"]
     init: true
     ports:
       - 8000:8000
     volumes:
-      - .:/srv/jekyll
+      - .:/srv/jekyll:cached
 
   jekyll:
     image: jekyll/jekyll:latest
-    command: jekyll serve --drafts --force_polling --watch --port 4000
+    command: ["jekyll", "serve", "--host", "0.0.0.0", "--port", "4000", "--livereload", "--drafts", "--force_polling"]
     environment:
       - BUNDLE_PATH=/usr/local/bundle
     expose:
