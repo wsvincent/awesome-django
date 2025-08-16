@@ -4,6 +4,8 @@ about: Suggest a new Django project for the Awesome Django list
 title: "[NEW] Project Name"
 ---
 
+> **⚠️ Important:** Deleting this template or ignoring its requirements will most likely result in your pull request being closed without review. Please take the time to fill out all sections completely.
+
 ## Project Information
 
 1. **Project Name:**
