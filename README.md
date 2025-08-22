@@ -493,6 +493,7 @@ _Django 5_
 - [Railway](https://railway.app)
 - [Render](https://render.com)
 - [Vercel](https://vercel.com/home)
+- [Diploi](https://diploi.com)
 
 ### IaaS (Infrastructure-as-a-Service)
 - [Digital Ocean](https://www.digitalocean.com)
