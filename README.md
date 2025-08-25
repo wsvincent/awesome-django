@@ -482,6 +482,7 @@ _Django 5_
 ### PaaS (Platforms-as-a-Service)
 - [Appliku](https://appliku.com)
 - [Dokku](https://dokku.com)
+- [Diploi](https://diploi.com)
 - [Divio](https://www.divio.com)
 - [Fly](https://fly.io)
 - [Google Cloud](https://cloud.google.com/python/django/)
@@ -493,7 +494,6 @@ _Django 5_
 - [Railway](https://railway.app)
 - [Render](https://render.com)
 - [Vercel](https://vercel.com/home)
-- [Diploi](https://diploi.com)
 
 ### IaaS (Infrastructure-as-a-Service)
 - [Digital Ocean](https://www.digitalocean.com)
