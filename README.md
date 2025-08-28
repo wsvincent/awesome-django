@@ -518,7 +518,7 @@ _Django 5_
 - [launchr](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 - [sidewinder](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 - [Falco](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
-- [Blaze.horse](https://github.com/piepworks/blaze-starter) - A Django starter kit with reins and saddle included!
+- [BH2](https://codeberg.org/trey/bh2) - Get a new Django site started in a Djiffy
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
