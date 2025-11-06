@@ -338,7 +338,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-google-optimize](https://github.com/adinhodovic/django-google-optimize) - Django application designed to make running server side Google Optimize A/B tests easy.
 - [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 - [storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
-- [django-lookbook](https://github.com/rails-inspire-django/django-lookbook) - A pluggable app for creating a robust component library with preview system, documentation engine, and parameter editor for building modular UI components.
 
 ### URLs
 - [dj-database-url](https://github.com/jazzband/dj-database-url) - Database URLs.
@@ -522,7 +521,6 @@ _Django 5_
 - [sidewinder](https://github.com/stribny/sidewinder/) - A Django starter kit that focuses on good defaults, developer experience, and deployment.
 - [Falco](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
 - [BH2](https://codeberg.org/trey/bh2) - Get a new Django site started in a Djiffy
-- [python-webpack-boilerplate](https://github.com/AccordBox/python-webpack-boilerplate) - Bring modern frontend tooling to Django with out-of-the-box support for Tailwind CSS, Bootstrap, SCSS, and seamless JavaScript integration.
 
 ### Open Source Projects
 - [Blog app with users and forms](https://github.com/wsvincent/djangoforbeginners/tree/master/ch7-blog-app-with-users/)
