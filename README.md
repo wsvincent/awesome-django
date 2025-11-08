@@ -550,6 +550,8 @@ _The most popular way to build web APIs with Django._
 - [Official Documentation](https://www.django-rest-framework.org/)
 - [DRF Source Code](https://github.com/encode/django-rest-framework)
 - [awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)
+- [Django REST Framework E-Commerce Series by Dennis Ivy](https://www.youtube.com/watch?v=UqSJCVePEWU) - A practical full-stack e-commerce tutorial using Django + DRF with cart, checkout & user auth workflow.
+
 <!--lint enable double-link-->
 
 ### DRF Tutorials
