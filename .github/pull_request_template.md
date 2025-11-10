@@ -26,6 +26,8 @@ Please answer the following questions about the project you are submitting. This
 
 **Additionally:** 🙅 We are not interested in Django Starter Kit projects. We might change our minds, but for now, these tend to be more similar than different. Every Django Starter Kit is awesome.
 
+**Read the Room:** 👀 Before submitting, please take time to browse through the existing projects in the list. Get a sense of the quality, maturity, and types of projects we include. If your submission is primarily promotional or doesn't clearly benefit the broader Django community, it's probably not a good fit. We're looking for projects that solve real problems and have demonstrated value to the ecosystem.
+
 👉 Please **read** and fill out **all five questions**. We reserve the right to close your pull request without feedback if you skip one or all of them.
 
 1. **Is the project new?**
