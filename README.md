@@ -132,7 +132,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [django-webhook](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 - [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
-- [apitally](https://github.com/apitally/apitally-py) - API monitoring and analytics for Django REST Framework and Django Ninja, with metrics, logging, and alerts.
 <!--lint enable double-link-->
 
 ### Async
@@ -243,6 +242,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Monitoring
 - [django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics to Prometheus.
 - [django-mixin](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
+- [apitally](https://github.com/apitally/apitally-py) - API monitoring and analytics for Django REST Framework and Django Ninja, with metrics, logging, and alerts.
 
 ### Mailing
 - [django-pony-express](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
