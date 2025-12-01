@@ -70,6 +70,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Podcasts](#podcasts)
   - [Videos](#videos)
   - [Books](#books)
+  - [Ecosystem](#ecosystem)
 - [Hosting](#hosting)
   - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
@@ -477,6 +478,10 @@ _Django 5_
 - [Django 5 By Example](https://www.packtpub.com/en-us/product/django-5-by-example-9781805125457)
 - [Django in Action](https://www.manning.com/books/django-in-action)
 - [Django for Beginners, Fifth Edition](https://learndjango.com/courses/django-for-beginners/)
+
+### Ecosystem
+
+- [Django compatible package directory](https://www.stacktco.com/py/ecosystems/django) on StackTCO
 
 ## Hosting
 
