@@ -539,6 +539,7 @@ _Django 5_
 - [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
+- [Revel](https://github.com/letsrevel/revel-backend) - An open-source, community-focused event management and ticketing platform.
 
 ## Django REST Framework
 
