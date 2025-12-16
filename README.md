@@ -185,6 +185,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system.
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform.
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
+- [django-referral-system](https://github.com/soldatov-ss/django-referral-system) - Referral system with commission tracking and automated payouts.
 
 ### Editors
 <!--lint ignore awesome-list-item-->
