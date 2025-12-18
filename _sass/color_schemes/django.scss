@@ -1,1 +1,32 @@
-$link-color: $green-300;
+// Django Brand Colors
+$django-green-dark: #0C4B33;
+$django-green-mid: #20AA76;
+$django-green-light: #44B78B;
+$django-green-pale: #E8F5F0;
+$django-cream: #F9F7F3;
+
+// Theme Configuration
+$color-scheme: light;
+
+// Body & Text
+$body-background-color: $white;
+$body-heading-color: $django-green-dark;
+$body-text-color: #333333;
+
+// Links & Buttons
+$link-color: $django-green-mid;
+$btn-primary-color: $django-green-dark;
+$base-button-color: $django-green-pale;
+
+// Sidebar & Navigation
+$sidebar-color: $django-green-pale;
+$nav-child-link-color: $django-green-dark;
+
+// Code Blocks
+$code-background-color: $django-cream;
+
+// Search & Tables
+$search-background-color: $white;
+$search-result-preview-color: #666666;
+$table-background-color: $white;
+$feedback-color: darken($django-green-pale, 5%);
