@@ -12,12 +12,16 @@
 #     "rich",
 #     "typer",
 #     "markdown-it-py",
+#     "sqlmodel",
 # ]
 # ///
+import json
 import os
 import re
+from datetime import datetime
 from pathlib import Path
 from typing import Any
+from typing import Optional
 from urllib.parse import urlparse
 
 import frontmatter
@@ -30,8 +34,15 @@ from pydantic import BaseModel
 from pydantic import ConfigDict
 from pydantic import Field
 from rich import print
+from rich.console import Console
 from rich.progress import track
+from rich.table import Table
 from slugify import slugify
+from sqlmodel import Field as SQLField
+from sqlmodel import Session
+from sqlmodel import SQLModel
+from sqlmodel import create_engine
+from sqlmodel import select
 
 
 app = typer.Typer(
@@ -62,6 +73,77 @@ class Project(BaseModel):
         super().__init__(**data)
         if not self.slug:
             self.slug = slugify(self.name)
+
+
+# SQLModel database model
+class ProjectDB(SQLModel, table=True):
+    """SQLModel for storing projects in SQLite database."""
+
+    __tablename__ = "projects"
+
+    id: Optional[int] = SQLField(default=None, primary_key=True)
+    name: str = SQLField(index=True)
+    description: str
+    url: str = SQLField(unique=True)
+    category: str = SQLField(index=True)
+    slug: str = SQLField(unique=True, index=True)
+    tags: str = SQLField(default="[]")  # JSON string
+    github_stars: Optional[int] = SQLField(default=None, index=True)
+    github_forks: Optional[int] = SQLField(default=None)
+    github_last_update: Optional[str] = SQLField(default=None)
+    github_last_commit: Optional[str] = SQLField(default=None, index=True)
+    previous_urls: str = SQLField(default="[]")  # JSON string
+
+    @classmethod
+    def from_project(cls, project: Project) -> "ProjectDB":
+        """Convert a Project to ProjectDB."""
+        return cls(
+            name=project.name,
+            description=project.description,
+            url=project.url,
+            category=project.category,
+            slug=project.slug,
+            tags=json.dumps(project.tags),
+            github_stars=project.github_stars,
+            github_forks=project.github_forks,
+            github_last_update=project.github_last_update,
+            github_last_commit=project.github_last_commit,
+            previous_urls=json.dumps(project.previous_urls),
+        )
+
+    def to_project(self) -> Project:
+        """Convert ProjectDB back to Project."""
+        return Project(
+            name=self.name,
+            description=self.description,
+            url=self.url,
+            category=self.category,
+            slug=self.slug,
+            tags=json.loads(self.tags),
+            github_stars=self.github_stars,
+            github_forks=self.github_forks,
+            github_last_update=self.github_last_update,
+            github_last_commit=self.github_last_commit,
+            previous_urls=json.loads(self.previous_urls),
+        )
+
+
+# Database configuration
+DATABASE_PATH = Path("projects.db")
+DATABASE_URL = f"sqlite:///{DATABASE_PATH}"
+console = Console()
+
+
+def get_engine():
+    """Get SQLModel engine."""
+    return create_engine(DATABASE_URL, echo=False)
+
+
+def init_db():
+    """Initialize the database and create tables."""
+    engine = get_engine()
+    SQLModel.metadata.create_all(engine)
+    return engine
 
 
 def parse_project_line(line: Tag, category: str) -> Project | None:
@@ -351,6 +433,309 @@ def update_metrics(projects_dir: Path = Path("_projects"), batch_size: int = 50)
                         print(f"[green]Updated metrics for {project.name}[/green]")
 
     print("[bold blue]Finished updating GitHub metrics![/bold blue]")
+
+
+@app.command()
+def sync_db(projects_dir: Path = Path("_projects")):
+    """
+    Sync projects from markdown files to SQLite database.
+    """
+    if not projects_dir.exists():
+        print(f"[red]Error: Projects directory not found at {projects_dir}[/red]")
+        raise typer.Exit(1)
+
+    print(f"[bold blue]Syncing projects to {DATABASE_PATH}...[/bold blue]")
+
+    engine = init_db()
+
+    # Load all projects from markdown files
+    project_files = list(projects_dir.glob("*.md"))
+    projects_loaded = 0
+
+    with Session(engine) as session:
+        # Clear existing data
+        session.exec(select(ProjectDB)).all()
+        for existing in session.exec(select(ProjectDB)).all():
+            session.delete(existing)
+        session.commit()
+
+        # Load new data
+        for file in track(project_files, description="Loading projects"):
+            if project := load_project(file):
+                db_project = ProjectDB.from_project(project)
+                session.add(db_project)
+                projects_loaded += 1
+
+        session.commit()
+
+    print(f"[green]Synced {projects_loaded} projects to {DATABASE_PATH}[/green]")
+
+
+@app.command()
+def query(
+    category: Optional[str] = typer.Option(None, "--category", "-c", help="Filter by category"),
+    min_stars: Optional[int] = typer.Option(None, "--min-stars", "-s", help="Minimum GitHub stars"),
+    limit: int = typer.Option(20, "--limit", "-l", help="Maximum results to show"),
+    sort_by: str = typer.Option("stars", "--sort", help="Sort by: stars, name, commits"),
+):
+    """
+    Query projects from the database with filters.
+    """
+    if not DATABASE_PATH.exists():
+        print("[red]Database not found. Run 'sync-db' first.[/red]")
+        raise typer.Exit(1)
+
+    engine = get_engine()
+
+    with Session(engine) as session:
+        statement = select(ProjectDB)
+
+        if category:
+            statement = statement.where(ProjectDB.category == category)
+
+        if min_stars:
+            statement = statement.where(ProjectDB.github_stars >= min_stars)
+
+        # Sorting
+        if sort_by == "stars":
+            statement = statement.order_by(ProjectDB.github_stars.desc())
+        elif sort_by == "name":
+            statement = statement.order_by(ProjectDB.name)
+        elif sort_by == "commits":
+            statement = statement.order_by(ProjectDB.github_last_commit.desc())
+
+        statement = statement.limit(limit)
+        results = session.exec(statement).all()
+
+        if not results:
+            print("[yellow]No projects found matching criteria.[/yellow]")
+            return
+
+        table = Table(title=f"Projects ({len(results)} results)")
+        table.add_column("Name", style="cyan", no_wrap=True)
+        table.add_column("Category", style="green")
+        table.add_column("Stars", justify="right", style="yellow")
+        table.add_column("Last Commit", style="magenta")
+
+        for p in results:
+            stars = str(p.github_stars) if p.github_stars else "-"
+            last_commit = p.github_last_commit[:10] if p.github_last_commit else "-"
+            table.add_row(p.name, p.category, stars, last_commit)
+
+        console.print(table)
+
+
+@app.command()
+def top(
+    limit: int = typer.Option(20, "--limit", "-l", help="Number of projects to show"),
+    category: Optional[str] = typer.Option(None, "--category", "-c", help="Filter by category"),
+):
+    """
+    Show top projects by GitHub stars.
+    """
+    if not DATABASE_PATH.exists():
+        print("[red]Database not found. Run 'sync-db' first.[/red]")
+        raise typer.Exit(1)
+
+    engine = get_engine()
+
+    with Session(engine) as session:
+        statement = select(ProjectDB).where(ProjectDB.github_stars.isnot(None))
+
+        if category:
+            statement = statement.where(ProjectDB.category == category)
+
+        statement = statement.order_by(ProjectDB.github_stars.desc()).limit(limit)
+        results = session.exec(statement).all()
+
+        table = Table(title=f"Top {len(results)} Projects by Stars")
+        table.add_column("#", justify="right", style="dim")
+        table.add_column("Name", style="cyan", no_wrap=True)
+        table.add_column("Category", style="green")
+        table.add_column("Stars", justify="right", style="yellow")
+        table.add_column("Forks", justify="right", style="blue")
+        table.add_column("URL", style="dim")
+
+        for i, p in enumerate(results, 1):
+            table.add_row(
+                str(i),
+                p.name,
+                p.category,
+                f"{p.github_stars:,}",
+                str(p.github_forks or "-"),
+                p.url[:50] + "..." if len(p.url) > 50 else p.url,
+            )
+
+        console.print(table)
+
+
+@app.command()
+def categories():
+    """
+    List all categories with project counts.
+    """
+    if not DATABASE_PATH.exists():
+        print("[red]Database not found. Run 'sync-db' first.[/red]")
+        raise typer.Exit(1)
+
+    engine = get_engine()
+
+    with Session(engine) as session:
+        results = session.exec(select(ProjectDB)).all()
+
+        # Count by category
+        category_counts: dict[str, int] = {}
+        category_stars: dict[str, int] = {}
+        for p in results:
+            category_counts[p.category] = category_counts.get(p.category, 0) + 1
+            category_stars[p.category] = category_stars.get(p.category, 0) + (p.github_stars or 0)
+
+        # Sort by count
+        sorted_categories = sorted(category_counts.items(), key=lambda x: x[1], reverse=True)
+
+        table = Table(title="Categories")
+        table.add_column("Category", style="cyan")
+        table.add_column("Projects", justify="right", style="green")
+        table.add_column("Total Stars", justify="right", style="yellow")
+
+        for cat, count in sorted_categories:
+            table.add_row(cat, str(count), f"{category_stars[cat]:,}")
+
+        console.print(table)
+        print(f"\n[bold]Total: {len(sorted_categories)} categories, {len(results)} projects[/bold]")
+
+
+@app.command()
+def search(
+    query: str = typer.Argument(..., help="Search term"),
+    limit: int = typer.Option(20, "--limit", "-l", help="Maximum results"),
+):
+    """
+    Search projects by name or description.
+    """
+    if not DATABASE_PATH.exists():
+        print("[red]Database not found. Run 'sync-db' first.[/red]")
+        raise typer.Exit(1)
+
+    engine = get_engine()
+    query_lower = query.lower()
+
+    with Session(engine) as session:
+        results = session.exec(select(ProjectDB)).all()
+
+        # Filter by search term
+        matches = [
+            p for p in results
+            if query_lower in p.name.lower() or query_lower in p.description.lower()
+        ]
+
+        # Sort by stars
+        matches.sort(key=lambda x: x.github_stars or 0, reverse=True)
+        matches = matches[:limit]
+
+        if not matches:
+            print(f"[yellow]No projects found matching '{query}'[/yellow]")
+            return
+
+        table = Table(title=f"Search results for '{query}' ({len(matches)} matches)")
+        table.add_column("Name", style="cyan", no_wrap=True)
+        table.add_column("Category", style="green")
+        table.add_column("Stars", justify="right", style="yellow")
+        table.add_column("Description", style="dim", max_width=50)
+
+        for p in matches:
+            stars = str(p.github_stars) if p.github_stars else "-"
+            desc = p.description[:50] + "..." if len(p.description) > 50 else p.description
+            table.add_row(p.name, p.category, stars, desc)
+
+        console.print(table)
+
+
+@app.command()
+def stale(
+    days: int = typer.Option(365, "--days", "-d", help="Days since last commit to consider stale"),
+    limit: int = typer.Option(30, "--limit", "-l", help="Maximum results"),
+):
+    """
+    Find stale/unmaintained projects (no commits in X days).
+    """
+    if not DATABASE_PATH.exists():
+        print("[red]Database not found. Run 'sync-db' first.[/red]")
+        raise typer.Exit(1)
+
+    engine = get_engine()
+    cutoff = datetime.now().replace(tzinfo=None)
+
+    with Session(engine) as session:
+        results = session.exec(
+            select(ProjectDB).where(ProjectDB.github_last_commit.isnot(None))
+        ).all()
+
+        # Filter stale projects
+        stale_projects = []
+        for p in results:
+            try:
+                last_commit = datetime.fromisoformat(p.github_last_commit.replace("Z", "+00:00"))
+                last_commit = last_commit.replace(tzinfo=None)
+                days_since = (cutoff - last_commit).days
+                if days_since >= days:
+                    stale_projects.append((p, days_since))
+            except (ValueError, AttributeError):
+                continue
+
+        # Sort by oldest first
+        stale_projects.sort(key=lambda x: x[1], reverse=True)
+        stale_projects = stale_projects[:limit]
+
+        if not stale_projects:
+            print(f"[green]No stale projects found (>{days} days without commits)[/green]")
+            return
+
+        table = Table(title=f"Stale Projects (no commits in {days}+ days)")
+        table.add_column("Name", style="cyan", no_wrap=True)
+        table.add_column("Category", style="green")
+        table.add_column("Stars", justify="right", style="yellow")
+        table.add_column("Last Commit", style="red")
+        table.add_column("Days Ago", justify="right", style="red")
+
+        for p, days_ago in stale_projects:
+            stars = str(p.github_stars) if p.github_stars else "-"
+            last_commit = p.github_last_commit[:10] if p.github_last_commit else "-"
+            table.add_row(p.name, p.category, stars, last_commit, str(days_ago))
+
+        console.print(table)
+        print(f"\n[bold red]Found {len(stale_projects)} stale projects[/bold red]")
+
+
+@app.command()
+def stats():
+    """
+    Show database statistics.
+    """
+    if not DATABASE_PATH.exists():
+        print("[red]Database not found. Run 'sync-db' first.[/red]")
+        raise typer.Exit(1)
+
+    engine = get_engine()
+
+    with Session(engine) as session:
+        all_projects = session.exec(select(ProjectDB)).all()
+        github_projects = [p for p in all_projects if p.github_stars is not None]
+
+        total_stars = sum(p.github_stars or 0 for p in all_projects)
+        categories = set(p.category for p in all_projects)
+
+        print("\n[bold blue]Database Statistics[/bold blue]")
+        print(f"  Total projects: [green]{len(all_projects)}[/green]")
+        print(f"  GitHub projects: [green]{len(github_projects)}[/green]")
+        print(f"  Categories: [green]{len(categories)}[/green]")
+        print(f"  Total stars: [yellow]{total_stars:,}[/yellow]")
+
+        if github_projects:
+            avg_stars = total_stars / len(github_projects)
+            max_stars_project = max(github_projects, key=lambda x: x.github_stars or 0)
+            print(f"  Average stars: [yellow]{avg_stars:.0f}[/yellow]")
+            print(f"  Most starred: [cyan]{max_stars_project.name}[/cyan] ({max_stars_project.github_stars:,} stars)")
 
 
 if __name__ == "__main__":
