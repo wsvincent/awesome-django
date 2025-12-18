@@ -55,6 +55,7 @@ class Project(BaseModel):
     github_stars: int | None = None
     github_forks: int | None = None
     github_last_update: str | None = None
+    github_last_commit: str | None = None
     previous_urls: list[str] = Field(default_factory=list)
 
     def __init__(self, **data):
@@ -142,7 +143,7 @@ def merge_project_data(existing: dict[str, Any], new: dict[str, Any]) -> dict[st
         merged["description"] = new["description"]
 
     # Update GitHub metrics if they exist in new data
-    github_fields = {"github_stars", "github_forks", "github_last_update"}
+    github_fields = {"github_stars", "github_forks", "github_last_update", "github_last_commit"}
     for field in github_fields:
         if field in new and new[field] is not None:
             merged[field] = new[field]
@@ -227,11 +228,30 @@ def get_github_metrics(
         response.raise_for_status()
         data = response.json()
 
-        return {
+        metrics = {
             "github_stars": data["stargazers_count"],
             "github_forks": data["forks_count"],
             "github_last_update": data["updated_at"],
-        }, new_url
+        }
+
+        # Fetch last commit date
+        commits_url = f"https://api.github.com/repos/{owner}/{repo}/commits"
+        try:
+            commits_response = client.get(
+                commits_url,
+                headers=headers,
+                params={"per_page": 1},
+                timeout=10.0,
+                follow_redirects=True,
+            )
+            commits_response.raise_for_status()
+            commits_data = commits_response.json()
+            if commits_data and len(commits_data) > 0:
+                metrics["github_last_commit"] = commits_data[0]["commit"]["committer"]["date"]
+        except httpx.HTTPError as e:
+            print(f"[yellow]Warning: Could not fetch commits for {owner}/{repo}: {str(e)}[/yellow]")
+
+        return metrics, new_url
 
     except httpx.HTTPError as e:
         print(f"[red]Error fetching GitHub metrics for {owner}/{repo}: {str(e)}[/red]")
