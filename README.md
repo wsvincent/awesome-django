@@ -136,7 +136,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
-- [starlette](https://github.com/encode/starlette) - ASGI framework.
 
 ### Caching
 - [django-cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
@@ -145,7 +144,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Commands
 - [django-extensions](https://github.com/django-extensions/django-extensions/) - Custom management extensions, notably `runserver_plus` and `shell_plus`.
 - [django-click](https://github.com/django-commons/django-click) - Write Django management commands using the [click CLI library](https://click.palletsprojects.com).
-- [django-dbbackup](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+- [django-dbbackup](https://github.com/Archmonger/django-dbbackup) - Management commands to help backup and restore your project database and media files.
 - [django-liquidb](https://github.com/Gusakovskiy/django-liquidb) - Django application to simplify migration management and changes in states of db scheme.
 - [django-migration-zero](https://github.com/ambient-innovation/django-migration-zero/) - Holistic implementation of "migration zero" pattern for Django covering local changes and in-production database adjustments.
 - [django-typer](https://github.com/django-commons/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
@@ -211,7 +210,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
 
 ### Full-stack frameworks
-- [Django-Bridge](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
+- [Django-Bridge](https://github.com/kaedroho/django-bridge) - The simple way to build React frontends for Django applications.
 - [ReactPy](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module](https://github.com/reactive-python/reactpy-django).
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 - [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
@@ -240,7 +239,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 
 ### Monitoring
-- [django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics to Prometheus.
+- [django-prometheus](https://github.com/django-commons/django-prometheus) - Export Django monitoring metrics to Prometheus.
 - [django-mixin](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
 
 ### Mailing
@@ -260,11 +259,11 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-mptt](https://github.com/django-mptt/django-mptt) - Modified Preorder Tree Traversal; working with trees of Model instances.
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
-- [django-simple-history](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
+- [django-simple-history](https://github.com/django-commons/django-simple-history) - Store model history and view/revert changes from the admin.
 - [django-polymorphic](https://github.com/jazzband/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree-based stuff.
-- [django-auto-prefetch](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
+- [django-auto-prefetch](https://github.com/adamchainz/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
@@ -330,7 +329,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
-- [django-waffle](https://github.com/jazzband/django-waffle) - A feature flipper for Django.
+- [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
@@ -375,7 +374,7 @@ _A short list of Python packages that work well with Django._
 
 - [bleach](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter.
-- [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement.
+- [coveragepy](https://github.com/coveragepy/coveragepy) - Code coverage measurement.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [huey](https://github.com/coleifer/huey) - A little task queue for Python.
 - [nplusone](https://github.com/jmcarp/nplusone) - Auto-detect n+1 queries.
@@ -536,7 +535,7 @@ _Django 5_
 - [HyperKitty](https://gitlab.com/mailman/hyperkitty) - A web interface to access GNU Mailman v3 archives.
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
-- [OpenContracts](https://github.com/JSv4/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
+- [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 - [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
