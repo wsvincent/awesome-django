@@ -206,6 +206,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
 ### Full-stack frameworks
+- [Django LiveView](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 - [Django-Bridge](https://github.com/kaedroho/django-bridge) - The simple way to build React frontends for Django applications.
 - [ReactPy](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module](https://github.com/reactive-python/reactpy-django).
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
