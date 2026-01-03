@@ -131,6 +131,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [django-webhook](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 - [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
+- [Vedika API](https://vedika.io) - AI-powered Vedic astrology REST API with 108+ endpoints.
 <!--lint enable double-link-->
 
 ### Async
