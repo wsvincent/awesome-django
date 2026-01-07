@@ -162,6 +162,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 <!--lint enable double-link-->
 - [django-classy-settings](https://github.com/funkybob/django-classy-settings) - Class-based settings to keep your environments in order, with easy access to typed environment variables.
 - [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - Easily create and manage editable typed variables directly from the Django admin panel.
+- [claude-code-django](https://github.com/kjnez/claude-code-django/) - Comprehensive Claude Code project configuration example for Django with hooks, skills, agents, commands, and GitHub Actions workflows.
 
 ### Content Management Systems
 <!--lint disable double-link-->
