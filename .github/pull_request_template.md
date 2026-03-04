@@ -26,7 +26,7 @@ Please answer the following questions about the project you are submitting. This
 
 **Note:** If your project is only a few months old or has under 50 to 100 stars on GitHub, it may NOT meet the criteria for inclusion in the Awesome Django list. We recommend that you promote your project more and then consider submitting it when it has gained more visibility and community support.
 
-**Additionally:** 🙅 We are not interested in Django Starter Kit projects. We might change our minds, but for now, these tend to be more similar than different. Every Django Starter Kit is awesome.
+**Additionally:** 🙅 We are not interested in Django Starter Kit projects, boilerplates, config templates, or similar scaffolding repos. We might change our minds, but for now, these tend to be more similar than different. Every Django Starter Kit is awesome.
 
 **Read the Room:** 👀 Before submitting, please take time to browse through the existing projects in the list. Get a sense of the quality, maturity, and types of projects we include. If your submission is primarily promotional or doesn't clearly benefit the broader Django community, it's probably not a good fit. We're looking for projects that solve real problems and have demonstrated value to the ecosystem.
 
@@ -38,7 +38,7 @@ Please answer the following questions about the project you are submitting. This
 
 2. **How long has the project been maintained?**
 
-   _(Please provide an approximate duration in months or years.)_
+   _(It doesn't have to be exact, but we generally expect at least 6 months of active maintenance history with a pattern of sustained development — not just initial creation. Please provide an approximate duration in months or years.)_
 
 3. **How many releases has it had if it's a library or package?**
 
