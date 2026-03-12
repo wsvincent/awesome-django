@@ -284,6 +284,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Search Engine Optimisation
 - [django-check-seo](https://github.com/kapt-labs/django-check-seo) - Check SEO of pages.
+- [django-llms-txt](https://github.com/rapitek/django-llms-txt) - Generate llms.txt files to make your site discoverable by AI assistants.
 
 ### Security
 - [django-csp](https://github.com/mozilla/django-csp) - Adds [Content-Security-Policy](http://www.w3.org/TR/CSP/) headers to Django.
