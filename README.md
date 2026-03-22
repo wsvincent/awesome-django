@@ -235,6 +235,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Logging
 - [django-guid](https://github.com/snok/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
 - [DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
+- [django-structlog](https://github.com/jrobichaud/django-structlog) - django-structlog is a structured logging integration for Django project using [structlog](https://www.structlog.org)
 
 ### Monitoring
 - [django-prometheus](https://github.com/django-commons/django-prometheus) - Export Django monitoring metrics to Prometheus.
