@@ -18,6 +18,7 @@ sponsoring via <a rel="sponsored" href="https://github.com/sponsors/django">GitH
 or buying <a rel="sponsored" href="https://django.threadless.com/">official merchandise</a>.
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Django-based multi-agent orchestration, automated task management, and API coordination. MIT licensed.
 ## Contents
 
 <!--lint disable awesome-toc-->
