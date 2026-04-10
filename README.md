@@ -357,6 +357,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 Standalone tools that help in developing Django projects.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=wsvincent_awesome-django) - Follow developers on GitHub and get a feed of what they star and build.
 ### Templates
 - [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
 - [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
