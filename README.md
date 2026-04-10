@@ -182,6 +182,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### ECommerce
 - [saleor](https://github.com/saleor/saleor) - GraphQL-based Django E-Commerce Platform.
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
+- [amper-b2c](https://github.com/AMPLIFIER-sp-z-o-o/amper-b2c) - Modern, developer-friendly B2C e-commerce engine built with Django.
 
 ### Editors
 <!--lint ignore awesome-list-item-->
