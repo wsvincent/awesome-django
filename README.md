@@ -479,7 +479,7 @@ _Django 5_
 - [Heroku](https://www.heroku.com)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [Piku](https://github.com/piku/piku)
-- [Platform.sh](https://platform.sh)
+- [Upsun](https://upsun.com)
 - [PythonAnywhere](https://www.pythonanywhere.com)
 - [Railway](https://railway.app)
 - [Render](https://render.com)
