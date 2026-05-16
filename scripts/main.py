@@ -18,6 +18,7 @@
 import json
 import os
 import re
+from datetime import UTC
 from datetime import datetime
 from pathlib import Path
 from typing import Any
@@ -67,6 +68,15 @@ class Project(BaseModel):
     github_forks: int | None = None
     github_last_update: str | None = None
     github_last_commit: str | None = None
+    github_description: str | None = None
+    github_created_at: str | None = None
+    github_pushed_at: str | None = None
+    github_homepage: str | None = None
+    github_language: str | None = None
+    github_license: str | None = None
+    github_open_issues: int | None = None
+    github_archived: bool | None = None
+    github_topics: list[str] = Field(default_factory=list)
     previous_urls: list[str] = Field(default_factory=list)
 
     def __init__(self, **data):
@@ -280,7 +290,10 @@ def get_github_metrics(
     Fetch GitHub metrics for a repository.
     Returns a tuple of (metrics_dict, new_url) where new_url is set if the repo has moved.
     """
-    headers = {}
+    headers = {
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+    }
     if github_token := os.environ.get("GITHUB_TOKEN"):
         headers["Authorization"] = f"token {github_token}"
 
@@ -314,6 +327,15 @@ def get_github_metrics(
             "github_stars": data["stargazers_count"],
             "github_forks": data["forks_count"],
             "github_last_update": data["updated_at"],
+            "github_description": data.get("description"),
+            "github_created_at": data.get("created_at"),
+            "github_pushed_at": data.get("pushed_at"),
+            "github_homepage": data.get("homepage"),
+            "github_language": data.get("language"),
+            "github_license": (data.get("license") or {}).get("spdx_id"),
+            "github_open_issues": data.get("open_issues_count"),
+            "github_archived": data.get("archived"),
+            "github_topics": data.get("topics") or [],
         }
 
         # Fetch last commit date
@@ -433,6 +455,96 @@ def update_metrics(projects_dir: Path = Path("_projects"), batch_size: int = 50)
                         print(f"[green]Updated metrics for {project.name}[/green]")
 
     print("[bold blue]Finished updating GitHub metrics![/bold blue]")
+
+
+def project_to_site_record(project: Project) -> dict[str, Any]:
+    """Return a compact, browser-friendly representation of a project."""
+    github_info = extract_github_info(project.url)
+
+    return {
+        "name": project.name,
+        "description": project.description,
+        "url": project.url,
+        "category": project.category,
+        "slug": project.slug,
+        "is_github": bool(github_info),
+        "github_repo": f"{github_info['owner']}/{github_info['repo']}" if github_info else None,
+        "stars": project.github_stars,
+        "forks": project.github_forks,
+        "latest_commit": project.github_last_commit,
+        "latest_update": project.github_last_update,
+        "created_at": project.github_created_at,
+        "pushed_at": project.github_pushed_at,
+        "github_description": project.github_description,
+        "homepage": project.github_homepage,
+        "language": project.github_language,
+        "license": project.github_license,
+        "open_issues": project.github_open_issues,
+        "archived": project.github_archived,
+        "topics": project.github_topics,
+        "previous_urls": project.previous_urls,
+    }
+
+
+@app.command("export-site-data")
+def export_site_data(
+    readme_path: Path = Path("README.md"),
+    output_path: Path = Path("assets/awesome-django-projects.json"),
+    enrich: bool = typer.Option(
+        True,
+        "--enrich/--no-enrich",
+        help="Fetch GitHub metrics for GitHub-backed projects before writing JSON.",
+    ),
+):
+    """
+    Export README projects as JSON for the static site explorer.
+
+    The generated file is committed to the repo so GitHub Pages can serve the
+    enhanced search/filter/sort UI without running Python during the Jekyll build.
+    """
+    if not readme_path.exists():
+        print(f"[red]Error: README file not found at {readme_path}[/red]")
+        raise typer.Exit(1)
+
+    print(f"[bold blue]Reading README from {readme_path}...[/bold blue]")
+    projects = parse_readme(read_readme(readme_path))
+    print(f"[green]Found {len(projects)} projects/resources[/green]")
+
+    github_count = sum(1 for project in projects if extract_github_info(project.url))
+    enriched_count = 0
+    if enrich:
+        with httpx.Client() as client:
+            for project in track(projects, description="Fetching GitHub metrics"):
+                github_info = extract_github_info(project.url)
+                if not github_info:
+                    continue
+                metrics, new_url = get_github_metrics(
+                    github_info["owner"], github_info["repo"], client
+                )
+                if not metrics:
+                    continue
+
+                for key, value in metrics.items():
+                    setattr(project, key, value)
+
+                if new_url and new_url != project.url:
+                    project.previous_urls.append(project.url)
+                    project.url = new_url
+
+                enriched_count += 1
+
+    output = {
+        "generated_at": datetime.now(UTC).isoformat(timespec="seconds").replace("+00:00", "Z"),
+        "source": str(readme_path),
+        "project_count": len(projects),
+        "github_project_count": github_count,
+        "enriched_github_project_count": enriched_count,
+        "projects": [project_to_site_record(project) for project in projects],
+    }
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(json.dumps(output, indent=2, sort_keys=True) + "\n")
+    print(f"[green]Wrote {output_path}[/green]")
 
 
 @app.command()
