@@ -1,0 +1,52 @@
+name: Refresh site explorer data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/main.py
+      - .github/workflows/refresh-site-data.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    name: Export README data
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: python -m pip install --upgrade uv
+
+      - name: Export site data
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: uv run scripts/main.py export-site-data
+
+      - name: Validate generated JSON
+        run: python -m json.tool assets/awesome-django-projects.json > /tmp/awesome-django-projects.json
+
+      - name: Commit refreshed site data
+        run: |
+          if git diff --quiet -- assets/awesome-django-projects.json; then
+            echo "Site explorer data is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/awesome-django-projects.json
+          git commit -m "Update site explorer data"
+          git push
