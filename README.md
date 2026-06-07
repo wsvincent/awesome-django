@@ -324,6 +324,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar/) - Configurable panels to debug requests/responses.
 - [pytest-django](https://github.com/pytest-dev/pytest-django) - Use pytest features in Django.
 - [django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order.
+- [pytest-mrt](https://github.com/croc100/pytest-mrt) - Test that Django and Alembic migrations are safely reversible (rollback safety, static analysis).
 - [django-test-plus](https://github.com/revsys/django-test-plus/) - Useful additions to Django's default TestCase.
 - [factory-boy](https://github.com/FactoryBoy/factory_boy) - Test fixtures replacement.
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
