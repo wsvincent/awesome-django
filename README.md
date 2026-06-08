@@ -210,6 +210,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Full-stack frameworks
 - [Django LiveView](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 - [Django-Bridge](https://github.com/kaedroho/django-bridge) - The simple way to build React frontends for Django applications.
+- [djust](https://djust.org) - Reactive, real-time Django UIs written in Python — the server renders your components and patches the DOM live over WebSockets, so there’s no JavaScript or separate API layer to write. Powered by a Rust VDOM.
 - [ReactPy](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module](https://github.com/reactive-python/reactpy-django).
 - [Reactor](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
 - [Sockpuppet](https://sockpuppet.argpar.se/) - Build reactive applications with the Django tooling you already know and love.
