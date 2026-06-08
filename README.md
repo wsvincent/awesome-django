@@ -95,7 +95,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-admin-inline-paginator-plus](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
 - [django-loginas](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
 - [impostor](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to log in as a different user by using their own username and password.
-- [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to “impersonate” other non-superuser accounts.
+- [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to "impersonate" other non-superuser accounts.
 - [django-admin-env-notice](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays across foreign key relationships.
 - [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
@@ -279,6 +279,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
 
 ### Search
+- [django-graph-search](https://github.com/svalench/django_graph_search) - Production-ready semantic vector search for Django. Traverses FK, M2M, and reverse ORM relations to build rich search context. Supports ChromaDB, FAISS, Qdrant, and pgvector backends with sentence-transformers embeddings.
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
 - [django-watson](https://github.com/etianen/django-watson) - Full-text search plugin.
 - [django-admin-search](https://github.com/shinneider/django-admin-search) - Modal filter for django admin.
