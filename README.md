@@ -133,6 +133,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [django-webhook](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
 - [strawberry-django](https://github.com/strawberry-graphql/strawberry-django) - Django integration with Strawberry, a GraphQL library designed for modern development
+- [djangorestframework-unirate](https://github.com/UniRate-API/djangorestframework-unirate) - Drop-in DRF views, serializer fields, and an exception handler for live currency exchange rates and conversion, keeping the API key server-side.
 <!--lint enable double-link-->
 
 ### Async
