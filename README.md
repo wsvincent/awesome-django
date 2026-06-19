@@ -72,6 +72,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Books](#books)
 - [Hosting](#hosting)
   - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
+  - [Deployment](#deployment)
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
@@ -484,6 +485,9 @@ _Django 5_
 - [Railway](https://railway.app)
 - [Render](https://render.com)
 - [Vercel](https://vercel.com/home)
+
+### Deployment
+- [DeployHQ](https://www.deployhq.com)
 
 ### IaaS (Infrastructure-as-a-Service)
 - [Digital Ocean](https://www.digitalocean.com)
