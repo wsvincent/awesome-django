@@ -263,6 +263,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree-based stuff.
 - [django-auto-prefetch](https://github.com/adamchainz/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
+- [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Static analysis for Django models without booting the app. Sidebar tree, ER diagrams, and MCP server for AI coding agents. Zero DB, zero credentials required.
 
 ### Performance
 - [django-perf-rec](https://cur.at/GHUO6cn?m=web) - Keep detailed records of the performance of your Django code.
