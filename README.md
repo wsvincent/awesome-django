@@ -525,6 +525,7 @@ _Django 5_
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 - [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone.
+- [animal-shelter-webapp](https://github.com/HighMarck17/animal-shelter-webapp) - Fork-and-configure Django template for animal shelters: adoptable dogs, contact form, FAQ, and REST API, all driven by a single config file.
 
 ## Django REST Framework
 
