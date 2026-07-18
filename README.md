@@ -184,6 +184,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [saleor](https://github.com/saleor/saleor) - GraphQL-based Django E-Commerce Platform.
 - [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django.
 
+- [Spwig](https://github.com/Spwig/commerce) - Self-hosted e-commerce platform with catalog, checkout, payments, shipping, POS, orders, tax, and 130+ features across 14 categories, running production merchant stores for over a year.
 ### Editors
 <!--lint ignore awesome-list-item-->
 - [django-markdownx](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django.
