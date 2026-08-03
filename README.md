@@ -393,7 +393,7 @@ _A short list of Python packages that work well with Django._
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
 - [LearnDjango](https://learndjango.com/) - Tutorials and premium courses on Django and Django REST Framework.
 - [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and regularly writes tutorials.
-- [Photon Designer - Django tutorials](https://photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.  
+- [Photon Designer - Django tutorials](https://photondesigner.com/articles) - Django tutorials by Tom Dekan on how to build Django apps simply - from how to build an instant messenger with Django, add instant search, to using Google Drive as a database. Updated regularly.
 - [TestDriven](https://testdriven.io/blog/) - Multiple Django-specific tutorials on topics like Docker, payments, and more.
 - [Classy Class-Based Views](https://ccbv.co.uk/) - Detailed descriptions of methods/properties/attributes for each generic class-based view.
 - [Classy Django REST Framework](http://www.cdrf.co) - Detailed descriptions with methods/attributes for DRF class-based views and serializers.
@@ -521,7 +521,7 @@ _Django 5_
 - [Healthchecks](https://github.com/healthchecks/healthchecks) - A Cron Monitoring Tool written in Python & Django.
 - [Flagsmith](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 - [OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
-- [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
+- [Baserow](https://github.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 - [Django CRM Admin](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 - [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone.
