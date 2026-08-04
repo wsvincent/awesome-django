@@ -477,6 +477,7 @@ _Django 5_
 - [Divio](https://www.divio.com)
 - [Fly](https://fly.io)
 - [Google Cloud](https://cloud.google.com/python/django/)
+- [Granite](https://granite.so)
 - [Heroku](https://www.heroku.com)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
 - [Piku](https://github.com/piku/piku)
