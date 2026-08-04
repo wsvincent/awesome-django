@@ -245,6 +245,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Mailing
 - [django-pony-express](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 - [django-anymail](https://github.com/anymail/django-anymail) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal, Resend, SendGrid, SparkPost, Unisender Go and more.
+- [supersendtx](https://github.com/Super-Send/supersendtx-sdks/tree/main/python) - Django email backend for SuperSend TX transactional email (`EMAIL_BACKEND = "supersendtx.django.EmailBackend"`).
 
 ### Model Fields
 - [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
