@@ -100,7 +100,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-related-admin](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list_displays across foreign key relationships.
 - [django-admin-sortable2](https://github.com/jrief/django-admin-sortable2) - Generic drag-and-drop ordering for objects in the Django admin interface.
 - [django-admin-collaborator](https://github.com/brktrlw/django-admin-collaborator) - Add real-time user presence, edit locks, and chat to Django admin with Channels and Redis.
-- [dj-control-room](https://github.com/yassi/dj-control-room) - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
+- [dj-control-room](https://github.com/django-control-room/dj-control-room) - Build a control plane with a suite of operational tools inside the Django admin (Redis, cache, Celery, URLs, and more).
 
 ### Admin Themes
 - [django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the admin.
@@ -111,7 +111,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 - [django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development.
 - [django-daisy](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
-- [django-admin-dracula](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin.
 - [django-smartbase-admin](https://github.com/SmartBase-SK/django-smartbase-admin) - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
 
 ### APIs
@@ -167,7 +166,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Content Management Systems
 <!--lint disable double-link-->
-- [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/springload/awesome-wagtail) too.
+- [wagtail](https://github.com/wagtail/wagtail) - Popular Django content management system (CMS). See [awesome-wagtail](https://github.com/wagtail/awesome-wagtail) too.
 - [mezzanine](https://github.com/stephenmcd/mezzanine) - CMS framework.
 - [django-cms](https://github.com/django-cms/django-cms) - CMS for Django.
 - [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
@@ -249,8 +248,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Model Fields
 - [django-colorfield](https://github.com/fabiocaccamo/django-colorfield) - Color field for django models with a nice color-picker widget.
 - [django-model-utils](https://github.com/jazzband/django-model-utils) - Django model mixins and utilities.
-- [django-money](https://github.com/django-money/django-money) - Money fields for forms/models.
-- [django-phonenumber-field](https://github.com/stefanfoulis/django-phonenumber-field) - Model/form field for normalized phone numbers.
+- [django-phonenumber-field](https://github.com/django-phonenumber-field/django-phonenumber-field) - Model/form field for normalized phone numbers.
 - [django-streamfield](https://github.com/raagin/django-streamfield) - Simple StreamField for plain Django admin (based on Wagtail CMS StreamField idea).
 
 ### Models
@@ -259,7 +257,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-taggit](https://github.com/jazzband/django-taggit/) - Simple model tags.
 - [django-reversion](https://github.com/etianen/django-reversion) - Version control for model instances.
 - [django-simple-history](https://github.com/django-commons/django-simple-history) - Store model history and view/revert changes from the admin.
-- [django-polymorphic](https://github.com/jazzband/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+- [django-polymorphic](https://github.com/django-commons/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 - [django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [django-treenode](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree-based stuff.
 - [django-auto-prefetch](https://github.com/adamchainz/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
@@ -330,7 +328,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-waffle](https://github.com/django-waffle/django-waffle) - A feature flipper for Django.
 - [model-bakery](https://github.com/model-bakers/model_bakery) - Object factory for Django (rename of legacy Model Mommy project).
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
-- [drf-openapi-tester](https://github.com/snok/drf-openapi-tester) - Django test utility for validating Swagger 2.0 and OpenAPI 3.0 documentation.
 - [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 - [storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
 
@@ -368,7 +365,6 @@ Standalone tools that help in developing Django projects.
 
 _A short list of Python packages that work well with Django._
 
-- [bleach](https://github.com/mozilla/bleach) - Sanitize your inputs/forms.
 - [black](https://github.com/psf/black) - Uncompromising Python code formatter.
 - [coveragepy](https://github.com/coveragepy/coveragepy) - Code coverage measurement.
 - [faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -556,7 +552,7 @@ _Wagtail, the powerful CMS for modern websites._
 - [Developer documentation](https://docs.wagtail.org/en/stable/)
 - [User documentation](https://guide.wagtail.org/en-latest/)
 - [Wagtail Source Code](https://github.com/wagtail/wagtail/)
-- [awesome-wagtail](https://github.com/springload/awesome-wagtail)
+- [awesome-wagtail](https://github.com/wagtail/awesome-wagtail)
 - [This week in Wagtail](https://wagtail.org/this-week-in-wagtail/) - A (most) weekly email with updates from the Wagtail core team.
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail conferences around the world.
 - [Wagtail events](https://wagtail.org/events/) - Online and in-person Wagtail events.
