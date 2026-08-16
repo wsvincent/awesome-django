@@ -330,6 +330,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-fakery](https://github.com/fcurella/django-fakery) - An easy-to-use implementation of Creation Methods for Django, backed by Faker.
 - [django-pattern-library](https://github.com/torchbox/django-pattern-library) - Pattern library generator for Django templates, to help testing of UI components.
 - [storybook-django](https://github.com/torchbox/storybook-django) - Develop Django UI components in isolation, with Storybook.
+- [django-testcontainers-plus](https://github.com/WoodyWoodster/django-testcontainers-plus) - Django test runner and pytest plugin that auto-starts Postgres, MySQL, Redis, and S3 from existing settings.
 
 ### URLs
 - [dj-database-url](https://github.com/jazzband/dj-database-url) - Database URLs.
