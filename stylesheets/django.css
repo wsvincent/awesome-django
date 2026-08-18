@@ -1,0 +1,137 @@
+/*
+ * Django brand palette, ported from the old Jekyll theme at
+ * _sass/color_schemes/django.scss
+ */
+
+/*
+ * The light palette sits on :root, not on [data-md-color-scheme="default"].
+ * The theme only puts that attribute on <html> once its JavaScript runs, so a
+ * scheme-scoped rule leaves the header indigo on the first paint.
+ */
+:root {
+  --django-green-dark: #0c4b33;
+  --django-green-mid: #20aa76;
+  --django-green-light: #44b78b;
+  --django-green-pale: #e8f5f0;
+  --django-cream: #f9f7f3;
+
+  --md-primary-fg-color: var(--django-green-dark);
+  --md-primary-fg-color--light: var(--django-green-mid);
+  --md-primary-fg-color--dark: #072e1f;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+
+  --md-accent-fg-color: var(--django-green-mid);
+  --md-accent-fg-color--transparent: rgba(32, 170, 118, 0.1);
+
+  --md-typeset-a-color: var(--django-green-mid);
+  --md-code-bg-color: var(--django-cream);
+}
+
+/* Dark scheme */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--django-green-dark);
+  --md-primary-fg-color--light: var(--django-green-light);
+  --md-primary-fg-color--dark: #051f15;
+  --md-primary-bg-color: #ffffff;
+
+  --md-accent-fg-color: var(--django-green-light);
+  --md-accent-fg-color--transparent: rgba(68, 183, 139, 0.1);
+
+  --md-typeset-a-color: var(--django-green-light);
+}
+
+/* Headings use the dark Django green, as they did in the Jekyll theme. */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--django-green-dark);
+}
+
+/* Dark green is unreadable on the dark background, so lighten it. */
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4 {
+  color: var(--django-green-light);
+}
+
+/* The Django logo is a wide SVG. Keep it from overflowing on small screens. */
+.md-typeset picture img {
+  max-width: 320px;
+  height: auto;
+}
+
+/* The list is long and mostly one-line entries. Tighten the leading so more
+   of each category fits on screen. */
+.md-typeset ul li {
+  margin-bottom: 0.2rem;
+}
+
+/* Footer additions. These sit inside .md-footer, which has a dark background,
+   so the text needs the footer foreground colors. */
+.awesome-django-footer {
+  padding: 1.2rem 0.8rem;
+  color: var(--md-footer-fg-color--light);
+  font-size: 0.7rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.awesome-django-footer__title {
+  margin: 0 0 0.3rem;
+  color: var(--md-footer-fg-color);
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.awesome-django-footer__lede {
+  font-size: 0.72rem;
+}
+
+.awesome-django-footer a {
+  color: var(--md-footer-fg-color);
+  text-decoration: underline;
+}
+
+.awesome-django-footer a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+/* Capped to match the webring below it, so neither spans the whole footer. */
+.awesome-django-newsletter {
+  margin: 0.9rem auto 0;
+  max-width: 34rem;
+}
+
+.awesome-django-newsletter iframe {
+  width: 100%;
+  height: 220px;
+  border: 1px solid #ccc;
+}
+
+/* auto, not 0, for the horizontal margins. This rule outranks the single-class
+   rules below it, so a 0 here would stop them centering themselves. Every
+   paragraph shares the 34rem column with the signup form and the webring. */
+.awesome-django-footer p {
+  margin: 0.6rem auto;
+  max-width: 34rem;
+}
+
+/*
+ * The webring is a custom element with a shadow root. Its :host rule sets
+ * display: block, so it grows to the full width of the footer. Outer document
+ * rules beat :host rules, so constrain it here and keep it centered.
+ */
+.awesome-django-webring {
+  margin: 1rem auto;
+  max-width: 34rem;
+}
+
+.awesome-django-webring webring-css {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
