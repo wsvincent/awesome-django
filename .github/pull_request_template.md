@@ -30,7 +30,7 @@ Please answer the following questions about the project you are submitting. This
 
 **Read the Room:** 👀 Before submitting, please take time to browse through the existing projects in the list. Get a sense of the quality, maturity, and types of projects we include. If your submission is primarily promotional or doesn't clearly benefit the broader Django community, it's probably not a good fit. We're looking for projects that solve real problems and have demonstrated value to the ecosystem.
 
-👉 Please **read** and fill out **all four questions**. We reserve the right to close your pull request without reading or comment if you skip one or all of them.
+👉 Please **read** and fill out **all four questions** (question 5 applies only to paid products). We reserve the right to close your pull request without reading or comment if you skip one or all of them.
 
 1. **How long has the project been maintained?**
 
@@ -50,6 +50,10 @@ Please answer the following questions about the project you are submitting. This
 4. **What makes it awesome?**
 
    _(Please provide a brief explanation of why you believe this project is a valuable addition to the Awesome Django list.)_
+
+5. **If you are submitting a paid product, please include a link to your public pricing page.**
+
+   _(Leave this blank for free and open source projects.)_
 
 ----
 
