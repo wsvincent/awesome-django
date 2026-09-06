@@ -51,7 +51,7 @@ jobs:
                 core.info(`#${issue_number}: skipped (${pr.user.login})`);
                 return;
               }
-              const { missing, company } = checkTemplate(pr.body);
+              const { missing, company, hasPricing } = checkTemplate(pr.body);
               const { data: comments } = await github.rest.issues.listComments({ owner, repo, issue_number, per_page: 100 });
               const existing = comments.find((c) => c.body && c.body.includes(MARKER));
 
@@ -104,6 +104,11 @@ jobs:
                   `\n\nThis submission is on behalf of a company. Please read the ` +
                   `[commercial products and services](https://github.com/${owner}/${repo}/blob/main/contributing.md#commercial-products-and-services) ` +
                   `section of the contribution guidelines.`;
+                if (!hasPricing) {
+                  note +=
+                    `\n\nIf this is a paid product, please add a link to your public pricing page under ` +
+                    `question 5 of the template, or a short note on how it is priced.`;
+                }
               }
               if (existing || company) await say(note);
             }

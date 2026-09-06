@@ -59,7 +59,11 @@ function checkTemplate(body) {
 
   const company = /^\s*-\s*\[x\].*on behalf of a company/im.test(authorship || "");
 
-  return { missing, company };
+  // Question 5 is optional: it asks paid products for a public pricing page.
+  const pricing = section(criteria, /^\s*5\.\s+\*\*.*?\*\*/m, /^\s*6\.\s+\*\*|^----|^## /m);
+  const hasPricing = /https?:\/\//i.test((pricing || "").replace(/_\(.*?\)_/gs, ""));
+
+  return { missing, company, hasPricing };
 }
 
 module.exports = { checkTemplate };
