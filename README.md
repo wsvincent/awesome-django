@@ -309,6 +309,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-tasks](https://github.com/realOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
 - [huey](https://github.com/coleifer/huey) - A little task queue for Python, with Django support including the new `django.tasks` API.
 - [django-ox](https://github.com/oxpull/django-ox) - Database-backed worker for Django's Tasks framework, with transactional enqueue, retries, recurring tasks, and no broker to run.
+- [django-absurd](https://github.com/lincolnloop/django-absurd) - Django integration for Absurd, a Postgres-native durable workflow system.
 
 ### Templates
 - [django-components](https://github.com/django-components/django-components/) - A way to create simple reusable template components in Django.
