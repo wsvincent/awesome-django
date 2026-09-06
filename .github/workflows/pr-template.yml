@@ -3,19 +3,23 @@ name: Check pull request template
 # Runs on pull_request_target so the token can comment, label, and close pull
 # requests that come from forks. Only the base branch is checked out, and the
 # script reads nothing but the pull request body, so the head commit never runs.
+#
+# Run it by hand from the Actions tab to check existing pull requests: give a
+# number to check one, or leave the field empty to check every open pull request.
 on:
   pull_request_target:
     types: [opened, edited, reopened]
+  workflow_dispatch:
+    inputs:
+      pull_request:
+        description: "Pull request number (empty = all open pull requests)"
+        required: false
 
 permissions:
   pull-requests: write
 
 jobs:
   template:
-    if: >-
-      github.event.pull_request.user.login != 'wsvincent' &&
-      github.event.pull_request.user.login != 'jefftriplett' &&
-      github.event.pull_request.user.login != 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,57 +28,77 @@ jobs:
           sparse-checkout: .github/scripts
 
       - uses: actions/github-script@v7
+        env:
+          INPUT_PULL_REQUEST: ${{ github.event.inputs.pull_request }}
         with:
           script: |
             const { checkTemplate } = require("./.github/scripts/check-pr-template.js");
-            const pr = context.payload.pull_request;
             const { owner, repo } = context.repo;
-            const issue_number = pr.number;
+            const SKIP = ["wsvincent", "jefftriplett", "dependabot[bot]"];
             const LABEL = "needs-template";
             const MARKER = "<!-- pr-template-check -->";
-            const { missing, company } = checkTemplate(pr.body);
 
-            const { data: comments } = await github.rest.issues.listComments({ owner, repo, issue_number, per_page: 100 });
-            const existing = comments.find((c) => c.body && c.body.includes(MARKER));
-
-            async function say(body) {
-              body = `${MARKER}\n${body}`;
-              if (existing) {
-                await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
-              } else {
-                await github.rest.issues.createComment({ owner, repo, issue_number, body });
+            async function check(pr) {
+              const issue_number = pr.number;
+              if (SKIP.includes(pr.user.login)) {
+                core.info(`#${issue_number}: skipped (${pr.user.login})`);
+                return;
               }
-            }
+              const { missing, company } = checkTemplate(pr.body);
+              const { data: comments } = await github.rest.issues.listComments({ owner, repo, issue_number, per_page: 100 });
+              const existing = comments.find((c) => c.body && c.body.includes(MARKER));
 
-            if (missing.length) {
-              const list = missing.map((m) => `- ${m}`).join("\n");
-              await say(
-                `Thanks for the submission! This pull request does not fill out the ` +
-                `[pull request template](https://github.com/${owner}/${repo}/blob/main/.github/pull_request_template.md), ` +
-                `so it was closed automatically.\n\nMissing:\n${list}\n\n` +
-                `Edit the pull request description to add the missing items. ` +
-                `The check runs again on every edit and reopens the pull request when the template is complete.`
-              );
-              await github.rest.issues.addLabels({ owner, repo, issue_number, labels: [LABEL] });
-              if (pr.state === "open") {
-                await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: "closed" });
+              async function say(body) {
+                body = `${MARKER}\n${body}`;
+                if (existing) {
+                  await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
+                } else {
+                  await github.rest.issues.createComment({ owner, repo, issue_number, body });
+                }
               }
-              return;
-            }
 
-            const hadLabel = pr.labels.some((l) => l.name === LABEL);
-            if (hadLabel) {
-              await github.rest.issues.removeLabel({ owner, repo, issue_number, name: LABEL }).catch(() => {});
-              if (pr.state === "closed" && !pr.merged_at) {
-                await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: "open" });
+              if (missing.length) {
+                core.info(`#${issue_number}: missing ${missing.length} items`);
+                const list = missing.map((m) => `- ${m}`).join("\n");
+                await say(
+                  `Thanks for the submission! This pull request does not fill out the ` +
+                  `[pull request template](https://github.com/${owner}/${repo}/blob/main/.github/pull_request_template.md), ` +
+                  `so it was closed automatically.\n\nMissing:\n${list}\n\n` +
+                  `Edit the pull request description to add the missing items. ` +
+                  `The check runs again on every edit and reopens the pull request when the template is complete.`
+                );
+                await github.rest.issues.addLabels({ owner, repo, issue_number, labels: [LABEL] });
+                if (pr.state === "open") {
+                  await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: "closed" });
+                }
+                return;
               }
+
+              core.info(`#${issue_number}: complete`);
+              const hadLabel = pr.labels.some((l) => l.name === LABEL);
+              if (hadLabel) {
+                await github.rest.issues.removeLabel({ owner, repo, issue_number, name: LABEL }).catch(() => {});
+                if (pr.state === "closed" && !pr.merged_at) {
+                  await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: "open" });
+                }
+              }
+
+              let note = "The pull request template is complete. Thanks! A maintainer will review it.";
+              if (company) {
+                note +=
+                  `\n\nThis submission is on behalf of a company. Please read the ` +
+                  `[commercial products and services](https://github.com/${owner}/${repo}/blob/main/contributing.md#commercial-products-and-services) ` +
+                  `section of the contribution guidelines.`;
+              }
+              if (existing || company) await say(note);
             }
 
-            let note = "The pull request template is complete. Thanks! A maintainer will review it.";
-            if (company) {
-              note +=
-                `\n\nThis submission is on behalf of a company. Please read the ` +
-                `[commercial products and services](https://github.com/${owner}/${repo}/blob/main/contributing.md#commercial-products-and-services) ` +
-                `section of the contribution guidelines.`;
+            if (context.payload.pull_request) {
+              await check(context.payload.pull_request);
+            } else if (process.env.INPUT_PULL_REQUEST) {
+              const { data: pr } = await github.rest.pulls.get({ owner, repo, pull_number: Number(process.env.INPUT_PULL_REQUEST) });
+              await check(pr);
+            } else {
+              const prs = await github.paginate(github.rest.pulls.list, { owner, repo, state: "open", per_page: 100 });
+              for (const pr of prs) await check(pr);
             }
-            if (existing || company) await say(note);
