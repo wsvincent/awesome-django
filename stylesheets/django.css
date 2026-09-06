@@ -24,7 +24,7 @@
   --md-accent-fg-color: var(--django-green-mid);
   --md-accent-fg-color--transparent: rgba(32, 170, 118, 0.1);
 
-  --md-typeset-a-color: var(--django-green-mid);
+  --md-typeset-a-color: var(--django-green-dark);
   --md-code-bg-color: var(--django-cream);
 }
 
@@ -59,7 +59,7 @@
 
 /* The Django logo is a wide SVG. Keep it from overflowing on small screens. */
 .md-typeset picture img {
-  max-width: 320px;
+  max-width: min(160px, 100%);
   height: auto;
 }
 
@@ -134,4 +134,125 @@
   display: block;
   margin: 0 auto;
   max-width: 100%;
+}
+
+/* Directory controls enhance the website; the README keeps its full TOC. */
+.awesome-django-spacer,
+.awesome-django-group[hidden],
+.awesome-django-category[hidden],
+#directory-results [hidden],
+.awesome-django-nav-group > nav[hidden] {
+  display: none !important;
+}
+
+.awesome-django-controls {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 0.5rem 1rem;
+  padding: 0.8rem;
+  margin: 1rem 0;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  border-radius: 0.3rem;
+  background: var(--md-default-bg-color);
+}
+
+.awesome-django-controls label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.awesome-django-filter,
+.awesome-django-jump {
+  min-width: 0;
+}
+
+.awesome-django-filter__input {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.awesome-django-controls input,
+.awesome-django-controls select,
+.awesome-django-controls button {
+  min-height: 2.2rem;
+  border: 1px solid var(--md-default-fg-color--light);
+  border-radius: 0.2rem;
+  padding: 0.4rem;
+  font: inherit;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color);
+}
+
+.awesome-django-controls input,
+.awesome-django-controls select {
+  width: 100%;
+  min-width: 0;
+}
+
+.awesome-django-controls button,
+.awesome-django-nav-toggle {
+  cursor: pointer;
+}
+
+.awesome-django-controls :focus-visible,
+.awesome-django-nav-toggle:focus-visible {
+  outline: 2px solid var(--md-typeset-a-color);
+  outline-offset: 2px;
+}
+
+.md-typeset .awesome-django-result-count {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 0.7rem;
+}
+
+.awesome-django-nav-count {
+  margin-left: auto;
+  padding-left: 0.4rem;
+  font-size: 0.6rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--md-default-fg-color--light);
+}
+
+.awesome-django-nav-group {
+  position: relative;
+}
+
+.awesome-django-nav-group > a {
+  padding-right: 1.6rem;
+}
+
+.awesome-django-nav-toggle {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1.6rem;
+  height: 1.6rem;
+  color: var(--md-default-fg-color);
+}
+
+.awesome-django-nav-toggle[aria-expanded="false"] {
+  transform: rotate(-90deg);
+}
+
+#directory-results h2,
+#directory-results h3 {
+  scroll-margin-top: 7rem;
+}
+
+@media (max-width: 76.234375em) {
+  .awesome-django-controls {
+    position: sticky;
+    top: 2.8rem;
+    z-index: 2;
+    grid-template-columns: 1fr;
+  }
+
+  #directory-results h2,
+  #directory-results h3 {
+    scroll-margin-top: calc(var(--directory-controls-height, 14rem) + 4rem);
+  }
 }
