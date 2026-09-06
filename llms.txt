@@ -43,6 +43,7 @@
   - [Views](https://awesomedjango.org/#views)
 - [Developer Tools](https://awesomedjango.org/#developer-tools)
   - [Templates](https://awesomedjango.org/#templates_1)
+  - [Static Analysis](https://awesomedjango.org/#static-analysis)
 - [Python Packages](https://awesomedjango.org/#python-packages)
 - [Resources](https://awesomedjango.org/#resources)
   - [Official Resources](https://awesomedjango.org/#official-resources)
