@@ -58,6 +58,8 @@
 - [Hosting](https://awesomedjango.org/#hosting)
   - [PaaS (Platforms-as-a-Service)](https://awesomedjango.org/#paas-platforms-as-a-service)
   - [IaaS (Infrastructure-as-a-Service)](https://awesomedjango.org/#iaas-infrastructure-as-a-service)
+  - [Deployment Services](https://awesomedjango.org/#deployment-services)
+  - [Self-Hosted Deployment](https://awesomedjango.org/#self-hosted-deployment)
 - [Projects](https://awesomedjango.org/#projects)
   - [Boilerplate](https://awesomedjango.org/#boilerplate)
   - [Open Source Projects](https://awesomedjango.org/#open-source-projects)
