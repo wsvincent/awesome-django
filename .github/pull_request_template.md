@@ -45,6 +45,8 @@ Please answer the following questions about the project you are submitting. This
    - [ ] I am submitting on behalf of a company
    - [ ] Other (please specify)
 
+   _(If you submit on behalf of a company, read the [commercial products and services](https://github.com/wsvincent/awesome-django/blob/main/contributing.md#commercial-products-and-services) section of the contribution guidelines first.)_
+
 4. **What makes it awesome?**
 
    _(Please provide a brief explanation of why you believe this project is a valuable addition to the Awesome Django list.)_
