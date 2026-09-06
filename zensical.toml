@@ -14,7 +14,7 @@ nav = [
 ]
 
 extra_css = ["stylesheets/django.css"]
-extra_javascript = ["javascripts/anchor-compat.js"]
+extra_javascript = ["javascripts/anchor-compat.js", "javascripts/directory.js"]
 
 [project.theme]
 custom_dir = "overrides"
