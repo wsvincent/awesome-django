@@ -58,6 +58,9 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [URLs](#urls)
   - [Users](#users)
   - [Views](#views)
+- [Developer Tools](#developer-tools)
+  - [Templates](#templates-1)
+  - [Static Analysis](#static-analysis)
 - [Python Packages](#python-packages)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -72,6 +75,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 - [Hosting](#hosting)
   - [PaaS (Platforms-as-a-Service)](#paas-platforms-as-a-service)
   - [IaaS (Infrastructure-as-a-Service)](#iaas-infrastructure-as-a-service)
+  - [Deployment Services](#deployment-services)
+  - [Self-Hosted Deployment](#self-hosted-deployment)
 - [Projects](#projects)
   - [Boilerplate](#boilerplate)
   - [Open Source Projects](#open-source-projects)
@@ -471,14 +476,11 @@ _Django 5_
 ## Hosting
 
 ### PaaS (Platforms-as-a-Service)
-- [Appliku](https://appliku.com)
-- [Dokku](https://dokku.com)
 - [Divio](https://www.divio.com)
 - [Fly](https://fly.io)
 - [Google Cloud](https://cloud.google.com/python/django/)
 - [Heroku](https://www.heroku.com)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/develop/python/)
-- [Piku](https://github.com/piku/piku)
 - [Upsun](https://upsun.com)
 - [PythonAnywhere](https://www.pythonanywhere.com)
 - [Railway](https://railway.app)
@@ -490,6 +492,20 @@ _Django 5_
 - [Linode](https://www.linode.com)
 - [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 - [Hetzner](https://www.hetzner.com)
+
+### Deployment Services
+_Hosted services that deploy your app to servers you rent elsewhere._
+- [Appliku](https://appliku.com) - Django-focused deployment service for servers on DigitalOcean, Hetzner, AWS, and Linode.
+- [DeployHQ](https://www.deployhq.com) - Deploys from Git to your servers over SSH, SFTP, or S3, with build steps and rollbacks.
+
+### Self-Hosted Deployment
+_Open source tools that deploy your app to servers you own._
+- [Coolify](https://coolify.io) - Self-hosted PaaS with a web UI for Docker apps and databases, with an optional paid cloud control plane.
+- [Dokploy](https://dokploy.com) - Self-hosted PaaS with a web UI, built on Docker and Traefik, with an optional paid cloud control plane.
+- [CapRover](https://caprover.com) - Self-hosted PaaS with a web UI and one-click apps, built on Docker Swarm.
+- [Kamal](https://kamal-deploy.org) - Deploy containers to any server over SSH with zero downtime, from Basecamp.
+- [Dokku](https://dokku.com) - Docker-powered PaaS with Heroku-style git push deploys.
+- [Piku](https://github.com/piku/piku) - Tiny Heroku-style PaaS for git push deploys to a single server.
 
 ## Projects
 
