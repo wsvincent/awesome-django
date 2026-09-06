@@ -471,6 +471,9 @@ _Django 5_
 - [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 - [pythonic-news](https://github.com/sebst/pythonic-news) - Hacker News clone.
 - [Revel](https://github.com/letsrevel/revel-backend) - Self-hostable event management and ticketing platform with organizations, questionnaire-based attendee screening, QR check-in, and Stripe payments.
+- [venueless](https://github.com/venueless/venueless) - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
+- [pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
+- [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
 
 ## Django REST Framework
 
