@@ -21,6 +21,14 @@
 @doctoc:
     bunx doctoc README.md
 
+# Run the template check on every open pull request
+@check-prs:
+    gh workflow run pr-template.yml
+
+# Run the template check on one pull request, for example: just check-pr 388
+@check-pr NUMBER:
+    gh workflow run pr-template.yml -f pull_request={{ NUMBER }}
+
 # Serve the site with live reload on port 8000
 @serve:
     uv run zensical serve --dev-addr localhost:8000
