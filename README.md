@@ -362,6 +362,9 @@ Standalone tools that help in developing Django projects.
 - [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
 - [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 
+### Static Analysis
+- [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Model-level static analysis: ER diagrams, N+1 detection, schema drift, and blast radius in CI, without a database or Django boot.
+
 ## Python Packages
 
 _A short list of Python packages that work well with Django._
