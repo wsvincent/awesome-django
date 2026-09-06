@@ -14,6 +14,10 @@ on:
       pull_request:
         description: "Pull request number (empty = all open pull requests)"
         required: false
+      dry_run:
+        description: "Dry run: log what would happen, change nothing"
+        type: boolean
+        default: false
 
 permissions:
   pull-requests: write
@@ -30,6 +34,7 @@ jobs:
       - uses: actions/github-script@v7
         env:
           INPUT_PULL_REQUEST: ${{ github.event.inputs.pull_request }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
         with:
           script: |
             const { checkTemplate } = require("./.github/scripts/check-pr-template.js");
@@ -37,6 +42,8 @@ jobs:
             const SKIP = ["wsvincent", "jefftriplett", "dependabot[bot]"];
             const LABEL = "needs-template";
             const MARKER = "<!-- pr-template-check -->";
+            const dry = process.env.DRY_RUN === "true";
+            if (dry) core.info("Dry run: nothing will be commented, labeled, closed, or reopened.");
 
             async function check(pr) {
               const issue_number = pr.number;
@@ -50,7 +57,9 @@ jobs:
 
               async function say(body) {
                 body = `${MARKER}\n${body}`;
-                if (existing) {
+                if (dry) {
+                  core.info(`#${issue_number}: would ${existing ? "update" : "post"} comment:\n${body}`);
+                } else if (existing) {
                   await github.rest.issues.updateComment({ owner, repo, comment_id: existing.id, body });
                 } else {
                   await github.rest.issues.createComment({ owner, repo, issue_number, body });
@@ -67,6 +76,10 @@ jobs:
                   `Edit the pull request description to add the missing items. ` +
                   `The check runs again on every edit and reopens the pull request when the template is complete.`
                 );
+                if (dry) {
+                  core.info(`#${issue_number}: would add label "${LABEL}"${pr.state === "open" ? " and close the pull request" : ""}`);
+                  return;
+                }
                 await github.rest.issues.addLabels({ owner, repo, issue_number, labels: [LABEL] });
                 if (pr.state === "open") {
                   await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: "closed" });
@@ -76,7 +89,9 @@ jobs:
 
               core.info(`#${issue_number}: complete`);
               const hadLabel = pr.labels.some((l) => l.name === LABEL);
-              if (hadLabel) {
+              if (hadLabel && dry) {
+                core.info(`#${issue_number}: would remove label "${LABEL}"${pr.state === "closed" && !pr.merged_at ? " and reopen the pull request" : ""}`);
+              } else if (hadLabel) {
                 await github.rest.issues.removeLabel({ owner, repo, issue_number, name: LABEL }).catch(() => {});
                 if (pr.state === "closed" && !pr.merged_at) {
                   await github.rest.pulls.update({ owner, repo, pull_number: issue_number, state: "open" });

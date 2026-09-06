@@ -29,6 +29,14 @@
 @check-pr NUMBER:
     gh workflow run pr-template.yml -f pull_request={{ NUMBER }}
 
+# Dry run of the template check on every open pull request (logs only, changes nothing)
+@check-prs-dry:
+    gh workflow run pr-template.yml -f dry_run=true
+
+# Dry run of the template check on one pull request, for example: just check-pr-dry 388
+@check-pr-dry NUMBER:
+    gh workflow run pr-template.yml -f pull_request={{ NUMBER }} -f dry_run=true
+
 # Serve the site with live reload on port 8000
 @serve:
     uv run zensical serve --dev-addr localhost:8000
