@@ -368,6 +368,7 @@ Standalone tools that help in developing Django projects.
 - [djlint](https://www.djlint.com/) - Lint & Format HTML Templates.
 
 ### Static Analysis
+- [django-chainsaw-mcp](https://github.com/syrian963/django-chainsaw-mcp) - Static analysis and MCP server for what will hurt: delete cascades, N+1 candidates, whether a destructive migration is safe to ship yet, and querysets that read rows the caller may not own.
 - [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Model-level static analysis: ER diagrams, N+1 detection, schema drift, and blast radius in CI, without a database or Django boot.
 
 ## Python Packages
