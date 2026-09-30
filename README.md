@@ -507,6 +507,7 @@ _Open source tools that deploy your app to servers you own._
 - [Kamal](https://kamal-deploy.org) - Deploy containers to any server over SSH with zero downtime, from Basecamp.
 - [Dokku](https://dokku.com) - Docker-powered PaaS with Heroku-style git push deploys.
 - [Piku](https://github.com/piku/piku) - Tiny Heroku-style PaaS for git push deploys to a single server.
+- [Peon](https://peon.sh) - Open-source self-hosted Docker PaaS for Git apps, Compose stacks, databases, and static sites on your own server.
 
 ## Projects
 
