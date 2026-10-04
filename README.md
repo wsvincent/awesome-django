@@ -547,7 +547,6 @@ _Open source tools that deploy your app to servers you own._
 - [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
 - [ioe](https://github.com/zhtyyx/ioe) - Self-hosted retail store management with inventory, sales checkout, and member accounts.
 
-
 ## Django REST Framework
 
 _The most popular way to build web APIs with Django._
