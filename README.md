@@ -545,6 +545,7 @@ _Open source tools that deploy your app to servers you own._
 - [venueless](https://github.com/venueless/venueless) - Platform for online and hybrid events with live streams, chat, and video rooms, from the pretix team.
 - [pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
 - [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
+- [ioe](https://github.com/zhtyyx/ioe) - Self-hosted retail store management with inventory, sales checkout, and member accounts.
 
 ## Django REST Framework
 
