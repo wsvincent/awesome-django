@@ -280,6 +280,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
 - [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
+- [django-permission-tracer](https://github.com/pradeeppc/django-permission-tracer) - Shows which DRF permissions protect each endpoint and HTTP method, with a dashboard and a CI check for endpoints open to anonymous users.
 
 ### Search
 - [django-haystack](https://github.com/django-haystack/django-haystack) - Modular search for Django.
