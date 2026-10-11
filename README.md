@@ -487,6 +487,7 @@ _Django 5_
 - [Railway](https://railway.app)
 - [Render](https://render.com)
 - [Vercel](https://vercel.com/home)
+- [Django Cloud](https://djangocloud.dev) - Managed hosting for Django apps on a dedicated AWS account, with Postgres, migrations, custom domains and rollbacks.
 
 ### IaaS (Infrastructure-as-a-Service)
 - [Digital Ocean](https://www.digitalocean.com)
@@ -498,6 +499,7 @@ _Django 5_
 _Hosted services that deploy your app to servers you rent elsewhere._
 - [Appliku](https://appliku.com) - Django-focused deployment service for servers on DigitalOcean, Hetzner, AWS, and Linode.
 - [DeployHQ](https://www.deployhq.com) - Deploys from Git to your servers over SSH, SFTP, or S3, with build steps and rollbacks.
+- [Django Cloud](https://djangocloud.dev) - Deploys Django apps to AWS Lightsail in your own AWS account from one CLI command or a GitHub push, with Postgres, migrations and rollbacks.
 
 ### Self-Hosted Deployment
 _Open source tools that deploy your app to servers you own._
