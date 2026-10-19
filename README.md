@@ -413,6 +413,7 @@ _A short list of Python packages that work well with Django._
 - [Django for Everybody](https://www.dj4e.com/) - A complete course for webdev beginners focused on Django.
 - [CS50W](https://cs50.harvard.edu/web/2020/) - Harvard's University introductory course to web development, it explains Django as backend framework.
 - [Better Simple](https://www.better-simple.com/blog/django/) - Articles from Tim Schilling about Django development, best practices, and the Django ecosystem.
+- [Securing a Django App Against SQL Injection](https://eyalsec.com/research/securing-a-django-app-against-sql-injection) - Guide to raw(), extra(), RawSQL, cursor.execute() and the ORM edge cases, with a regression test.
 
 ### Community
 <!--lint disable double-link-->
