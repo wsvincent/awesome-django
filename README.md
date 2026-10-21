@@ -426,6 +426,7 @@ _A short list of Python packages that work well with Django._
 - [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
 - IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
 - [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
+- [Django Commons](https://django-commons.org/) - The home for community-maintained Django packages.
 <!--lint enable double-link-->
 
 ### Conferences
