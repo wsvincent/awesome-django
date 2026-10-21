@@ -408,6 +408,9 @@ _A short list of Python packages that work well with Django._
 ### Books
 For a complete listing of in-print books, check out [DjangoBook.com](https://djangobook.com/).
 
+_Django 6+_
+- [Django for Beginners, 6th Edition](https://learndjango.com/courses/django-for-beginners/)
+
 _Django 5_
 - [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)
 - [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx)
