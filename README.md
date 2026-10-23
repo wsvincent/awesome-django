@@ -123,7 +123,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.
 - [django-cors-headers](https://github.com/adamchainz/django-cors-headers) - If your back-end and front-end are on different servers, you need this.
 - [dj-rest-auth](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework.
-- [django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django-rest-auth.
+- [django-rest-knox](https://github.com/django-commons/django-rest-knox) - Authentication Module for django-rest-auth.
 - [djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django auth.
 - [djaq](https://github.com/paul-wolf/djaq) - An instant remote API to Django models with a powerful query language.
 - [django-rest-framework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - JSON web tokens for DRF.
@@ -159,7 +159,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [confidential](https://github.com/candidco/confidential) - Manage configs and secrets (with CLI support).
 - [django-environ](https://github.com/joke2k/django-environ) - Environment variables.
 - [django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize multiple settings files.
-- [django-constance](https://github.com/jazzband/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
+- [django-constance](https://github.com/django-commons/django-constance) - A Django app for storing dynamic settings in pluggable backends (Redis and Django model backend built in) with an integration with the Django admin app.
 - [django-configurations](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 - [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 - [django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
@@ -202,12 +202,12 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files.
 - [django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Django app for processing images for thumbnail, black-and-white and sizes.
 - [django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP.
-- [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail) - Thumbnails for Django.
+- [sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail) - Thumbnails for Django.
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 - [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
-- [django-formtools](https://github.com/jazzband/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
+- [django-formtools](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 
