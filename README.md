@@ -561,6 +561,7 @@ _Open source tools that deploy your app to servers you own._
 - [pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, and other events.
 - [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool for the call for papers, scheduling, and speaker management.
 - [ioe](https://github.com/zhtyyx/ioe) - Self-hosted retail store management with inventory, sales checkout, and member accounts.
+- [Doory](https://github.com/shaongitbd/doory) - Self-hostable, open-source design editor and Canva alternative, built with Django, Django REST Framework and Channels.
 
 ## Django REST Framework
 
