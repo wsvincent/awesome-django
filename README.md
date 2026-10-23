@@ -66,6 +66,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
   - [Official Resources](#official-resources)
   - [Educational](#educational)
   - [Community](#community)
+  - [Programs](#programs)
   - [Conferences](#conferences)
   - [Job Boards](#job-boards)
   - [Newsletters](#newsletters)
@@ -394,6 +395,10 @@ _A short list of Python packages that work well with Django._
 - [Documentation](https://docs.djangoproject.com/en/dev/) - Comprehensive documentation for all Django versions.
 - [Polls Tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/) - Build a polls tutorial while learning Django internals.
 - [Source Code](https://github.com/django/django/) - Hosted on GitHub.
+- [Django Software Foundation](https://www.djangoproject.com/foundation/) - The non-profit behind Django, open to individual members.
+- [Mastodon](https://fosstodon.org/@django) - Official announcements on releases and security fixes.
+- [Bluesky](https://bsky.app/profile/djangoproject.com) - Official announcements on releases and security fixes.
+- [X (formerly Twitter)](https://x.com/djangoproject/) - Official announcements on releases and security fixes.
 
 ### Educational
 - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) - Use function-based views to build a blog app.
@@ -415,19 +420,25 @@ _A short list of Python packages that work well with Django._
 - [Better Simple](https://www.better-simple.com/blog/django/) - Articles from Tim Schilling about Django development, best practices, and the Django ecosystem.
 
 ### Community
+
+_Where to ask, answer, and find other Django people._
+
 <!--lint disable double-link-->
-- [Django Forum](https://forum.djangoproject.com/) - Official Discourse board.
+- [Django Forum](https://forum.djangoproject.com/) - Official Discourse board, and the preferred venue for both usage questions and development discussion.
+- [Discord Server](https://chat.djangoproject.com) - Django Discord Community.
+- [Reddit](https://www.reddit.com/r/django/) - The r/django subreddit.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/django) - Questions tagged django.
 - [Community Page](https://www.djangoproject.com/community/) - Featuring feeds of Community Blog Posts, Jobs, and more.
 - [Local Django Communities Page](https://www.djangoproject.com/community/local/) - Featuring local events all around the world.
-- [Django Users Google Group](https://groups.google.com/forum/#!forum/django-users/) - Very active discussion board for questions/answers.
-- [Developers Google Group](https://groups.google.com/forum/#!forum/django-developers/) - For contributions to Django itself only.
-- [Mastodon](https://fosstodon.org/@django) - For official announcements on updates, security fixes, etc.
-- [X (formerly Twitter)](https://x.com/djangoproject/) - For official announcements on updates, security fixes, etc.
-- [Discord Server](https://discord.com/invite/xcRH6mN4fa) - Django Discord Community.
-- IRC Channel - Chat with other Django users at irc://irc.freenode.net/django.
+<!--lint enable double-link-->
+
+### Programs
+
+_Community-run programs and organizations you can take part in._
+
 - [Djangonaut Space](https://djangonaut.space) - Free peer-mentoring program for the Django community to launch people into the universe of open source contributions.
 - [Django Commons](https://django-commons.org/) - The home for community-maintained Django packages.
-<!--lint enable double-link-->
+- [Django Girls](https://djangogirls.org/) - Free one-day workshops introducing women to programming with Python and Django, run by volunteers worldwide.
 
 ### Conferences
 
