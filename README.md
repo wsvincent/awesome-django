@@ -233,6 +233,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [iommi](https://github.com/iommirocks/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ### Internationalisation (i18n)
+- [Babelize](https://www.babelize.co) - Commercial service that marks strings with gettext, translates the project's `.po` files and sets `LANGUAGES` and `LOCALE_PATHS`, delivered as a GitHub pull request or via its CLI.
 - [django-localflavor](https://github.com/django/django-localflavor) - A collection of functionality that is useful for particular countries or cultures. Previously a part of the Django core.
 - [django-modeltrans](https://github.com/zostera/django-modeltrans) - Translate Django model fields in a JSONField.
 - [django-modeltranslations](https://github.com/deschler/django-modeltranslation) -  Translates Django models using a registration approach.
