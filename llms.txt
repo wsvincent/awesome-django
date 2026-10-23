@@ -49,6 +49,7 @@
   - [Official Resources](https://awesomedjango.org/#official-resources)
   - [Educational](https://awesomedjango.org/#educational)
   - [Community](https://awesomedjango.org/#community)
+  - [Programs](https://awesomedjango.org/#programs)
   - [Conferences](https://awesomedjango.org/#conferences)
   - [Job Boards](https://awesomedjango.org/#job-boards)
   - [Newsletters](https://awesomedjango.org/#newsletters)
