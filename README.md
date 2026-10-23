@@ -207,7 +207,6 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Forms
 - [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
-- [django-floppyforms](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
 - [django-formtools](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 - [django-widget-tweaks](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
