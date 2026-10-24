@@ -30,7 +30,7 @@ function checkTemplate(body) {
 
   const questions = [
     { n: 1, label: "How long has the project been maintained?" },
-    { n: 2, label: "How many releases has it had?" },
+    { n: 2, label: "How many releases has it had? (N/A if not a package)" },
     { n: 4, label: "What makes it awesome?" },
   ];
 
@@ -59,11 +59,19 @@ function checkTemplate(body) {
 
   const company = /^\s*-\s*\[x\].*on behalf of a company/im.test(authorship || "");
 
-  // Question 5 is optional: it asks paid products for a public pricing page.
+  // Question 5 asks whether the project is paid. Paid answers need a public pricing page.
+  // Pull requests opened before this question existed are not asked it.
   const pricing = section(criteria, /^\s*5\.\s+\*\*.*?\*\*/m, /^\s*6\.\s+\*\*|^----|^## /m);
+  const legacy = !/^\s*5\.\s+\*\*Is this a paid product or service\?\*\*/im.test(criteria);
+  const paid = /^\s*-\s*\[x\]\s*(yes|it is open source with a paid)/im.test(pricing || "");
   const hasPricing = /https?:\/\//i.test((pricing || "").replace(/_\(.*?\)_/gs, ""));
+  if (!legacy && !hasCheckedBox(pricing)) {
+    missing.push("Criteria 5: Is this a paid product or service? (check one box)");
+  } else if (!legacy && paid && !hasPricing) {
+    missing.push("Criteria 5: Pricing page (link required for paid products)");
+  }
 
-  return { missing, company, hasPricing };
+  return { missing, company, paid, hasPricing };
 }
 
 module.exports = { checkTemplate };
