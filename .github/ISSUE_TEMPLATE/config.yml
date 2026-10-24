@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Submit a project
+    url: https://github.com/wsvincent/awesome-django/blob/main/contributing.md
+    about: New projects are added by pull request, not by issue. Read the contribution guidelines first.
+  - name: Ask a question
+    url: https://github.com/wsvincent/awesome-django/discussions
+    about: Questions about the list or the submission process.
