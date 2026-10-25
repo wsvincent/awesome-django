@@ -313,6 +313,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [huey](https://github.com/coleifer/huey) - A little task queue for Python, with Django support including the new `django.tasks` API.
 - [django-ox](https://github.com/oxpull/django-ox) - Database-backed worker for Django's Tasks framework, with transactional enqueue, retries, recurring tasks, and no broker to run.
 - [django-absurd](https://github.com/lincolnloop/django-absurd) - Django integration for Absurd, a Postgres-native durable workflow system.
+- [django-crontask](https://github.com/codingjoe/django-crontask) - Cron style scheduler for asynchronous tasks in Django.
 
 ### Templates
 - [django-components](https://github.com/django-components/django-components/) - A way to create simple reusable template components in Django.
