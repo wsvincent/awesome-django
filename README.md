@@ -244,6 +244,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Monitoring
 - [django-prometheus](https://github.com/django-commons/django-prometheus) - Export Django monitoring metrics to Prometheus.
 - [django-mixin](https://github.com/adinhodovic/django-mixin) - Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.
+- [django-health-check](https://github.com/codingjoe/django-health-check) - Pluggable health checks for Django applications.
 
 ### Mailing
 - [django-pony-express](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
