@@ -150,6 +150,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-formtools](https://github.com/django-commons/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 - [django-widget-tweaks](https://github.com/django-commons/django-widget-tweaks) - Tweak form field rendering in templates.
 - [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
+- [django-select2](https://github.com/codingjoe/django-select2) - Custom autocomplete fields for Django.
 
 ### Full-stack frameworks
 - [Django LiveView](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
