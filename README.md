@@ -142,6 +142,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 
 ### Async
 - [channels](https://github.com/django/channels/) - Async support for Django.
+- [chanx](https://github.com/chanx-dev/chanx) - Typed consumers for Django Channels with Pydantic validation, DRF permission reuse, AsyncAPI 3.0 docs and generated clients.
 
 ### Caching
 - [django-cachalot](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
