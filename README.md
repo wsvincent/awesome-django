@@ -511,6 +511,7 @@ _Django 5_
 _Hosted services that deploy your app to servers you rent elsewhere._
 - [Appliku](https://appliku.com) - Django-focused deployment service for servers on DigitalOcean, Hetzner, AWS, and Linode.
 - [DeployHQ](https://www.deployhq.com) - Deploys from Git to your servers over SSH, SFTP, or S3, with build steps and rollbacks.
+- [Buddy](https://buddy.works/docs/basics/workflows/django) - Runs Django tests on each Git push, then uploads the app to your servers over SFTP and runs deploy commands over SSH.
 
 ### Self-Hosted Deployment
 _Open source tools that deploy your app to servers you own._
