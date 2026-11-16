@@ -365,7 +365,7 @@ Standalone tools that help in developing Django projects.
 ### Templates
 - [curlylint](https://www.curlylint.org/) - Experimental HTML templates linting for Jinja, Nunjucks, Django templates, Twig, Liquid.
 - [djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter.
-- [djLint](https://www.djlint.com/) - Linter and formatter for Django, Jinja, Nunjucks, Twig, Handlebars and other HTML templates, with a language server for editors.
+- [djLint](https://djlint.com/) - Linter and formatter for Django, Jinja, Nunjucks, Twig, Handlebars and other HTML templates, with a language server for editors.
 
 ### Static Analysis
 - [django-orm-lens](https://github.com/FROWNINGdev/django-orm-lens) - Model-level static analysis: ER diagrams, N+1 detection, schema drift, and blast radius in CI, without a database or Django boot.
