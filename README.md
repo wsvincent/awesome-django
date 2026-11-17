@@ -499,6 +499,7 @@ _Django 5_
 - [PythonAnywhere](https://www.pythonanywhere.com)
 - [Railway](https://railway.app)
 - [Render](https://render.com)
+- [Sevalla](https://sevalla.com/)
 - [Vercel](https://vercel.com/home)
 
 ### IaaS (Infrastructure-as-a-Service)
