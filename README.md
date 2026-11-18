@@ -177,6 +177,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-cms](https://github.com/django-cms/django-cms) - CMS for Django.
 - [feincms](https://github.com/feincms/feincms) - An extensible Django-based CMS.
 - [puput](https://github.com/APSL/puput) - Blog app features with Wagtail.
+- [wagtail-kanban-content-calendar](https://github.com/JR91387/wagtail-kanban-content-calendar) - Kanban board and content calendar for Wagtail.
 <!--lint enable double-link-->
 
 ### Database Connectors
